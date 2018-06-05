@@ -1,4872 +1,4931 @@
 var database = {
-  "recipes": {
-    "ground": {
-        "design": {
-            "name": "Ground Type",
-            "image": "ground.jpg"
-        },
-        "unique": [
-        {
-            "Tiny mushrooms": 3,
-            "Fossils": 2
-        },
-        {
-            "Tiny mushrooms": 3,
-            "Fossils": 1,
-            "Icy rocks": 1
-        },
-        {
-            "Tiny mushrooms": 3,
-            "Icy rocks": 2
-        },
-        {
-            "Tiny mushrooms": 2,
-            "Bluk berries": 1,
-            "Fossils": 2
-        },
-        {
-            "Tiny mushrooms": 2,
-            "Bluk berries": 1,
-            "Fossils": 1,
-            "Icy rocks": 1
-        },
-        {
-            "Tiny mushrooms": 2,
-            "Bluk berries": 1,
-            "Icy rocks": 2
-        },
-        {
-            "Tiny mushrooms": 2,
-            "Fossils": 2,
-            "Big roots": 1
-        },
-        {
-            "Tiny mushrooms": 2,
-            "Fossils": 2,
-            "Honey": 1
-        },
-        {
-            "Tiny mushrooms": 2,
-            "Fossils": 1,
-            "Big roots": 1,
-            "Icy rocks": 1
-        },
-        {
-            "Tiny mushrooms": 2,
-            "Fossils": 1,
-            "Icy rocks": 1,
-            "Honey": 1
-        },
-        {
-            "Tiny mushrooms": 2,
-            "Big roots": 1,
-            "Icy rocks": 2
-        },
-        {
-            "Tiny mushrooms": 2,
-            "Icy rocks": 2,
-            "Honey": 1
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Bluk berries": 2,
-            "Fossils": 2
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Bluk berries": 2,
-            "Fossils": 1,
-            "Icy rocks": 1
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Bluk berries": 1,
-            "Fossils": 2,
-            "Big roots": 1
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Bluk berries": 1,
-            "Fossils": 2,
-            "Honey": 1
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Bluk berries": 1,
-            "Fossils": 2,
-            "Balm mushrooms": 1
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Bluk berries": 1,
-            "Fossils": 1,
-            "Big roots": 1,
-            "Icy rocks": 1
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Bluk berries": 1,
-            "Fossils": 1,
-            "Icy rocks": 1,
-            "Honey": 1
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Bluk berries": 1,
-            "Fossils": 1,
-            "Icy rocks": 1,
-            "Balm mushrooms": 1
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Bluk berries": 1,
-            "Big roots": 1,
-            "Icy rocks": 2
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Bluk berries": 1,
-            "Icy rocks": 2,
-            "Honey": 1
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Bluk berries": 1,
-            "Icy rocks": 2,
-            "Balm mushrooms": 1
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Fossils": 2,
-            "Big roots": 2
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Fossils": 2,
-            "Big roots": 1,
-            "Honey": 1
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Fossils": 2,
-            "Big roots": 1,
-            "Balm mushrooms": 1
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Fossils": 2,
-            "Honey": 2
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Fossils": 2,
-            "Honey": 1,
-            "Balm mushrooms": 1
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Fossils": 1,
-            "Big roots": 2,
-            "Icy rocks": 1
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Fossils": 1,
-            "Big roots": 1,
-            "Icy rocks": 1,
-            "Honey": 1
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Fossils": 1,
-            "Big roots": 1,
-            "Icy rocks": 1,
-            "Balm mushrooms": 1
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Fossils": 1,
-            "Icy rocks": 1,
-            "Honey": 2
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Fossils": 1,
-            "Icy rocks": 1,
-            "Honey": 1,
-            "Balm mushrooms": 1
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Fossils": 1,
-            "Icy rocks": 1,
-            "Balm mushrooms": 2
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Big roots": 2,
-            "Icy rocks": 2
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Big roots": 1,
-            "Icy rocks": 2,
-            "Honey": 1
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Big roots": 1,
-            "Icy rocks": 2,
-            "Balm mushrooms": 1
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Icy rocks": 2,
-            "Honey": 2
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Icy rocks": 2,
-            "Honey": 1,
-            "Balm mushrooms": 1
-        },
-        {
-            "Tiny mushrooms": 1,
-            "Icy rocks": 2,
-            "Balm mushrooms": 2
-        },
-        {
-            "Bluk berries": 2,
-            "Fossils": 2,
-            "Big roots": 1
-        },
-        {
-            "Bluk berries": 2,
-            "Fossils": 2,
-            "Balm mushrooms": 1
-        },
-        {
-            "Bluk berries": 2,
-            "Fossils": 1,
-            "Big roots": 1,
-            "Icy rocks": 1
-        },
-        {
-            "Bluk berries": 2,
-            "Fossils": 1,
-            "Icy rocks": 1,
-            "Balm mushrooms": 1
-        },
-        {
-            "Bluk berries": 1,
-            "Fossils": 2,
-            "Big roots": 2
-        },
-        {
-            "Bluk berries": 1,
-            "Fossils": 2,
-            "Big roots": 1,
-            "Honey": 1
-        },
-        {
-            "Bluk berries": 1,
-            "Fossils": 2,
-            "Big roots": 1,
-            "Balm mushrooms": 1
-        },
-        {
-            "Bluk berries": 1,
-            "Fossils": 2,
-            "Honey": 1,
-            "Balm mushrooms": 1
-        },
-        {
-            "Bluk berries": 1,
-            "Fossils": 1,
-            "Big roots": 2,
-            "Icy rocks": 1
-        },
-        {
-            "Bluk berries": 1,
-            "Fossils": 1,
-            "Big roots": 1,
-            "Icy rocks": 1,
-            "Honey": 1
-        },
-        {
-            "Bluk berries": 1,
-            "Fossils": 1,
-            "Big roots": 1,
-            "Icy rocks": 1,
-            "Balm mushrooms": 1
-        },
-        {
-            "Bluk berries": 1,
-            "Fossils": 1,
-            "Icy rocks": 1,
-            "Honey": 1,
-            "Balm mushrooms": 1
-        },
-        {
-            "Bluk berries": 1,
-            "Fossils": 1,
-            "Icy rocks": 1,
-            "Balm mushrooms": 2
-        },
-        {
-            "Bluk berries": 1,
-            "Big roots": 2,
-            "Icy rocks": 2
-        },
-        {
-            "Bluk berries": 1,
-            "Big roots": 1,
-            "Icy rocks": 2,
-            "Honey": 1
-        },
-        {
-            "Bluk berries": 1,
-            "Big roots": 1,
-            "Icy rocks": 2,
-            "Balm mushrooms": 1
-        },
-        {
-            "Bluk berries": 1,
-            "Icy rocks": 2,
-            "Honey": 1,
-            "Balm mushrooms": 1
-        },
-        {
-            "Bluk berries": 1,
-            "Icy rocks": 2,
-            "Balm mushrooms": 2
-        },
-        {
-            "Fossils": 2,
-            "Big roots": 3
-        },
-        {
-            "Fossils": 2,
-            "Big roots": 2,
-            "Honey": 1
-        },
-        {
-            "Fossils": 2,
-            "Big roots": 2,
-            "Balm mushrooms": 1
-        },
-        {
-            "Fossils": 2,
-            "Big roots": 1,
-            "Honey": 2
-        },
-        {
-            "Fossils": 2,
-            "Big roots": 1,
-            "Honey": 1,
-            "Balm mushrooms": 1
-        },
-        {
-            "Fossils": 2,
-            "Honey": 2,
-            "Balm mushrooms": 1
-        },
-        {
-            "Fossils": 1,
-            "Big roots": 3,
-            "Icy rocks": 1
-        },
-        {
-            "Fossils": 1,
-            "Big roots": 2,
-            "Icy rocks": 1,
-            "Honey": 1
-        },
-        {
-            "Fossils": 1,
-            "Big roots": 2,
-            "Icy rocks": 1,
-            "Balm mushrooms": 1
-        },
-        {
-            "Fossils": 1,
-            "Big roots": 1,
-            "Icy rocks": 1,
-            "Honey": 2
-        },
-        {
-            "Fossils": 1,
-            "Big roots": 1,
-            "Icy rocks": 1,
-            "Honey": 1,
-            "Balm mushrooms": 1
-        },
-        {
-            "Fossils": 1,
-            "Big roots": 1,
-            "Icy rocks": 1,
-            "Balm mushrooms": 2
-        },
-        {
-            "Fossils": 1,
-            "Icy rocks": 1,
-            "Honey": 2,
-            "Balm mushrooms": 1
-        },
-        {
-            "Fossils": 1,
-            "Icy rocks": 1,
-            "Honey": 1,
-            "Balm mushrooms": 2
-        },
-        {
-            "Big roots": 3,
-            "Icy rocks": 2
-        },
-        {
-            "Big roots": 2,
-            "Icy rocks": 2,
-            "Honey": 1
-        },
-        {
-            "Big roots": 2,
-            "Icy rocks": 2,
-            "Balm mushrooms": 1
-        },
-        {
-            "Big roots": 1,
-            "Icy rocks": 2,
-            "Honey": 2
-        },
-        {
-            "Big roots": 1,
-            "Icy rocks": 2,
-            "Honey": 1,
-            "Balm mushrooms": 1
-        },
-        {
-            "Big roots": 1,
-            "Icy rocks": 2,
-            "Balm mushrooms": 2
-        },
-        {
-            "Icy rocks": 2,
-            "Honey": 2,
-            "Balm mushrooms": 1
-        },
-        {
-            "Icy rocks": 2,
-            "Honey": 1,
-            "Balm mushrooms": 2
-        },
-        {
-            "Icy rocks": 2,
-            "Balm mushrooms": 3
-        }
-        ],
-        "shared": {
-            "Brain Food (Psychic Pokemon)": [
-            {
-              "Bluk berries": 3,
-              "Fossils": 2
-          },
-          {
-              "Bluk berries": 3,
-              "Fossils": 1,
-              "Icy rocks": 1
-          },
-          {
-              "Bluk berries": 3,
-              "Icy rocks": 2
-          },
-          {
-              "Bluk berries": 2,
-              "Fossils": 2,
-              "Honey": 1
-          },
-          {
-              "Bluk berries": 2,
-              "Fossils": 1,
-              "Icy rocks": 1,
-              "Honey": 1
-          },
-          {
-              "Bluk berries": 2,
-              "Icy rocks": 2,
-              "Honey": 1
-          },
-          {
-              "Bluk berries": 1,
-              "Fossils": 2,
-              "Honey": 2
-          },
-          {
-              "Bluk berries": 1,
-              "Fossils": 1,
-              "Icy rocks": 1,
-              "Honey": 2
-          },
-          {
-              "Bluk berries": 1,
-              "Icy rocks": 2,
-              "Honey": 2
-          },
-          {
-              "Fossils": 2,
-              "Honey": 3
-          },
-          {
-              "Fossils": 1,
-              "Icy rocks": 1,
-              "Honey": 3
-          },
-          {
-              "Icy rocks": 2,
-              "Honey": 3
-          }
-          ],
-          "Hot Pot (Fire Pokemon)": [
-          {
-              "Tiny mushrooms": 2,
-              "Fossils": 2,
-              "Balm mushrooms": 1
-          },
-          {
-              "Tiny mushrooms": 2,
-              "Fossils": 1,
-              "Icy rocks": 1,
-              "Balm mushrooms": 1
-          },
-          {
-              "Tiny mushrooms": 2,
-              "Icy rocks": 2,
-              "Balm mushrooms": 1
-          }
-          ],
-          "Plain Crepe (Normal Pokemon)": [
-          {
-              "Bluk berries": 3,
-              "Fossils": 2
-          },
-          {
-              "Bluk berries": 2,
-              "Fossils": 2,
-              "Honey": 1
-          },
-          {
-              "Bluk berries": 1,
-              "Fossils": 2,
-              "Honey": 2
-          },
-          {
-              "Fossils": 2,
-              "Honey": 3
-          }
-          ],
-          "Blue Soda": [
-          {
-              "Tiny mushrooms": 1,
-              "Bluk berries": 2,
-              "Icy rocks": 2
-          },
-          {
-              "Bluk berries": 3,
-              "Fossils": 1,
-              "Icy rocks": 1
-          },
-          {
-              "Bluk berries": 3,
-              "Icy rocks": 2
-          },
-          {
-              "Bluk berries": 2,
-              "Big roots": 1,
-              "Icy rocks": 2
-          },
-          {
-              "Bluk berries": 2,
-              "Icy rocks": 2,
-              "Honey": 1
-          },
-          {
-              "Bluk berries": 2,
-              "Icy rocks": 2,
-              "Balm mushrooms": 1
-          }
-          ],
-          "Gray Porridge": [
-          {
-              "Tiny mushrooms": 1,
-              "Fossils": 2,
-              "Balm mushrooms": 2
-          },
-          {
-              "Bluk berries": 1,
-              "Fossils": 2,
-              "Balm mushrooms": 2
-          },
-          {
-              "Fossils": 2,
-              "Big roots": 1,
-              "Balm mushrooms": 2
-          },
-          {
-              "Fossils": 2,
-              "Honey": 1,
-              "Balm mushrooms": 2
-          },
-          {
-              "Fossils": 2,
-              "Balm mushrooms": 3
-          },
-          {
-              "Fossils": 1,
-              "Icy rocks": 1,
-              "Balm mushrooms": 3
-          }
-          ]
-      }
-  },
-  "grass": {
-      "design": {
-        "name": "Grass Type",
-        "image": "grass.jpg"
-    },
-    "unique": [
-    {
-        "Tiny mushrooms": 1,
-        "Apricorns": 2,
-        "Big roots": 2
-    },
-    {
-        "Bluk berries": 1,
-        "Apricorns": 2,
-        "Big roots": 2
-    },
-    {
-        "Apricorns": 2,
-        "Big roots": 3
-    },
-    {
-        "Apricorns": 2,
-        "Big roots": 2,
-        "Honey": 1
-    },
-    {
-        "Apricorns": 2,
-        "Big roots": 2,
-        "Balm mushrooms": 1
-    },
-    {
-        "Apricorns": 1,
-        "Fossils": 1,
-        "Big roots": 3
-    },
-    {
-        "Apricorns": 1,
-        "Big roots": 3,
-        "Icy rocks": 1
-    }
-    ],
-    "shared": {}
-},
-"psychic": {
-  "design": {
-    "name": "Psychic Type",
-    "image": "psychic.jpg"
-},
-"unique": [
-{
-    "Bluk berries": 3,
-    "Apricorns": 2
-},
-{
-    "Bluk berries": 3,
-    "Apricorns": 1,
-    "Fossils": 1
-},
-{
-    "Bluk berries": 2,
-    "Apricorns": 2,
-    "Honey": 1
-},
-{
-    "Bluk berries": 2,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Honey": 1
-},
-{
-    "Bluk berries": 2,
-    "Apricorns": 1,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Honey": 2
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Icy rocks": 1,
-    "Honey": 2
-}
-],
-"shared": {
-    "Mud Pie (Ground Pokemon)": [
-    {
-      "Bluk berries": 3,
-      "Fossils": 2
-  },
-  {
-      "Bluk berries": 3,
-      "Fossils": 1,
-      "Icy rocks": 1
-  },
-  {
-      "Bluk berries": 3,
-      "Icy rocks": 2
-  },
-  {
-      "Bluk berries": 2,
-      "Fossils": 2,
-      "Honey": 1
-  },
-  {
-      "Bluk berries": 2,
-      "Fossils": 1,
-      "Icy rocks": 1,
-      "Honey": 1
-  },
-  {
-      "Bluk berries": 2,
-      "Icy rocks": 2,
-      "Honey": 1
-  },
-  {
-      "Bluk berries": 1,
-      "Fossils": 2,
-      "Honey": 2
-  },
-  {
-      "Bluk berries": 1,
-      "Fossils": 1,
-      "Icy rocks": 1,
-      "Honey": 2
-  },
-  {
-      "Bluk berries": 1,
-      "Icy rocks": 2,
-      "Honey": 2
-  },
-  {
-      "Fossils": 2,
-      "Honey": 3
-  },
-  {
-      "Fossils": 1,
-      "Icy rocks": 1,
-      "Honey": 3
-  },
-  {
-      "Icy rocks": 2,
-      "Honey": 3
-  }
-  ],
-  "Plain Crepe (Normal Pokemon)": [
-  {
-      "Bluk berries": 3,
-      "Fossils": 2
-  },
-  {
-      "Bluk berries": 2,
-      "Fossils": 2,
-      "Honey": 1
-  },
-  {
-      "Bluk berries": 1,
-      "Fossils": 2,
-      "Honey": 2
-  },
-  {
-      "Fossils": 2,
-      "Honey": 3
-  }
-  ],
-  "Yellow Curry": [
-  {
-      "Bluk berries": 1,
-      "Apricorns": 2,
-      "Honey": 2
-  },
-  {
-      "Apricorns": 2,
-      "Honey": 3
-  },
-  {
-      "Apricorns": 1,
-      "Fossils": 1,
-      "Honey": 3
-  },
-  {
-      "Apricorns": 1,
-      "Icy rocks": 1,
-      "Honey": 3
-  }
-  ],
-  "Blue Soda": [
-  {
-      "Bluk berries": 3,
-      "Apricorns": 1,
-      "Icy rocks": 1
-  },
-  {
-      "Bluk berries": 3,
-      "Fossils": 1,
-      "Icy rocks": 1
-  },
-  {
-      "Bluk berries": 3,
-      "Icy rocks": 2
-  },
-  {
-      "Bluk berries": 2,
-      "Icy rocks": 2,
-      "Honey": 1
-  }
-  ]
-}
-},
-"rock": {
-  "design": {
-    "name": "Rock Type",
-    "image": "rock.jpg"
-},
-"unique": [
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 2,
-    "Fossils": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 2,
-    "Fossils": 1,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 2,
-    "Icy rocks": 2
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 2,
-    "Fossils": 2
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 2,
-    "Fossils": 1,
-    "Icy rocks": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 2,
-    "Icy rocks": 2
-},
-{
-    "Apricorns": 3,
-    "Fossils": 2
-},
-{
-    "Apricorns": 3,
-    "Fossils": 1,
-    "Icy rocks": 1
-},
-{
-    "Apricorns": 3,
-    "Icy rocks": 2
-},
-{
-    "Apricorns": 2,
-    "Fossils": 2,
-    "Big roots": 1
-},
-{
-    "Apricorns": 2,
-    "Fossils": 2,
-    "Honey": 1
-},
-{
-    "Apricorns": 2,
-    "Fossils": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 2,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Icy rocks": 1
-},
-{
-    "Apricorns": 2,
-    "Fossils": 1,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Apricorns": 2,
-    "Fossils": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 2,
-    "Big roots": 1,
-    "Icy rocks": 2
-},
-{
-    "Apricorns": 2,
-    "Icy rocks": 2,
-    "Honey": 1
-},
-{
-    "Apricorns": 2,
-    "Icy rocks": 2,
-    "Balm mushrooms": 1
-}
-],
-"shared": {}
-},
-"fire": {
-  "design": {
-    "name": "Fire Type",
-    "image": "fire.jpg"
-},
-"unique": [
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Fossils": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Icy rocks": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Honey": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Big roots": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Big roots": 1,
-    "Honey": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Big roots": 2,
-    "Balm mushrooms": 3
-}
-],
-"shared": {
-    "Mud Pie (Ground Pokemon)": [
-    {
-      "Tiny mushrooms": 2,
-      "Fossils": 2,
-      "Balm mushrooms": 1
-  },
-  {
-      "Tiny mushrooms": 2,
-      "Fossils": 1,
-      "Icy rocks": 1,
-      "Balm mushrooms": 1
-  },
-  {
-      "Tiny mushrooms": 2,
-      "Icy rocks": 2,
-      "Balm mushrooms": 1
-  }
-  ]
-}
-},
-"electric": {
-  "design": {
-    "name": "Electric Type",
-    "image": "electric.jpg"
-},
-"unique": [
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 1,
-    "Honey": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Honey": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Honey": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Honey": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 1,
-    "Honey": 3
-},
-{
-    "Tiny mushrooms": 1,
-    "Big roots": 1,
-    "Honey": 3
-},
-{
-    "Tiny mushrooms": 1,
-    "Icy rocks": 1,
-    "Honey": 3
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Honey": 2
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Honey": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Big roots": 2,
-    "Honey": 2
-},
-{
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Honey": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Honey": 2,
-    "Balm mushrooms": 2
-},
-{
-    "Fossils": 1,
-    "Big roots": 1,
-    "Honey": 3
-},
-{
-    "Big roots": 2,
-    "Honey": 3
-},
-{
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Honey": 3
-},
-{
-    "Big roots": 1,
-    "Honey": 3,
-    "Balm mushrooms": 1
-},
-{
-    "Icy rocks": 1,
-    "Honey": 3,
-    "Balm mushrooms": 1
-}
-],
-"shared": {
-    "Plain Crepe (Normal Pokemon)": [
-    {
-      "Fossils": 1,
-      "Honey": 3,
-      "Balm mushrooms": 1
-  },
-  {
-      "Honey": 3,
-      "Balm mushrooms": 2
-  }
-  ],
-  "Get Swole (Fighting Pokemon)": [
-  {
-      "Tiny mushrooms": 2,
-      "Honey": 3
-  },
-  {
-      "Tiny mushrooms": 1,
-      "Honey": 3,
-      "Balm mushrooms": 1
-  },
-  {
-      "Honey": 3,
-      "Balm mushrooms": 2
-  }
-  ],
-  "Honey Nectar (Bug Pokemon)": [
-  {
-      "Tiny mushrooms": 1,
-      "Bluk berries": 1,
-      "Honey": 3
-  },
-  {
-      "Bluk berries": 2,
-      "Apricorns": 1,
-      "Honey": 2
-  },
-  {
-      "Bluk berries": 2,
-      "Honey": 3
-  },
-  {
-      "Bluk berries": 1,
-      "Fossils": 1,
-      "Honey": 3
-  },
-  {
-      "Bluk berries": 1,
-      "Big roots": 1,
-      "Honey": 3
-  },
-  {
-      "Bluk berries": 1,
-      "Icy rocks": 1,
-      "Honey": 3
-  },
-  {
-      "Bluk berries": 1,
-      "Honey": 3,
-      "Balm mushrooms": 1
-  }
-  ]
-}
-},
-"water": {
-  "design": {
-    "name": "Water Type",
-    "image": "water.jpg"
-},
-"unique": [
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 3,
-    "Honey": 1
-},
-{
-    "Bluk berries": 3,
-    "Apricorns": 1,
-    "Honey": 1
-},
-{
-    "Bluk berries": 3,
-    "Fossils": 1,
-    "Honey": 1
-},
-{
-    "Bluk berries": 3,
-    "Big roots": 1,
-    "Honey": 1
-},
-{
-    "Bluk berries": 3,
-    "Honey": 2
-},
-{
-    "Bluk berries": 3,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 2,
-    "Icy rocks": 1,
-    "Honey": 2
-}
-],
-"shared": {}
-},
-"poison": {
-  "design": {
-    "name": "Poison Type",
-    "image": "poison.jpg"
-},
-"unique": [
-{
-    "Tiny mushrooms": 3,
-    "Bluk berries": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 3,
-    "Apricorns": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 3,
-    "Fossils": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 3,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 3,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 3,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 2,
-    "Fossils": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 2,
-    "Big roots": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 2,
-    "Icy rocks": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 2,
-    "Honey": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 2,
-    "Balm mushrooms": 3
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Balm mushrooms": 3
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Balm mushrooms": 3
-},
-{
-    "Tiny mushrooms": 1,
-    "Big roots": 1,
-    "Balm mushrooms": 3
-},
-{
-    "Tiny mushrooms": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 3
-},
-{
-    "Tiny mushrooms": 1,
-    "Honey": 1,
-    "Balm mushrooms": 3
-}
-],
-"shared": {
-    "Red Stew": [
-    {
-      "Tiny mushrooms": 5
-  },
-  {
-      "Tiny mushrooms": 4,
-      "Bluk berries": 1
-  },
-  {
-      "Tiny mushrooms": 4,
-      "Apricorns": 1
-  },
-  {
-      "Tiny mushrooms": 4,
-      "Fossils": 1
-  },
-  {
-      "Tiny mushrooms": 4,
-      "Big roots": 1
-  },
-  {
-      "Tiny mushrooms": 4,
-      "Icy rocks": 1
-  },
-  {
-      "Tiny mushrooms": 4,
-      "Honey": 1
-  },
-  {
-      "Tiny mushrooms": 4,
-      "Balm mushrooms": 1
-  },
-  {
-      "Tiny mushrooms": 3,
-      "Big roots": 1,
-      "Balm mushrooms": 1
-  }
-  ],
-  "Gray Porridge": [
-  {
-      "Tiny mushrooms": 1,
-      "Fossils": 1,
-      "Balm mushrooms": 3
-  },
-  {
-      "Tiny mushrooms": 1,
-      "Balm mushrooms": 4
-  },
-  {
-      "Bluk berries": 1,
-      "Balm mushrooms": 4
-  },
-  {
-      "Apricorns": 1,
-      "Balm mushrooms": 4
-  },
-  {
-      "Fossils": 1,
-      "Balm mushrooms": 4
-  },
-  {
-      "Big roots": 1,
-      "Balm mushrooms": 4
-  },
-  {
-      "Icy rocks": 1,
-      "Balm mushrooms": 4
-  },
-  {
-      "Honey": 1,
-      "Balm mushrooms": 4
-  },
-  {
-      "Balm mushrooms": 5
-  }
-  ]
-}
-},
-"normal": {
-  "design": {
-    "name": "Normal Type",
-    "image": "normal.jpg"
-},
-"unique": [
-{
-    "Bluk berries": 3,
-    "Fossils": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 2,
-    "Fossils": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Honey": 2,
-    "Balm mushrooms": 1
-}
-],
-"shared": {
-    "Mud Pie (Ground Pokemon)": [
-    {
-      "Bluk berries": 3,
-      "Fossils": 2
-  },
-  {
-      "Bluk berries": 2,
-      "Fossils": 2,
-      "Honey": 1
-  },
-  {
-      "Bluk berries": 1,
-      "Fossils": 2,
-      "Honey": 2
-  },
-  {
-      "Fossils": 2,
-      "Honey": 3
-  }
-  ],
-  "Brain Food (Psychic Pokemon)": [
-  {
-      "Bluk berries": 3,
-      "Fossils": 2
-  },
-  {
-      "Bluk berries": 2,
-      "Fossils": 2,
-      "Honey": 1
-  },
-  {
-      "Bluk berries": 1,
-      "Fossils": 2,
-      "Honey": 2
-  },
-  {
-      "Fossils": 2,
-      "Honey": 3
-  }
-  ],
-  "Watt a Risotto (Electric Pokemon)": [
-  {
-      "Fossils": 1,
-      "Honey": 3,
-      "Balm mushrooms": 1
-  },
-  {
-      "Honey": 3,
-      "Balm mushrooms": 2
-  }
-  ],
-  "Get Swole (Fighting Pokemon)": [
-  {
-      "Bluk berries": 3,
-      "Balm mushrooms": 2
-  },
-  {
-      "Bluk berries": 2,
-      "Honey": 1,
-      "Balm mushrooms": 2
-  },
-  {
-      "Bluk berries": 1,
-      "Honey": 2,
-      "Balm mushrooms": 2
-  },
-  {
-      "Honey": 3,
-      "Balm mushrooms": 2
-  }
-  ]
-}
-},
-"fighting": {
-  "design": {
-    "name": "Fighting Type",
-    "image": "fighting.jpg"
-},
-"unique": [
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 3
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 2,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 1,
-    "Honey": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 3,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 2,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Honey": 2,
-    "Balm mushrooms": 1
-}
-],
-"shared": {
-    "Watt a Risotto (Electric Pokemon)": [
-    {
-      "Tiny mushrooms": 2,
-      "Honey": 3
-  },
-  {
-      "Tiny mushrooms": 1,
-      "Honey": 3,
-      "Balm mushrooms": 1
-  },
-  {
-      "Honey": 3,
-      "Balm mushrooms": 2
-  }
-  ],
-  "Plain Crepe (Normal Pokemon)": [
-  {
-      "Bluk berries": 3,
-      "Balm mushrooms": 2
-  },
-  {
-      "Bluk berries": 2,
-      "Honey": 1,
-      "Balm mushrooms": 2
-  },
-  {
-      "Bluk berries": 1,
-      "Honey": 2,
-      "Balm mushrooms": 2
-  },
-  {
-      "Honey": 3,
-      "Balm mushrooms": 2
-  }
-  ]
-}
-},
-"flying": {
-  "design": {
-    "name": "Flying Type",
-    "image": "flying.jpg"
-},
-"unique": [
-{
-    "Apricorns": 2,
-    "Fossils": 3
-},
-{
-    "Apricorns": 2,
-    "Fossils": 2,
-    "Icy rocks": 1
-},
-{
-    "Apricorns": 2,
-    "Fossils": 1,
-    "Icy rocks": 2
-},
-{
-    "Apricorns": 2,
-    "Icy rocks": 3
-},
-{
-    "Apricorns": 1,
-    "Fossils": 3,
-    "Big roots": 1
-},
-{
-    "Apricorns": 1,
-    "Fossils": 2,
-    "Big roots": 1,
-    "Icy rocks": 1
-},
-{
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Icy rocks": 2
-},
-{
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Icy rocks": 3
-},
-{
-    "Fossils": 3,
-    "Big roots": 2
-},
-{
-    "Fossils": 2,
-    "Big roots": 2,
-    "Icy rocks": 1
-},
-{
-    "Fossils": 1,
-    "Big roots": 2,
-    "Icy rocks": 2
-},
-{
-    "Big roots": 2,
-    "Icy rocks": 3
-}
-],
-"shared": {}
-},
-"bug": {
-  "design": {
-    "name": "Bug Type",
-    "image": "bug.jpg"
-},
-"unique": [],
-"shared": {
-    "Watt a Risotto (Electric Pokemon)": [
-    {
-      "Tiny mushrooms": 1,
-      "Bluk berries": 1,
-      "Honey": 3
-  },
-  {
-      "Bluk berries": 2,
-      "Apricorns": 1,
-      "Honey": 2
-  },
-  {
-      "Bluk berries": 2,
-      "Honey": 3
-  },
-  {
-      "Bluk berries": 1,
-      "Fossils": 1,
-      "Honey": 3
-  },
-  {
-      "Bluk berries": 1,
-      "Big roots": 1,
-      "Honey": 3
-  },
-  {
-      "Bluk berries": 1,
-      "Icy rocks": 1,
-      "Honey": 3
-  },
-  {
-      "Bluk berries": 1,
-      "Honey": 3,
-      "Balm mushrooms": 1
-  }
-  ]
-}
-},
-"red": {
-  "design": {
-    "name": "Red Stew Type",
-    "image": "red.jpg"
-},
-"unique": [
-{
-    "Tiny mushrooms": 3,
-    "Bluk berries": 1,
-    "Big roots": 1
-},
-{
-    "Tiny mushrooms": 3,
-    "Apricorns": 1,
-    "Big roots": 1
-},
-{
-    "Tiny mushrooms": 3,
-    "Fossils": 1,
-    "Big roots": 1
-},
-{
-    "Tiny mushrooms": 3,
-    "Big roots": 2
-},
-{
-    "Tiny mushrooms": 3,
-    "Big roots": 1,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 3,
-    "Big roots": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 1,
-    "Big roots": 2
-},
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 1,
-    "Big roots": 2
-},
-{
-    "Tiny mushrooms": 2,
-    "Fossils": 1,
-    "Big roots": 2
-},
-{
-    "Tiny mushrooms": 2,
-    "Big roots": 3
-},
-{
-    "Tiny mushrooms": 2,
-    "Big roots": 2,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Big roots": 2,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Big roots": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Big roots": 3
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Big roots": 3
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 1,
-    "Big roots": 3
-},
-{
-    "Tiny mushrooms": 1,
-    "Big roots": 4
-},
-{
-    "Tiny mushrooms": 1,
-    "Big roots": 3,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Big roots": 3,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Big roots": 3,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Big roots": 4
-},
-{
-    "Apricorns": 1,
-    "Big roots": 4
-},
-{
-    "Fossils": 1,
-    "Big roots": 4
-},
-{
-    "Big roots": 5
-},
-{
-    "Big roots": 4,
-    "Icy rocks": 1
-},
-{
-    "Big roots": 4,
-    "Honey": 1
-},
-{
-    "Big roots": 4,
-    "Balm mushrooms": 1
-}
-],
-"shared": {
-    "Sludge Soup (Poison Pokemon)": [
-    {
-      "Tiny mushrooms": 5
-  },
-  {
-      "Tiny mushrooms": 4,
-      "Bluk berries": 1
-  },
-  {
-      "Tiny mushrooms": 4,
-      "Apricorns": 1
-  },
-  {
-      "Tiny mushrooms": 4,
-      "Fossils": 1
-  },
-  {
-      "Tiny mushrooms": 4,
-      "Big roots": 1
-  },
-  {
-      "Tiny mushrooms": 4,
-      "Icy rocks": 1
-  },
-  {
-      "Tiny mushrooms": 4,
-      "Honey": 1
-  },
-  {
-      "Tiny mushrooms": 4,
-      "Balm mushrooms": 1
-  },
-  {
-      "Tiny mushrooms": 3,
-      "Big roots": 1,
-      "Balm mushrooms": 1
-  }
-  ]
-}
-},
-"yellow": {
-  "design": {
-    "name": "yellowCurry Type",
-    "image": "yellow.jpg"
-},
-"unique": [
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 4
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 3,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 2,
-    "Honey": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Honey": 3
-},
-{
-    "Tiny mushrooms": 1,
-    "Honey": 4
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 4
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 3,
-    "Honey": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Honey": 3
-},
-{
-    "Bluk berries": 1,
-    "Honey": 4
-},
-{
-    "Apricorns": 5
-},
-{
-    "Apricorns": 4,
-    "Fossils": 1
-},
-{
-    "Apricorns": 4,
-    "Big roots": 1
-},
-{
-    "Apricorns": 4,
-    "Icy rocks": 1
-},
-{
-    "Apricorns": 4,
-    "Honey": 1
-},
-{
-    "Apricorns": 4,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 3,
-    "Fossils": 1,
-    "Honey": 1
-},
-{
-    "Apricorns": 3,
-    "Big roots": 1,
-    "Honey": 1
-},
-{
-    "Apricorns": 3,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Apricorns": 3,
-    "Honey": 2
-},
-{
-    "Apricorns": 3,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 2,
-    "Fossils": 1,
-    "Honey": 2
-},
-{
-    "Apricorns": 2,
-    "Big roots": 1,
-    "Honey": 2
-},
-{
-    "Apricorns": 2,
-    "Icy rocks": 1,
-    "Honey": 2
-},
-{
-    "Apricorns": 2,
-    "Honey": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Honey": 3
-},
-{
-    "Apricorns": 1,
-    "Honey": 4
-},
-{
-    "Apricorns": 1,
-    "Honey": 3,
-    "Balm mushrooms": 1
-},
-{
-    "Fossils": 1,
-    "Honey": 4
-},
-{
-    "Big roots": 1,
-    "Honey": 4
-},
-{
-    "Icy rocks": 1,
-    "Honey": 4
-},
-{
-    "Honey": 5
-},
-{
-    "Honey": 4,
-    "Balm mushrooms": 1
-}
-],
-"shared": {
-    "Brain Food (Psychic Pokemon)": [
-    {
-      "Bluk berries": 1,
-      "Apricorns": 2,
-      "Honey": 2
-  },
-  {
-      "Apricorns": 2,
-      "Honey": 3
-  },
-  {
-      "Apricorns": 1,
-      "Fossils": 1,
-      "Honey": 3
-  },
-  {
-      "Apricorns": 1,
-      "Icy rocks": 1,
-      "Honey": 3
-  }
-  ]
-}
-},
-"blue": {
-  "design": {
-    "name": "BlueSoda Type",
-    "image": "blue.jpg"
-},
-"unique": [
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 4
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 3,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Icy rocks": 3
-},
-{
-    "Tiny mushrooms": 1,
-    "Icy rocks": 4
-},
-{
-    "Bluk berries": 5
-},
-{
-    "Bluk berries": 4,
-    "Apricorns": 1
-},
-{
-    "Bluk berries": 4,
-    "Fossils": 1
-},
-{
-    "Bluk berries": 4,
-    "Big roots": 1
-},
-{
-    "Bluk berries": 4,
-    "Icy rocks": 1
-},
-{
-    "Bluk berries": 4,
-    "Honey": 1
-},
-{
-    "Bluk berries": 4,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 3,
-    "Big roots": 1,
-    "Icy rocks": 1
-},
-{
-    "Bluk berries": 3,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Bluk berries": 3,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 2,
-    "Apricorns": 1,
-    "Icy rocks": 2
-},
-{
-    "Bluk berries": 2,
-    "Fossils": 1,
-    "Icy rocks": 2
-},
-{
-    "Bluk berries": 2,
-    "Icy rocks": 3
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Icy rocks": 3
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Icy rocks": 3
-},
-{
-    "Bluk berries": 1,
-    "Big roots": 1,
-    "Icy rocks": 3
-},
-{
-    "Bluk berries": 1,
-    "Icy rocks": 4
-},
-{
-    "Bluk berries": 1,
-    "Icy rocks": 3,
-    "Honey": 1
-},
-{
-    "Bluk berries": 1,
-    "Icy rocks": 3,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Icy rocks": 4
-},
-{
-    "Fossils": 1,
-    "Icy rocks": 4
-},
-{
-    "Big roots": 1,
-    "Icy rocks": 4
-},
-{
-    "Icy rocks": 5
-},
-{
-    "Icy rocks": 4,
-    "Honey": 1
-},
-{
-    "Icy rocks": 4,
-    "Balm mushrooms": 1
-}
-],
-"shared": {
-    "Mud Pie (Ground Pokemon)": [
-    {
-      "Tiny mushrooms": 1,
-      "Bluk berries": 2,
-      "Icy rocks": 2
-  },
-  {
-      "Bluk berries": 3,
-      "Fossils": 1,
-      "Icy rocks": 1
-  },
-  {
-      "Bluk berries": 3,
-      "Icy rocks": 2
-  },
-  {
-      "Bluk berries": 2,
-      "Big roots": 1,
-      "Icy rocks": 2
-  },
-  {
-      "Bluk berries": 2,
-      "Icy rocks": 2,
-      "Honey": 1
-  },
-  {
-      "Bluk berries": 2,
-      "Icy rocks": 2,
-      "Balm mushrooms": 1
-  }
-  ],
-  "Brain Food (Psychic Pokemon)": [
-  {
-      "Bluk berries": 3,
-      "Apricorns": 1,
-      "Icy rocks": 1
-  },
-  {
-      "Bluk berries": 3,
-      "Fossils": 1,
-      "Icy rocks": 1
-  },
-  {
-      "Bluk berries": 3,
-      "Icy rocks": 2
-  },
-  {
-      "Bluk berries": 2,
-      "Icy rocks": 2,
-      "Honey": 1
-  }
-  ]
-}
-},
-"gray": {
-  "design": {
-    "name": "grayPorridge Type",
-    "image": "gray.jpg"
-},
-"unique": [
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 4
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 3,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 4
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 3,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Balm mushrooms": 3
-},
-{
-    "Apricorns": 1,
-    "Fossils": 4
-},
-{
-    "Apricorns": 1,
-    "Fossils": 3,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Fossils": 2,
-    "Balm mushrooms": 2
-},
-{
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Balm mushrooms": 3
-},
-{
-    "Fossils": 5
-},
-{
-    "Fossils": 4,
-    "Big roots": 1
-},
-{
-    "Fossils": 4,
-    "Icy rocks": 1
-},
-{
-    "Fossils": 4,
-    "Honey": 1
-},
-{
-    "Fossils": 4,
-    "Balm mushrooms": 1
-},
-{
-    "Fossils": 3,
-    "Big roots": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Fossils": 3,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Fossils": 3,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Fossils": 3,
-    "Balm mushrooms": 2
-},
-{
-    "Fossils": 2,
-    "Icy rocks": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Fossils": 1,
-    "Big roots": 1,
-    "Balm mushrooms": 3
-},
-{
-    "Fossils": 1,
-    "Honey": 1,
-    "Balm mushrooms": 3
-}
-],
-"shared": {
-    "Mud Pie (Ground Pokemon)": [
-    {
-      "Tiny mushrooms": 1,
-      "Fossils": 2,
-      "Balm mushrooms": 2
-  },
-  {
-      "Bluk berries": 1,
-      "Fossils": 2,
-      "Balm mushrooms": 2
-  },
-  {
-      "Fossils": 2,
-      "Big roots": 1,
-      "Balm mushrooms": 2
-  },
-  {
-      "Fossils": 2,
-      "Honey": 1,
-      "Balm mushrooms": 2
-  },
-  {
-      "Fossils": 2,
-      "Balm mushrooms": 3
-  },
-  {
-      "Fossils": 1,
-      "Icy rocks": 1,
-      "Balm mushrooms": 3
-  }
-  ],
-  "Sludge Soup (Poison Pokemon)": [
-  {
-      "Tiny mushrooms": 1,
-      "Fossils": 1,
-      "Balm mushrooms": 3
-  },
-  {
-      "Tiny mushrooms": 1,
-      "Balm mushrooms": 4
-  },
-  {
-      "Bluk berries": 1,
-      "Balm mushrooms": 4
-  },
-  {
-      "Apricorns": 1,
-      "Balm mushrooms": 4
-  },
-  {
-      "Fossils": 1,
-      "Balm mushrooms": 4
-  },
-  {
-      "Big roots": 1,
-      "Balm mushrooms": 4
-  },
-  {
-      "Icy rocks": 1,
-      "Balm mushrooms": 4
-  },
-  {
-      "Honey": 1,
-      "Balm mushrooms": 4
-  },
-  {
-      "Balm mushrooms": 5
-  }
-  ]
-}
-},
-"any": {
-  "design": {
-    "name": "Any",
-    "image": "any.jpg"
-},
-"unique": [
-{
-    "Tiny mushrooms": 3,
-    "Bluk berries": 2
-},
-{
-    "Tiny mushrooms": 3,
-    "Bluk berries": 1,
-    "Apricorns": 1
-},
-{
-    "Tiny mushrooms": 3,
-    "Bluk berries": 1,
-    "Fossils": 1
-},
-{
-    "Tiny mushrooms": 3,
-    "Bluk berries": 1,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 3,
-    "Bluk berries": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 3,
-    "Apricorns": 2
-},
-{
-    "Tiny mushrooms": 3,
-    "Apricorns": 1,
-    "Fossils": 1
-},
-{
-    "Tiny mushrooms": 3,
-    "Apricorns": 1,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 3,
-    "Apricorns": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 3,
-    "Fossils": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 3,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 3,
-    "Honey": 2
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 2,
-    "Apricorns": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 2,
-    "Fossils": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 2,
-    "Big roots": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 2,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 1,
-    "Apricorns": 2
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Big roots": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Big roots": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 1,
-    "Big roots": 1,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 1,
-    "Big roots": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 1,
-    "Big roots": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Bluk berries": 1,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 3
-},
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 2,
-    "Fossils": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 2,
-    "Big roots": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 2,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 2,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 1,
-    "Fossils": 2
-},
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Big roots": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 1,
-    "Icy rocks": 2
-},
-{
-    "Tiny mushrooms": 2,
-    "Apricorns": 1,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Fossils": 3
-},
-{
-    "Tiny mushrooms": 2,
-    "Fossils": 2,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Fossils": 1,
-    "Icy rocks": 2
-},
-{
-    "Tiny mushrooms": 2,
-    "Fossils": 1,
-    "Honey": 2
-},
-{
-    "Tiny mushrooms": 2,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Big roots": 1,
-    "Honey": 2
-},
-{
-    "Tiny mushrooms": 2,
-    "Big roots": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 2,
-    "Icy rocks": 3
-},
-{
-    "Tiny mushrooms": 2,
-    "Icy rocks": 1,
-    "Honey": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 3,
-    "Apricorns": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 3,
-    "Fossils": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 3,
-    "Big roots": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 2,
-    "Apricorns": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 2,
-    "Apricorns": 1,
-    "Fossils": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 2,
-    "Apricorns": 1,
-    "Big roots": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 2,
-    "Apricorns": 1,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 2,
-    "Apricorns": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 2,
-    "Apricorns": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 2,
-    "Fossils": 1,
-    "Big roots": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 2,
-    "Fossils": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 2,
-    "Fossils": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 2,
-    "Big roots": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 2,
-    "Big roots": 1,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 2,
-    "Big roots": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 2,
-    "Big roots": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 2,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 2,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 2,
-    "Honey": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 2,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 3
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 2,
-    "Fossils": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 2,
-    "Big roots": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 2,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 2,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Big roots": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Big roots": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Icy rocks": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Fossils": 3
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Fossils": 2,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Big roots": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Icy rocks": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Honey": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Big roots": 2,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Big roots": 2,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Big roots": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Big roots": 1,
-    "Honey": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Big roots": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Icy rocks": 1,
-    "Honey": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Icy rocks": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Bluk berries": 1,
-    "Honey": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 3,
-    "Fossils": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 3,
-    "Big roots": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 3,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 3,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 2,
-    "Fossils": 1,
-    "Big roots": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 2,
-    "Fossils": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 2,
-    "Fossils": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 2,
-    "Big roots": 1,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 2,
-    "Big roots": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 2,
-    "Big roots": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 2,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 2,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 2,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 2,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Fossils": 3
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Fossils": 2,
-    "Big roots": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Fossils": 2,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Fossils": 2,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Fossils": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Big roots": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Icy rocks": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Honey": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Big roots": 2,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Big roots": 2,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Big roots": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Icy rocks": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Icy rocks": 3
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Icy rocks": 2,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Icy rocks": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Icy rocks": 1,
-    "Honey": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Icy rocks": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Apricorns": 1,
-    "Honey": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 3,
-    "Big roots": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 3,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 3,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 2,
-    "Big roots": 1,
-    "Icy rocks": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 2,
-    "Icy rocks": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 2,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 2,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 1,
-    "Big roots": 2,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 1,
-    "Big roots": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Icy rocks": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Honey": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 1,
-    "Icy rocks": 3
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 1,
-    "Icy rocks": 2,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 1,
-    "Icy rocks": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 1,
-    "Honey": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Fossils": 1,
-    "Honey": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Big roots": 2,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Big roots": 2,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Big roots": 2,
-    "Honey": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Big roots": 2,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Big roots": 2,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Big roots": 1,
-    "Icy rocks": 3
-},
-{
-    "Tiny mushrooms": 1,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Honey": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Big roots": 1,
-    "Honey": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Icy rocks": 3,
-    "Honey": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Icy rocks": 3,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Icy rocks": 1,
-    "Honey": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Tiny mushrooms": 1,
-    "Icy rocks": 1,
-    "Honey": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Tiny mushrooms": 1,
-    "Honey": 2,
-    "Balm mushrooms": 2
-},
-{
-    "Bluk berries": 3,
-    "Apricorns": 1,
-    "Big roots": 1
-},
-{
-    "Bluk berries": 3,
-    "Apricorns": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 3,
-    "Fossils": 1,
-    "Big roots": 1
-},
-{
-    "Bluk berries": 3,
-    "Big roots": 2
-},
-{
-    "Bluk berries": 3,
-    "Big roots": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 2,
-    "Apricorns": 3
-},
-{
-    "Bluk berries": 2,
-    "Apricorns": 2,
-    "Fossils": 1
-},
-{
-    "Bluk berries": 2,
-    "Apricorns": 2,
-    "Big roots": 1
-},
-{
-    "Bluk berries": 2,
-    "Apricorns": 2,
-    "Icy rocks": 1
-},
-{
-    "Bluk berries": 2,
-    "Apricorns": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 2,
-    "Apricorns": 1,
-    "Fossils": 2
-},
-{
-    "Bluk berries": 2,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Big roots": 1
-},
-{
-    "Bluk berries": 2,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Icy rocks": 1
-},
-{
-    "Bluk berries": 2,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 2,
-    "Apricorns": 1,
-    "Big roots": 2
-},
-{
-    "Bluk berries": 2,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Icy rocks": 1
-},
-{
-    "Bluk berries": 2,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Honey": 1
-},
-{
-    "Bluk berries": 2,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 2,
-    "Apricorns": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 2,
-    "Apricorns": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 2,
-    "Apricorns": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Bluk berries": 2,
-    "Fossils": 3
-},
-{
-    "Bluk berries": 2,
-    "Fossils": 2,
-    "Icy rocks": 1
-},
-{
-    "Bluk berries": 2,
-    "Fossils": 1,
-    "Big roots": 2
-},
-{
-    "Bluk berries": 2,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Honey": 1
-},
-{
-    "Bluk berries": 2,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 2,
-    "Fossils": 1,
-    "Honey": 2
-},
-{
-    "Bluk berries": 2,
-    "Fossils": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Bluk berries": 2,
-    "Big roots": 3
-},
-{
-    "Bluk berries": 2,
-    "Big roots": 2,
-    "Icy rocks": 1
-},
-{
-    "Bluk berries": 2,
-    "Big roots": 2,
-    "Honey": 1
-},
-{
-    "Bluk berries": 2,
-    "Big roots": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 2,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Bluk berries": 2,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 2,
-    "Big roots": 1,
-    "Honey": 2
-},
-{
-    "Bluk berries": 2,
-    "Big roots": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 2,
-    "Big roots": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Bluk berries": 2,
-    "Icy rocks": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 2,
-    "Icy rocks": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Bluk berries": 2,
-    "Honey": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 2,
-    "Balm mushrooms": 3
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 3,
-    "Fossils": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 3,
-    "Big roots": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 3,
-    "Icy rocks": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 3,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 2,
-    "Fossils": 1,
-    "Big roots": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 2,
-    "Fossils": 1,
-    "Honey": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 2,
-    "Fossils": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 2,
-    "Big roots": 1,
-    "Icy rocks": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 2,
-    "Big roots": 1,
-    "Honey": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 2,
-    "Big roots": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 2,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 2,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 2,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 2,
-    "Balm mushrooms": 2
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 3
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 2,
-    "Big roots": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 2,
-    "Icy rocks": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 2,
-    "Honey": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Big roots": 2
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Icy rocks": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Honey": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Icy rocks": 2
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Big roots": 3
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Big roots": 2,
-    "Icy rocks": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Big roots": 2,
-    "Honey": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Big roots": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Icy rocks": 2
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Icy rocks": 2,
-    "Honey": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Icy rocks": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Icy rocks": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Honey": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Bluk berries": 1,
-    "Apricorns": 1,
-    "Balm mushrooms": 3
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 3,
-    "Big roots": 1
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 3,
-    "Icy rocks": 1
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 3,
-    "Honey": 1
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 2,
-    "Big roots": 1,
-    "Icy rocks": 1
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 2,
-    "Icy rocks": 2
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 2,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 2,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Big roots": 3
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Big roots": 2,
-    "Honey": 1
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Big roots": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Icy rocks": 2
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Honey": 2
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Icy rocks": 2,
-    "Honey": 1
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Icy rocks": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Fossils": 1,
-    "Honey": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Bluk berries": 1,
-    "Big roots": 3,
-    "Icy rocks": 1
-},
-{
-    "Bluk berries": 1,
-    "Big roots": 3,
-    "Honey": 1
-},
-{
-    "Bluk berries": 1,
-    "Big roots": 3,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Big roots": 2,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Bluk berries": 1,
-    "Big roots": 2,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Big roots": 2,
-    "Honey": 2
-},
-{
-    "Bluk berries": 1,
-    "Big roots": 2,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Big roots": 2,
-    "Balm mushrooms": 2
-},
-{
-    "Bluk berries": 1,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Honey": 2
-},
-{
-    "Bluk berries": 1,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Bluk berries": 1,
-    "Big roots": 1,
-    "Honey": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Big roots": 1,
-    "Honey": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Bluk berries": 1,
-    "Big roots": 1,
-    "Balm mushrooms": 3
-},
-{
-    "Bluk berries": 1,
-    "Icy rocks": 1,
-    "Honey": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Bluk berries": 1,
-    "Icy rocks": 1,
-    "Honey": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Bluk berries": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 3
-},
-{
-    "Bluk berries": 1,
-    "Honey": 1,
-    "Balm mushrooms": 3
-},
-{
-    "Apricorns": 3,
-    "Fossils": 1,
-    "Big roots": 1
-},
-{
-    "Apricorns": 3,
-    "Fossils": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 3,
-    "Big roots": 2
-},
-{
-    "Apricorns": 3,
-    "Big roots": 1,
-    "Icy rocks": 1
-},
-{
-    "Apricorns": 3,
-    "Big roots": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 3,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 3,
-    "Balm mushrooms": 2
-},
-{
-    "Apricorns": 2,
-    "Fossils": 1,
-    "Big roots": 2
-},
-{
-    "Apricorns": 2,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Honey": 1
-},
-{
-    "Apricorns": 2,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 2,
-    "Fossils": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 2,
-    "Fossils": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Apricorns": 2,
-    "Big roots": 2,
-    "Icy rocks": 1
-},
-{
-    "Apricorns": 2,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Apricorns": 2,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 2,
-    "Big roots": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 2,
-    "Big roots": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Apricorns": 2,
-    "Icy rocks": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 2,
-    "Icy rocks": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Apricorns": 2,
-    "Honey": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Apricorns": 2,
-    "Balm mushrooms": 3
-},
-{
-    "Apricorns": 1,
-    "Fossils": 3,
-    "Icy rocks": 1
-},
-{
-    "Apricorns": 1,
-    "Fossils": 3,
-    "Honey": 1
-},
-{
-    "Apricorns": 1,
-    "Fossils": 2,
-    "Big roots": 2
-},
-{
-    "Apricorns": 1,
-    "Fossils": 2,
-    "Big roots": 1,
-    "Honey": 1
-},
-{
-    "Apricorns": 1,
-    "Fossils": 2,
-    "Big roots": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Fossils": 2,
-    "Icy rocks": 2
-},
-{
-    "Apricorns": 1,
-    "Fossils": 2,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Apricorns": 1,
-    "Fossils": 2,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Fossils": 2,
-    "Honey": 2
-},
-{
-    "Apricorns": 1,
-    "Fossils": 2,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Big roots": 2,
-    "Icy rocks": 1
-},
-{
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Big roots": 2,
-    "Honey": 1
-},
-{
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Big roots": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Honey": 2
-},
-{
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Big roots": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Icy rocks": 3
-},
-{
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Icy rocks": 2,
-    "Honey": 1
-},
-{
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Icy rocks": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Icy rocks": 1,
-    "Honey": 2
-},
-{
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Icy rocks": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Honey": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Fossils": 1,
-    "Honey": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Apricorns": 1,
-    "Big roots": 3,
-    "Honey": 1
-},
-{
-    "Apricorns": 1,
-    "Big roots": 3,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Big roots": 2,
-    "Icy rocks": 2
-},
-{
-    "Apricorns": 1,
-    "Big roots": 2,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Apricorns": 1,
-    "Big roots": 2,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Big roots": 2,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Big roots": 2,
-    "Balm mushrooms": 2
-},
-{
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Icy rocks": 2,
-    "Honey": 1
-},
-{
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Icy rocks": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Honey": 2
-},
-{
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Honey": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Apricorns": 1,
-    "Big roots": 1,
-    "Balm mushrooms": 3
-},
-{
-    "Apricorns": 1,
-    "Icy rocks": 3,
-    "Honey": 1
-},
-{
-    "Apricorns": 1,
-    "Icy rocks": 3,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Icy rocks": 2,
-    "Honey": 2
-},
-{
-    "Apricorns": 1,
-    "Icy rocks": 2,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Icy rocks": 2,
-    "Balm mushrooms": 2
-},
-{
-    "Apricorns": 1,
-    "Icy rocks": 1,
-    "Honey": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Apricorns": 1,
-    "Icy rocks": 1,
-    "Honey": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Apricorns": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 3
-},
-{
-    "Apricorns": 1,
-    "Honey": 1,
-    "Balm mushrooms": 3
-},
-{
-    "Fossils": 3,
-    "Big roots": 1,
-    "Icy rocks": 1
-},
-{
-    "Fossils": 3,
-    "Big roots": 1,
-    "Honey": 1
-},
-{
-    "Fossils": 3,
-    "Icy rocks": 2
-},
-{
-    "Fossils": 3,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Fossils": 3,
-    "Honey": 2
-},
-{
-    "Fossils": 2,
-    "Big roots": 1,
-    "Icy rocks": 2
-},
-{
-    "Fossils": 2,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Fossils": 2,
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Fossils": 2,
-    "Icy rocks": 3
-},
-{
-    "Fossils": 2,
-    "Icy rocks": 2,
-    "Honey": 1
-},
-{
-    "Fossils": 2,
-    "Icy rocks": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Fossils": 2,
-    "Icy rocks": 1,
-    "Honey": 2
-},
-{
-    "Fossils": 2,
-    "Icy rocks": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Fossils": 1,
-    "Big roots": 3,
-    "Honey": 1
-},
-{
-    "Fossils": 1,
-    "Big roots": 3,
-    "Balm mushrooms": 1
-},
-{
-    "Fossils": 1,
-    "Big roots": 2,
-    "Honey": 2
-},
-{
-    "Fossils": 1,
-    "Big roots": 2,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Fossils": 1,
-    "Big roots": 2,
-    "Balm mushrooms": 2
-},
-{
-    "Fossils": 1,
-    "Big roots": 1,
-    "Icy rocks": 3
-},
-{
-    "Fossils": 1,
-    "Big roots": 1,
-    "Icy rocks": 2,
-    "Honey": 1
-},
-{
-    "Fossils": 1,
-    "Big roots": 1,
-    "Icy rocks": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Fossils": 1,
-    "Big roots": 1,
-    "Honey": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Fossils": 1,
-    "Big roots": 1,
-    "Honey": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Fossils": 1,
-    "Icy rocks": 3,
-    "Honey": 1
-},
-{
-    "Fossils": 1,
-    "Icy rocks": 3,
-    "Balm mushrooms": 1
-},
-{
-    "Fossils": 1,
-    "Icy rocks": 2,
-    "Honey": 2
-},
-{
-    "Fossils": 1,
-    "Icy rocks": 2,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Fossils": 1,
-    "Icy rocks": 2,
-    "Balm mushrooms": 2
-},
-{
-    "Fossils": 1,
-    "Honey": 2,
-    "Balm mushrooms": 2
-},
-{
-    "Big roots": 3,
-    "Icy rocks": 1,
-    "Honey": 1
-},
-{
-    "Big roots": 3,
-    "Icy rocks": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Big roots": 3,
-    "Honey": 2
-},
-{
-    "Big roots": 3,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Big roots": 3,
-    "Balm mushrooms": 2
-},
-{
-    "Big roots": 2,
-    "Icy rocks": 1,
-    "Honey": 2
-},
-{
-    "Big roots": 2,
-    "Icy rocks": 1,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Big roots": 2,
-    "Icy rocks": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Big roots": 2,
-    "Honey": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Big roots": 2,
-    "Honey": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Big roots": 1,
-    "Icy rocks": 3,
-    "Honey": 1
-},
-{
-    "Big roots": 1,
-    "Icy rocks": 3,
-    "Balm mushrooms": 1
-},
-{
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Honey": 2,
-    "Balm mushrooms": 1
-},
-{
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Honey": 1,
-    "Balm mushrooms": 2
-},
-{
-    "Big roots": 1,
-    "Icy rocks": 1,
-    "Balm mushrooms": 3
-},
-{
-    "Big roots": 1,
-    "Honey": 2,
-    "Balm mushrooms": 2
-},
-{
-    "Big roots": 1,
-    "Honey": 1,
-    "Balm mushrooms": 3
-},
-{
-    "Icy rocks": 3,
-    "Honey": 2
-},
-{
-    "Icy rocks": 3,
-    "Honey": 1,
-    "Balm mushrooms": 1
-},
-{
-    "Icy rocks": 3,
-    "Balm mushrooms": 2
-},
-{
-    "Icy rocks": 1,
-    "Honey": 2,
-    "Balm mushrooms": 2
-},
-{
-    "Icy rocks": 1,
-    "Honey": 1,
-    "Balm mushrooms": 3
-},
-{
-    "Honey": 2,
-    "Balm mushrooms": 3
-}
-]
-}
-}
+    "recipes":{
+        "ground":{
+            "design":{
+                "name":"Ground Type",
+                "image":"ground.jpg"
+            },
+            "unique":[
+                {
+                    "tinyMushroom":3,
+                    "fossil":2
+                },
+                {
+                    "tinyMushroom":3,
+                    "fossil":1,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":3,
+                    "icyRock":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "fossil":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "fossil":1,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "icyRock":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "fossil":2,
+                    "bigRoot":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "fossil":2,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "fossil":1,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "bigRoot":1,
+                    "icyRock":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "icyRock":2,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":2,
+                    "fossil":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":2,
+                    "fossil":1,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "fossil":2,
+                    "bigRoot":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "fossil":2,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "fossil":2,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "fossil":1,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "fossil":1,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "bigRoot":1,
+                    "icyRock":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "icyRock":2,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "icyRock":2,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":2,
+                    "bigRoot":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":2,
+                    "bigRoot":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":2,
+                    "bigRoot":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":2,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":2,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":1,
+                    "bigRoot":2,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":1,
+                    "icyRock":1,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":1,
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":1,
+                    "icyRock":1,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "bigRoot":2,
+                    "icyRock":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "bigRoot":1,
+                    "icyRock":2,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "bigRoot":1,
+                    "icyRock":2,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "icyRock":2,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "icyRock":2,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "icyRock":2,
+                    "balmMushroom":2
+                },
+                {
+                    "blueBerry":2,
+                    "fossil":2,
+                    "bigRoot":1
+                },
+                {
+                    "blueBerry":2,
+                    "fossil":2,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":2,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":1
+                },
+                {
+                    "blueBerry":2,
+                    "fossil":1,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":2,
+                    "bigRoot":2
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":2,
+                    "bigRoot":1,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":2,
+                    "bigRoot":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":2,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":1,
+                    "bigRoot":2,
+                    "icyRock":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":1,
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":1,
+                    "icyRock":1,
+                    "balmMushroom":2
+                },
+                {
+                    "blueBerry":1,
+                    "bigRoot":2,
+                    "icyRock":2
+                },
+                {
+                    "blueBerry":1,
+                    "bigRoot":1,
+                    "icyRock":2,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "bigRoot":1,
+                    "icyRock":2,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "icyRock":2,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "icyRock":2,
+                    "balmMushroom":2
+                },
+                {
+                    "fossil":2,
+                    "bigRoot":3
+                },
+                {
+                    "fossil":2,
+                    "bigRoot":2,
+                    "honey":1
+                },
+                {
+                    "fossil":2,
+                    "bigRoot":2,
+                    "balmMushroom":1
+                },
+                {
+                    "fossil":2,
+                    "bigRoot":1,
+                    "honey":2
+                },
+                {
+                    "fossil":2,
+                    "bigRoot":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "fossil":2,
+                    "honey":2,
+                    "balmMushroom":1
+                },
+                {
+                    "fossil":1,
+                    "bigRoot":3,
+                    "icyRock":1
+                },
+                {
+                    "fossil":1,
+                    "bigRoot":2,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "fossil":1,
+                    "bigRoot":2,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":2
+                },
+                {
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "balmMushroom":2
+                },
+                {
+                    "fossil":1,
+                    "icyRock":1,
+                    "honey":2,
+                    "balmMushroom":1
+                },
+                {
+                    "fossil":1,
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":2
+                },
+                {
+                    "bigRoot":3,
+                    "icyRock":2
+                },
+                {
+                    "bigRoot":2,
+                    "icyRock":2,
+                    "honey":1
+                },
+                {
+                    "bigRoot":2,
+                    "icyRock":2,
+                    "balmMushroom":1
+                },
+                {
+                    "bigRoot":1,
+                    "icyRock":2,
+                    "honey":2
+                },
+                {
+                    "bigRoot":1,
+                    "icyRock":2,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "bigRoot":1,
+                    "icyRock":2,
+                    "balmMushroom":2
+                },
+                {
+                    "icyRock":2,
+                    "honey":2,
+                    "balmMushroom":1
+                },
+                {
+                    "icyRock":2,
+                    "honey":1,
+                    "balmMushroom":2
+                },
+                {
+                    "icyRock":2,
+                    "balmMushroom":3
+                }
+            ],
+            "shared":{
+                "Brain Food (Psychic Pokemon)":[
+                    {
+                        "blueBerry":3,
+                        "fossil":2
+                    },
+                    {
+                        "blueBerry":3,
+                        "fossil":1,
+                        "icyRock":1
+                    },
+                    {
+                        "blueBerry":3,
+                        "icyRock":2
+                    },
+                    {
+                        "blueBerry":2,
+                        "fossil":2,
+                        "honey":1
+                    },
+                    {
+                        "blueBerry":2,
+                        "fossil":1,
+                        "icyRock":1,
+                        "honey":1
+                    },
+                    {
+                        "blueBerry":2,
+                        "icyRock":2,
+                        "honey":1
+                    },
+                    {
+                        "blueBerry":1,
+                        "fossil":2,
+                        "honey":2
+                    },
+                    {
+                        "blueBerry":1,
+                        "fossil":1,
+                        "icyRock":1,
+                        "honey":2
+                    },
+                    {
+                        "blueBerry":1,
+                        "icyRock":2,
+                        "honey":2
+                    },
+                    {
+                        "fossil":2,
+                        "honey":3
+                    },
+                    {
+                        "fossil":1,
+                        "icyRock":1,
+                        "honey":3
+                    },
+                    {
+                        "icyRock":2,
+                        "honey":3
+                    }
+                ],
+                "Hot Pot (Fire Pokemon)":[
+                    {
+                        "tinyMushroom":2,
+                        "fossil":2,
+                        "balmMushroom":1
+                    },
+                    {
+                        "tinyMushroom":2,
+                        "fossil":1,
+                        "icyRock":1,
+                        "balmMushroom":1
+                    },
+                    {
+                        "tinyMushroom":2,
+                        "icyRock":2,
+                        "balmMushroom":1
+                    }
+                ],
+                "Plain Crepe (Normal Pokemon)":[
+                    {
+                        "blueBerry":3,
+                        "fossil":2
+                    },
+                    {
+                        "blueBerry":2,
+                        "fossil":2,
+                        "honey":1
+                    },
+                    {
+                        "blueBerry":1,
+                        "fossil":2,
+                        "honey":2
+                    },
+                    {
+                        "fossil":2,
+                        "honey":3
+                    }
+                ],
+                "Blue Soda":[
+                    {
+                        "tinyMushroom":1,
+                        "blueBerry":2,
+                        "icyRock":2
+                    },
+                    {
+                        "blueBerry":3,
+                        "fossil":1,
+                        "icyRock":1
+                    },
+                    {
+                        "blueBerry":3,
+                        "icyRock":2
+                    },
+                    {
+                        "blueBerry":2,
+                        "bigRoot":1,
+                        "icyRock":2
+                    },
+                    {
+                        "blueBerry":2,
+                        "icyRock":2,
+                        "honey":1
+                    },
+                    {
+                        "blueBerry":2,
+                        "icyRock":2,
+                        "balmMushroom":1
+                    }
+                ],
+                "Gray Porridge":[
+                    {
+                        "tinyMushroom":1,
+                        "fossil":2,
+                        "balmMushroom":2
+                    },
+                    {
+                        "blueBerry":1,
+                        "fossil":2,
+                        "balmMushroom":2
+                    },
+                    {
+                        "fossil":2,
+                        "bigRoot":1,
+                        "balmMushroom":2
+                    },
+                    {
+                        "fossil":2,
+                        "honey":1,
+                        "balmMushroom":2
+                    },
+                    {
+                        "fossil":2,
+                        "balmMushroom":3
+                    },
+                    {
+                        "fossil":1,
+                        "icyRock":1,
+                        "balmMushroom":3
+                    }
+                ]
+            }
+        },
+        "grass":{
+            "design":{
+                "name":"Grass Type",
+                "image":"grass.jpg"
+            },
+            "unique":[
+                {
+                    "tinyMushroom":1,
+                    "apricorn":2,
+                    "bigRoot":2
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":2,
+                    "bigRoot":2
+                },
+                {
+                    "apricorn":2,
+                    "bigRoot":3
+                },
+                {
+                    "apricorn":2,
+                    "bigRoot":2,
+                    "honey":1
+                },
+                {
+                    "apricorn":2,
+                    "bigRoot":2,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":3
+                },
+                {
+                    "apricorn":1,
+                    "bigRoot":3,
+                    "icyRock":1
+                }
+            ],
+            "shared":{
 
+            }
+        },
+        "psychic":{
+            "design":{
+                "name":"Psychic Type",
+                "image":"psychic.jpg"
+            },
+            "unique":[
+                {
+                    "blueBerry":3,
+                    "apricorn":2
+                },
+                {
+                    "blueBerry":3,
+                    "apricorn":1,
+                    "fossil":1
+                },
+                {
+                    "blueBerry":2,
+                    "apricorn":2,
+                    "honey":1
+                },
+                {
+                    "blueBerry":2,
+                    "apricorn":1,
+                    "fossil":1,
+                    "honey":1
+                },
+                {
+                    "blueBerry":2,
+                    "apricorn":1,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "honey":2
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "icyRock":1,
+                    "honey":2
+                }
+            ],
+            "shared":{
+                "Mud Pie (Ground Pokemon)":[
+                    {
+                        "blueBerry":3,
+                        "fossil":2
+                    },
+                    {
+                        "blueBerry":3,
+                        "fossil":1,
+                        "icyRock":1
+                    },
+                    {
+                        "blueBerry":3,
+                        "icyRock":2
+                    },
+                    {
+                        "blueBerry":2,
+                        "fossil":2,
+                        "honey":1
+                    },
+                    {
+                        "blueBerry":2,
+                        "fossil":1,
+                        "icyRock":1,
+                        "honey":1
+                    },
+                    {
+                        "blueBerry":2,
+                        "icyRock":2,
+                        "honey":1
+                    },
+                    {
+                        "blueBerry":1,
+                        "fossil":2,
+                        "honey":2
+                    },
+                    {
+                        "blueBerry":1,
+                        "fossil":1,
+                        "icyRock":1,
+                        "honey":2
+                    },
+                    {
+                        "blueBerry":1,
+                        "icyRock":2,
+                        "honey":2
+                    },
+                    {
+                        "fossil":2,
+                        "honey":3
+                    },
+                    {
+                        "fossil":1,
+                        "icyRock":1,
+                        "honey":3
+                    },
+                    {
+                        "icyRock":2,
+                        "honey":3
+                    }
+                ],
+                "Plain Crepe (Normal Pokemon)":[
+                    {
+                        "blueBerry":3,
+                        "fossil":2
+                    },
+                    {
+                        "blueBerry":2,
+                        "fossil":2,
+                        "honey":1
+                    },
+                    {
+                        "blueBerry":1,
+                        "fossil":2,
+                        "honey":2
+                    },
+                    {
+                        "fossil":2,
+                        "honey":3
+                    }
+                ],
+                "Yellow Curry":[
+                    {
+                        "blueBerry":1,
+                        "apricorn":2,
+                        "honey":2
+                    },
+                    {
+                        "apricorn":2,
+                        "honey":3
+                    },
+                    {
+                        "apricorn":1,
+                        "fossil":1,
+                        "honey":3
+                    },
+                    {
+                        "apricorn":1,
+                        "icyRock":1,
+                        "honey":3
+                    }
+                ],
+                "Blue Soda":[
+                    {
+                        "blueBerry":3,
+                        "apricorn":1,
+                        "icyRock":1
+                    },
+                    {
+                        "blueBerry":3,
+                        "fossil":1,
+                        "icyRock":1
+                    },
+                    {
+                        "blueBerry":3,
+                        "icyRock":2
+                    },
+                    {
+                        "blueBerry":2,
+                        "icyRock":2,
+                        "honey":1
+                    }
+                ]
+            }
+        },
+        "rock":{
+            "design":{
+                "name":"Rock Type",
+                "image":"rock.jpg"
+            },
+            "unique":[
+                {
+                    "tinyMushroom":1,
+                    "apricorn":2,
+                    "fossil":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":2,
+                    "fossil":1,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":2,
+                    "icyRock":2
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":2,
+                    "fossil":2
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":2,
+                    "fossil":1,
+                    "icyRock":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":2,
+                    "icyRock":2
+                },
+                {
+                    "apricorn":3,
+                    "fossil":2
+                },
+                {
+                    "apricorn":3,
+                    "fossil":1,
+                    "icyRock":1
+                },
+                {
+                    "apricorn":3,
+                    "icyRock":2
+                },
+                {
+                    "apricorn":2,
+                    "fossil":2,
+                    "bigRoot":1
+                },
+                {
+                    "apricorn":2,
+                    "fossil":2,
+                    "honey":1
+                },
+                {
+                    "apricorn":2,
+                    "fossil":2,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":2,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":1
+                },
+                {
+                    "apricorn":2,
+                    "fossil":1,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "apricorn":2,
+                    "fossil":1,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":2,
+                    "bigRoot":1,
+                    "icyRock":2
+                },
+                {
+                    "apricorn":2,
+                    "icyRock":2,
+                    "honey":1
+                },
+                {
+                    "apricorn":2,
+                    "icyRock":2,
+                    "balmMushroom":1
+                }
+            ],
+            "shared":{
+
+            }
+        },
+        "fire":{
+            "design":{
+                "name":"Fire Type",
+                "image":"fire.jpg"
+            },
+            "unique":[
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":2,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "fossil":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "apricorn":2,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "apricorn":1,
+                    "fossil":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "apricorn":1,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "apricorn":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "fossil":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "honey":2,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "bigRoot":1,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "bigRoot":1,
+                    "honey":1,
+                    "balmMushroom":2
+                },
+                {
+                    "bigRoot":2,
+                    "balmMushroom":3
+                }
+            ],
+            "shared":{
+                "Mud Pie (Ground Pokemon)":[
+                    {
+                        "tinyMushroom":2,
+                        "fossil":2,
+                        "balmMushroom":1
+                    },
+                    {
+                        "tinyMushroom":2,
+                        "fossil":1,
+                        "icyRock":1,
+                        "balmMushroom":1
+                    },
+                    {
+                        "tinyMushroom":2,
+                        "icyRock":2,
+                        "balmMushroom":1
+                    }
+                ]
+            }
+        },
+        "electric":{
+            "design":{
+                "name":"Electric Type",
+                "image":"electric.jpg"
+            },
+            "unique":[
+                {
+                    "tinyMushroom":2,
+                    "apricorn":1,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "honey":2,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":1,
+                    "honey":3
+                },
+                {
+                    "tinyMushroom":1,
+                    "bigRoot":1,
+                    "honey":3
+                },
+                {
+                    "tinyMushroom":1,
+                    "icyRock":1,
+                    "honey":3
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "honey":2
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "honey":2,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "bigRoot":2,
+                    "honey":2
+                },
+                {
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "honey":2,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "honey":2,
+                    "balmMushroom":2
+                },
+                {
+                    "fossil":1,
+                    "bigRoot":1,
+                    "honey":3
+                },
+                {
+                    "bigRoot":2,
+                    "honey":3
+                },
+                {
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":3
+                },
+                {
+                    "bigRoot":1,
+                    "honey":3,
+                    "balmMushroom":1
+                },
+                {
+                    "icyRock":1,
+                    "honey":3,
+                    "balmMushroom":1
+                }
+            ],
+            "shared":{
+                "Plain Crepe (Normal Pokemon)":[
+                    {
+                        "fossil":1,
+                        "honey":3,
+                        "balmMushroom":1
+                    },
+                    {
+                        "honey":3,
+                        "balmMushroom":2
+                    }
+                ],
+                "Get Swole (Fighting Pokemon)":[
+                    {
+                        "tinyMushroom":2,
+                        "honey":3
+                    },
+                    {
+                        "tinyMushroom":1,
+                        "honey":3,
+                        "balmMushroom":1
+                    },
+                    {
+                        "honey":3,
+                        "balmMushroom":2
+                    }
+                ],
+                "honey Nectar (Bug Pokemon)":[
+                    {
+                        "tinyMushroom":1,
+                        "blueBerry":1,
+                        "honey":3
+                    },
+                    {
+                        "blueBerry":2,
+                        "apricorn":1,
+                        "honey":2
+                    },
+                    {
+                        "blueBerry":2,
+                        "honey":3
+                    },
+                    {
+                        "blueBerry":1,
+                        "fossil":1,
+                        "honey":3
+                    },
+                    {
+                        "blueBerry":1,
+                        "bigRoot":1,
+                        "honey":3
+                    },
+                    {
+                        "blueBerry":1,
+                        "icyRock":1,
+                        "honey":3
+                    },
+                    {
+                        "blueBerry":1,
+                        "honey":3,
+                        "balmMushroom":1
+                    }
+                ]
+            }
+        },
+        "water":{
+            "design":{
+                "name":"Water Type",
+                "image":"water.jpg"
+            },
+            "unique":[
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":3,
+                    "honey":1
+                },
+                {
+                    "blueBerry":3,
+                    "apricorn":1,
+                    "honey":1
+                },
+                {
+                    "blueBerry":3,
+                    "fossil":1,
+                    "honey":1
+                },
+                {
+                    "blueBerry":3,
+                    "bigRoot":1,
+                    "honey":1
+                },
+                {
+                    "blueBerry":3,
+                    "honey":2
+                },
+                {
+                    "blueBerry":3,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":2,
+                    "icyRock":1,
+                    "honey":2
+                }
+            ],
+            "shared":{
+
+            }
+        },
+        "poison":{
+            "design":{
+                "name":"Poison Type",
+                "image":"poison.jpg"
+            },
+            "unique":[
+                {
+                    "tinyMushroom":3,
+                    "blueBerry":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":3,
+                    "apricorn":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":3,
+                    "fossil":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":3,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":3,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":3,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "apricorn":1,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "fossil":1,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "bigRoot":1,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "icyRock":1,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "honey":1,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "balmMushroom":3
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "balmMushroom":3
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "balmMushroom":3
+                },
+                {
+                    "tinyMushroom":1,
+                    "bigRoot":1,
+                    "balmMushroom":3
+                },
+                {
+                    "tinyMushroom":1,
+                    "icyRock":1,
+                    "balmMushroom":3
+                },
+                {
+                    "tinyMushroom":1,
+                    "honey":1,
+                    "balmMushroom":3
+                }
+            ],
+            "shared":{
+                "Red Stew":[
+                    {
+                        "tinyMushroom":5
+                    },
+                    {
+                        "tinyMushroom":4,
+                        "blueBerry":1
+                    },
+                    {
+                        "tinyMushroom":4,
+                        "apricorn":1
+                    },
+                    {
+                        "tinyMushroom":4,
+                        "fossil":1
+                    },
+                    {
+                        "tinyMushroom":4,
+                        "bigRoot":1
+                    },
+                    {
+                        "tinyMushroom":4,
+                        "icyRock":1
+                    },
+                    {
+                        "tinyMushroom":4,
+                        "honey":1
+                    },
+                    {
+                        "tinyMushroom":4,
+                        "balmMushroom":1
+                    },
+                    {
+                        "tinyMushroom":3,
+                        "bigRoot":1,
+                        "balmMushroom":1
+                    }
+                ],
+                "Gray Porridge":[
+                    {
+                        "tinyMushroom":1,
+                        "fossil":1,
+                        "balmMushroom":3
+                    },
+                    {
+                        "tinyMushroom":1,
+                        "balmMushroom":4
+                    },
+                    {
+                        "blueBerry":1,
+                        "balmMushroom":4
+                    },
+                    {
+                        "apricorn":1,
+                        "balmMushroom":4
+                    },
+                    {
+                        "fossil":1,
+                        "balmMushroom":4
+                    },
+                    {
+                        "bigRoot":1,
+                        "balmMushroom":4
+                    },
+                    {
+                        "icyRock":1,
+                        "balmMushroom":4
+                    },
+                    {
+                        "honey":1,
+                        "balmMushroom":4
+                    },
+                    {
+                        "balmMushroom":5
+                    }
+                ]
+            }
+        },
+        "normal":{
+            "design":{
+                "name":"Normal Type",
+                "image":"normal.jpg"
+            },
+            "unique":[
+                {
+                    "blueBerry":3,
+                    "fossil":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":2,
+                    "fossil":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":1,
+                    "honey":2,
+                    "balmMushroom":1
+                }
+            ],
+            "shared":{
+                "Mud Pie (Ground Pokemon)":[
+                    {
+                        "blueBerry":3,
+                        "fossil":2
+                    },
+                    {
+                        "blueBerry":2,
+                        "fossil":2,
+                        "honey":1
+                    },
+                    {
+                        "blueBerry":1,
+                        "fossil":2,
+                        "honey":2
+                    },
+                    {
+                        "fossil":2,
+                        "honey":3
+                    }
+                ],
+                "Brain Food (Psychic Pokemon)":[
+                    {
+                        "blueBerry":3,
+                        "fossil":2
+                    },
+                    {
+                        "blueBerry":2,
+                        "fossil":2,
+                        "honey":1
+                    },
+                    {
+                        "blueBerry":1,
+                        "fossil":2,
+                        "honey":2
+                    },
+                    {
+                        "fossil":2,
+                        "honey":3
+                    }
+                ],
+                "Watt a Risotto (Electric Pokemon)":[
+                    {
+                        "fossil":1,
+                        "honey":3,
+                        "balmMushroom":1
+                    },
+                    {
+                        "honey":3,
+                        "balmMushroom":2
+                    }
+                ],
+                "Get Swole (Fighting Pokemon)":[
+                    {
+                        "blueBerry":3,
+                        "balmMushroom":2
+                    },
+                    {
+                        "blueBerry":2,
+                        "honey":1,
+                        "balmMushroom":2
+                    },
+                    {
+                        "blueBerry":1,
+                        "honey":2,
+                        "balmMushroom":2
+                    },
+                    {
+                        "honey":3,
+                        "balmMushroom":2
+                    }
+                ]
+            }
+        },
+        "fighting":{
+            "design":{
+                "name":"Fighting Type",
+                "image":"fighting.jpg"
+            },
+            "unique":[
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":3
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":2,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":3,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":2,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "honey":2,
+                    "balmMushroom":1
+                }
+            ],
+            "shared":{
+                "Watt a Risotto (Electric Pokemon)":[
+                    {
+                        "tinyMushroom":2,
+                        "honey":3
+                    },
+                    {
+                        "tinyMushroom":1,
+                        "honey":3,
+                        "balmMushroom":1
+                    },
+                    {
+                        "honey":3,
+                        "balmMushroom":2
+                    }
+                ],
+                "Plain Crepe (Normal Pokemon)":[
+                    {
+                        "blueBerry":3,
+                        "balmMushroom":2
+                    },
+                    {
+                        "blueBerry":2,
+                        "honey":1,
+                        "balmMushroom":2
+                    },
+                    {
+                        "blueBerry":1,
+                        "honey":2,
+                        "balmMushroom":2
+                    },
+                    {
+                        "honey":3,
+                        "balmMushroom":2
+                    }
+                ]
+            }
+        },
+        "flying":{
+            "design":{
+                "name":"Flying Type",
+                "image":"flying.jpg"
+            },
+            "unique":[
+                {
+                    "apricorn":2,
+                    "fossil":3
+                },
+                {
+                    "apricorn":2,
+                    "fossil":2,
+                    "icyRock":1
+                },
+                {
+                    "apricorn":2,
+                    "fossil":1,
+                    "icyRock":2
+                },
+                {
+                    "apricorn":2,
+                    "icyRock":3
+                },
+                {
+                    "apricorn":1,
+                    "fossil":3,
+                    "bigRoot":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":2,
+                    "bigRoot":1,
+                    "icyRock":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":2
+                },
+                {
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "icyRock":3
+                },
+                {
+                    "fossil":3,
+                    "bigRoot":2
+                },
+                {
+                    "fossil":2,
+                    "bigRoot":2,
+                    "icyRock":1
+                },
+                {
+                    "fossil":1,
+                    "bigRoot":2,
+                    "icyRock":2
+                },
+                {
+                    "bigRoot":2,
+                    "icyRock":3
+                }
+            ],
+            "shared":{
+
+            }
+        },
+        "bug":{
+            "design":{
+                "name":"Bug Type",
+                "image":"bug.jpg"
+            },
+            "unique":[
+
+            ],
+            "shared":{
+                "Watt a Risotto (Electric Pokemon)":[
+                    {
+                        "tinyMushroom":1,
+                        "blueBerry":1,
+                        "honey":3
+                    },
+                    {
+                        "blueBerry":2,
+                        "apricorn":1,
+                        "honey":2
+                    },
+                    {
+                        "blueBerry":2,
+                        "honey":3
+                    },
+                    {
+                        "blueBerry":1,
+                        "fossil":1,
+                        "honey":3
+                    },
+                    {
+                        "blueBerry":1,
+                        "bigRoot":1,
+                        "honey":3
+                    },
+                    {
+                        "blueBerry":1,
+                        "icyRock":1,
+                        "honey":3
+                    },
+                    {
+                        "blueBerry":1,
+                        "honey":3,
+                        "balmMushroom":1
+                    }
+                ]
+            }
+        },
+        "red":{
+            "design":{
+                "name":"Red Stew Type",
+                "image":"red.jpg"
+            },
+            "unique":[
+                {
+                    "tinyMushroom":3,
+                    "blueBerry":1,
+                    "bigRoot":1
+                },
+                {
+                    "tinyMushroom":3,
+                    "apricorn":1,
+                    "bigRoot":1
+                },
+                {
+                    "tinyMushroom":3,
+                    "fossil":1,
+                    "bigRoot":1
+                },
+                {
+                    "tinyMushroom":3,
+                    "bigRoot":2
+                },
+                {
+                    "tinyMushroom":3,
+                    "bigRoot":1,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":3,
+                    "bigRoot":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "bigRoot":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "apricorn":1,
+                    "bigRoot":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "fossil":1,
+                    "bigRoot":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "bigRoot":3
+                },
+                {
+                    "tinyMushroom":2,
+                    "bigRoot":2,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "bigRoot":2,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "bigRoot":2,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "bigRoot":3
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "bigRoot":3
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":1,
+                    "bigRoot":3
+                },
+                {
+                    "tinyMushroom":1,
+                    "bigRoot":4
+                },
+                {
+                    "tinyMushroom":1,
+                    "bigRoot":3,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "bigRoot":3,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "bigRoot":3,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "bigRoot":4
+                },
+                {
+                    "apricorn":1,
+                    "bigRoot":4
+                },
+                {
+                    "fossil":1,
+                    "bigRoot":4
+                },
+                {
+                    "bigRoot":5
+                },
+                {
+                    "bigRoot":4,
+                    "icyRock":1
+                },
+                {
+                    "bigRoot":4,
+                    "honey":1
+                },
+                {
+                    "bigRoot":4,
+                    "balmMushroom":1
+                }
+            ],
+            "shared":{
+                "Sludge Soup (Poison Pokemon)":[
+                    {
+                        "tinyMushroom":5
+                    },
+                    {
+                        "tinyMushroom":4,
+                        "blueBerry":1
+                    },
+                    {
+                        "tinyMushroom":4,
+                        "apricorn":1
+                    },
+                    {
+                        "tinyMushroom":4,
+                        "fossil":1
+                    },
+                    {
+                        "tinyMushroom":4,
+                        "bigRoot":1
+                    },
+                    {
+                        "tinyMushroom":4,
+                        "icyRock":1
+                    },
+                    {
+                        "tinyMushroom":4,
+                        "honey":1
+                    },
+                    {
+                        "tinyMushroom":4,
+                        "balmMushroom":1
+                    },
+                    {
+                        "tinyMushroom":3,
+                        "bigRoot":1,
+                        "balmMushroom":1
+                    }
+                ]
+            }
+        },
+        "yellow":{
+            "design":{
+                "name":"yellowCurry Type",
+                "image":"yellow.jpg"
+            },
+            "unique":[
+                {
+                    "tinyMushroom":1,
+                    "apricorn":4
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":3,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":2,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "honey":3
+                },
+                {
+                    "tinyMushroom":1,
+                    "honey":4
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":4
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":3,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "honey":3
+                },
+                {
+                    "blueBerry":1,
+                    "honey":4
+                },
+                {
+                    "apricorn":5
+                },
+                {
+                    "apricorn":4,
+                    "fossil":1
+                },
+                {
+                    "apricorn":4,
+                    "bigRoot":1
+                },
+                {
+                    "apricorn":4,
+                    "icyRock":1
+                },
+                {
+                    "apricorn":4,
+                    "honey":1
+                },
+                {
+                    "apricorn":4,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":3,
+                    "fossil":1,
+                    "honey":1
+                },
+                {
+                    "apricorn":3,
+                    "bigRoot":1,
+                    "honey":1
+                },
+                {
+                    "apricorn":3,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "apricorn":3,
+                    "honey":2
+                },
+                {
+                    "apricorn":3,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":2,
+                    "fossil":1,
+                    "honey":2
+                },
+                {
+                    "apricorn":2,
+                    "bigRoot":1,
+                    "honey":2
+                },
+                {
+                    "apricorn":2,
+                    "icyRock":1,
+                    "honey":2
+                },
+                {
+                    "apricorn":2,
+                    "honey":2,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "honey":3
+                },
+                {
+                    "apricorn":1,
+                    "honey":4
+                },
+                {
+                    "apricorn":1,
+                    "honey":3,
+                    "balmMushroom":1
+                },
+                {
+                    "fossil":1,
+                    "honey":4
+                },
+                {
+                    "bigRoot":1,
+                    "honey":4
+                },
+                {
+                    "icyRock":1,
+                    "honey":4
+                },
+                {
+                    "honey":5
+                },
+                {
+                    "honey":4,
+                    "balmMushroom":1
+                }
+            ],
+            "shared":{
+                "Brain Food (Psychic Pokemon)":[
+                    {
+                        "blueBerry":1,
+                        "apricorn":2,
+                        "honey":2
+                    },
+                    {
+                        "apricorn":2,
+                        "honey":3
+                    },
+                    {
+                        "apricorn":1,
+                        "fossil":1,
+                        "honey":3
+                    },
+                    {
+                        "apricorn":1,
+                        "icyRock":1,
+                        "honey":3
+                    }
+                ]
+            }
+        },
+        "blue":{
+            "design":{
+                "name":"BlueSoda Type",
+                "image":"blue.jpg"
+            },
+            "unique":[
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":4
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":3,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "icyRock":3
+                },
+                {
+                    "tinyMushroom":1,
+                    "icyRock":4
+                },
+                {
+                    "blueBerry":5
+                },
+                {
+                    "blueBerry":4,
+                    "apricorn":1
+                },
+                {
+                    "blueBerry":4,
+                    "fossil":1
+                },
+                {
+                    "blueBerry":4,
+                    "bigRoot":1
+                },
+                {
+                    "blueBerry":4,
+                    "icyRock":1
+                },
+                {
+                    "blueBerry":4,
+                    "honey":1
+                },
+                {
+                    "blueBerry":4,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":3,
+                    "bigRoot":1,
+                    "icyRock":1
+                },
+                {
+                    "blueBerry":3,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "blueBerry":3,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":2,
+                    "apricorn":1,
+                    "icyRock":2
+                },
+                {
+                    "blueBerry":2,
+                    "fossil":1,
+                    "icyRock":2
+                },
+                {
+                    "blueBerry":2,
+                    "icyRock":3
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "icyRock":3
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":1,
+                    "icyRock":3
+                },
+                {
+                    "blueBerry":1,
+                    "bigRoot":1,
+                    "icyRock":3
+                },
+                {
+                    "blueBerry":1,
+                    "icyRock":4
+                },
+                {
+                    "blueBerry":1,
+                    "icyRock":3,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "icyRock":3,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "icyRock":4
+                },
+                {
+                    "fossil":1,
+                    "icyRock":4
+                },
+                {
+                    "bigRoot":1,
+                    "icyRock":4
+                },
+                {
+                    "icyRock":5
+                },
+                {
+                    "icyRock":4,
+                    "honey":1
+                },
+                {
+                    "icyRock":4,
+                    "balmMushroom":1
+                }
+            ],
+            "shared":{
+                "Mud Pie (Ground Pokemon)":[
+                    {
+                        "tinyMushroom":1,
+                        "blueBerry":2,
+                        "icyRock":2
+                    },
+                    {
+                        "blueBerry":3,
+                        "fossil":1,
+                        "icyRock":1
+                    },
+                    {
+                        "blueBerry":3,
+                        "icyRock":2
+                    },
+                    {
+                        "blueBerry":2,
+                        "bigRoot":1,
+                        "icyRock":2
+                    },
+                    {
+                        "blueBerry":2,
+                        "icyRock":2,
+                        "honey":1
+                    },
+                    {
+                        "blueBerry":2,
+                        "icyRock":2,
+                        "balmMushroom":1
+                    }
+                ],
+                "Brain Food (Psychic Pokemon)":[
+                    {
+                        "blueBerry":3,
+                        "apricorn":1,
+                        "icyRock":1
+                    },
+                    {
+                        "blueBerry":3,
+                        "fossil":1,
+                        "icyRock":1
+                    },
+                    {
+                        "blueBerry":3,
+                        "icyRock":2
+                    },
+                    {
+                        "blueBerry":2,
+                        "icyRock":2,
+                        "honey":1
+                    }
+                ]
+            }
+        },
+        "gray":{
+            "design":{
+                "name":"grayPorridge Type",
+                "image":"gray.jpg"
+            },
+            "unique":[
+                {
+                    "tinyMushroom":1,
+                    "fossil":4
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":3,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":4
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":3,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":1,
+                    "balmMushroom":3
+                },
+                {
+                    "apricorn":1,
+                    "fossil":4
+                },
+                {
+                    "apricorn":1,
+                    "fossil":3,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":2,
+                    "balmMushroom":2
+                },
+                {
+                    "apricorn":1,
+                    "fossil":1,
+                    "balmMushroom":3
+                },
+                {
+                    "fossil":5
+                },
+                {
+                    "fossil":4,
+                    "bigRoot":1
+                },
+                {
+                    "fossil":4,
+                    "icyRock":1
+                },
+                {
+                    "fossil":4,
+                    "honey":1
+                },
+                {
+                    "fossil":4,
+                    "balmMushroom":1
+                },
+                {
+                    "fossil":3,
+                    "bigRoot":1,
+                    "balmMushroom":1
+                },
+                {
+                    "fossil":3,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "fossil":3,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "fossil":3,
+                    "balmMushroom":2
+                },
+                {
+                    "fossil":2,
+                    "icyRock":1,
+                    "balmMushroom":2
+                },
+                {
+                    "fossil":1,
+                    "bigRoot":1,
+                    "balmMushroom":3
+                },
+                {
+                    "fossil":1,
+                    "honey":1,
+                    "balmMushroom":3
+                }
+            ],
+            "shared":{
+                "Mud Pie (Ground Pokemon)":[
+                    {
+                        "tinyMushroom":1,
+                        "fossil":2,
+                        "balmMushroom":2
+                    },
+                    {
+                        "blueBerry":1,
+                        "fossil":2,
+                        "balmMushroom":2
+                    },
+                    {
+                        "fossil":2,
+                        "bigRoot":1,
+                        "balmMushroom":2
+                    },
+                    {
+                        "fossil":2,
+                        "honey":1,
+                        "balmMushroom":2
+                    },
+                    {
+                        "fossil":2,
+                        "balmMushroom":3
+                    },
+                    {
+                        "fossil":1,
+                        "icyRock":1,
+                        "balmMushroom":3
+                    }
+                ],
+                "Sludge Soup (Poison Pokemon)":[
+                    {
+                        "tinyMushroom":1,
+                        "fossil":1,
+                        "balmMushroom":3
+                    },
+                    {
+                        "tinyMushroom":1,
+                        "balmMushroom":4
+                    },
+                    {
+                        "blueBerry":1,
+                        "balmMushroom":4
+                    },
+                    {
+                        "apricorn":1,
+                        "balmMushroom":4
+                    },
+                    {
+                        "fossil":1,
+                        "balmMushroom":4
+                    },
+                    {
+                        "bigRoot":1,
+                        "balmMushroom":4
+                    },
+                    {
+                        "icyRock":1,
+                        "balmMushroom":4
+                    },
+                    {
+                        "honey":1,
+                        "balmMushroom":4
+                    },
+                    {
+                        "balmMushroom":5
+                    }
+                ]
+            }
+        },
+        "any":{
+            "design":{
+                "name":"Any",
+                "image":"any.jpg"
+            },
+            "unique":[
+                {
+                    "tinyMushroom":3,
+                    "blueBerry":2
+                },
+                {
+                    "tinyMushroom":3,
+                    "blueBerry":1,
+                    "apricorn":1
+                },
+                {
+                    "tinyMushroom":3,
+                    "blueBerry":1,
+                    "fossil":1
+                },
+                {
+                    "tinyMushroom":3,
+                    "blueBerry":1,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":3,
+                    "blueBerry":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":3,
+                    "apricorn":2
+                },
+                {
+                    "tinyMushroom":3,
+                    "apricorn":1,
+                    "fossil":1
+                },
+                {
+                    "tinyMushroom":3,
+                    "apricorn":1,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":3,
+                    "apricorn":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":3,
+                    "fossil":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":3,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":3,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":2,
+                    "apricorn":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":2,
+                    "fossil":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":2,
+                    "bigRoot":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":2,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "apricorn":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "bigRoot":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "fossil":1,
+                    "bigRoot":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "fossil":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "bigRoot":1,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "bigRoot":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "bigRoot":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "blueBerry":1,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "apricorn":3
+                },
+                {
+                    "tinyMushroom":2,
+                    "apricorn":2,
+                    "fossil":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "apricorn":2,
+                    "bigRoot":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "apricorn":2,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "apricorn":2,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "apricorn":1,
+                    "fossil":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "apricorn":1,
+                    "fossil":1,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "apricorn":1,
+                    "fossil":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "apricorn":1,
+                    "icyRock":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "apricorn":1,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "fossil":3
+                },
+                {
+                    "tinyMushroom":2,
+                    "fossil":2,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "fossil":1,
+                    "icyRock":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "fossil":1,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "bigRoot":1,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":2,
+                    "bigRoot":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":2,
+                    "icyRock":3
+                },
+                {
+                    "tinyMushroom":2,
+                    "icyRock":1,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":3,
+                    "apricorn":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":3,
+                    "fossil":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":3,
+                    "bigRoot":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":2,
+                    "apricorn":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":2,
+                    "apricorn":1,
+                    "fossil":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":2,
+                    "apricorn":1,
+                    "bigRoot":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":2,
+                    "apricorn":1,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":2,
+                    "apricorn":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":2,
+                    "apricorn":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":2,
+                    "fossil":1,
+                    "bigRoot":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":2,
+                    "fossil":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":2,
+                    "fossil":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":2,
+                    "bigRoot":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":2,
+                    "bigRoot":1,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":2,
+                    "bigRoot":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":2,
+                    "bigRoot":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":2,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":2,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":2,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":2,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":3
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":2,
+                    "fossil":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":2,
+                    "bigRoot":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":2,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":2,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":2,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "bigRoot":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "icyRock":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "fossil":3
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "fossil":2,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "fossil":1,
+                    "bigRoot":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "fossil":1,
+                    "icyRock":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "fossil":1,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "fossil":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "fossil":1,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "bigRoot":2,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "bigRoot":2,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "bigRoot":2,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "bigRoot":1,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "bigRoot":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "icyRock":1,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "icyRock":1,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "blueBerry":1,
+                    "honey":1,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":3,
+                    "fossil":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":3,
+                    "bigRoot":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":3,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":3,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":2,
+                    "fossil":1,
+                    "bigRoot":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":2,
+                    "fossil":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":2,
+                    "fossil":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":2,
+                    "bigRoot":1,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":2,
+                    "bigRoot":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":2,
+                    "bigRoot":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":2,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":2,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":2,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":2,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "fossil":3
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "fossil":2,
+                    "bigRoot":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "fossil":2,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "fossil":2,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "fossil":2,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "icyRock":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "bigRoot":2,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "bigRoot":2,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "bigRoot":2,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "icyRock":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "icyRock":3
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "icyRock":2,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "icyRock":2,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "icyRock":1,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "icyRock":1,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "apricorn":1,
+                    "honey":1,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":3,
+                    "bigRoot":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":3,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":3,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":2,
+                    "bigRoot":1,
+                    "icyRock":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":2,
+                    "icyRock":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":2,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":2,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":1,
+                    "bigRoot":2,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":1,
+                    "bigRoot":2,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":1,
+                    "icyRock":3
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":1,
+                    "icyRock":2,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":1,
+                    "icyRock":2,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":1,
+                    "honey":2,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "fossil":1,
+                    "honey":1,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "bigRoot":2,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "bigRoot":2,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "bigRoot":2,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "bigRoot":2,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "bigRoot":2,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "bigRoot":1,
+                    "icyRock":3
+                },
+                {
+                    "tinyMushroom":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "bigRoot":1,
+                    "honey":2,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "icyRock":3,
+                    "honey":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "icyRock":3,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "icyRock":1,
+                    "honey":2,
+                    "balmMushroom":1
+                },
+                {
+                    "tinyMushroom":1,
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":2
+                },
+                {
+                    "tinyMushroom":1,
+                    "honey":2,
+                    "balmMushroom":2
+                },
+                {
+                    "blueBerry":3,
+                    "apricorn":1,
+                    "bigRoot":1
+                },
+                {
+                    "blueBerry":3,
+                    "apricorn":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":3,
+                    "fossil":1,
+                    "bigRoot":1
+                },
+                {
+                    "blueBerry":3,
+                    "bigRoot":2
+                },
+                {
+                    "blueBerry":3,
+                    "bigRoot":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":2,
+                    "apricorn":3
+                },
+                {
+                    "blueBerry":2,
+                    "apricorn":2,
+                    "fossil":1
+                },
+                {
+                    "blueBerry":2,
+                    "apricorn":2,
+                    "bigRoot":1
+                },
+                {
+                    "blueBerry":2,
+                    "apricorn":2,
+                    "icyRock":1
+                },
+                {
+                    "blueBerry":2,
+                    "apricorn":2,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":2,
+                    "apricorn":1,
+                    "fossil":2
+                },
+                {
+                    "blueBerry":2,
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":1
+                },
+                {
+                    "blueBerry":2,
+                    "apricorn":1,
+                    "fossil":1,
+                    "icyRock":1
+                },
+                {
+                    "blueBerry":2,
+                    "apricorn":1,
+                    "fossil":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":2,
+                    "apricorn":1,
+                    "bigRoot":2
+                },
+                {
+                    "blueBerry":2,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "icyRock":1
+                },
+                {
+                    "blueBerry":2,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "honey":1
+                },
+                {
+                    "blueBerry":2,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":2,
+                    "apricorn":1,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":2,
+                    "apricorn":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":2,
+                    "apricorn":1,
+                    "balmMushroom":2
+                },
+                {
+                    "blueBerry":2,
+                    "fossil":3
+                },
+                {
+                    "blueBerry":2,
+                    "fossil":2,
+                    "icyRock":1
+                },
+                {
+                    "blueBerry":2,
+                    "fossil":1,
+                    "bigRoot":2
+                },
+                {
+                    "blueBerry":2,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "honey":1
+                },
+                {
+                    "blueBerry":2,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":2,
+                    "fossil":1,
+                    "honey":2
+                },
+                {
+                    "blueBerry":2,
+                    "fossil":1,
+                    "balmMushroom":2
+                },
+                {
+                    "blueBerry":2,
+                    "bigRoot":3
+                },
+                {
+                    "blueBerry":2,
+                    "bigRoot":2,
+                    "icyRock":1
+                },
+                {
+                    "blueBerry":2,
+                    "bigRoot":2,
+                    "honey":1
+                },
+                {
+                    "blueBerry":2,
+                    "bigRoot":2,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":2,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "blueBerry":2,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":2,
+                    "bigRoot":1,
+                    "honey":2
+                },
+                {
+                    "blueBerry":2,
+                    "bigRoot":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":2,
+                    "bigRoot":1,
+                    "balmMushroom":2
+                },
+                {
+                    "blueBerry":2,
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":2,
+                    "icyRock":1,
+                    "balmMushroom":2
+                },
+                {
+                    "blueBerry":2,
+                    "honey":2,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":2,
+                    "balmMushroom":3
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":3,
+                    "fossil":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":3,
+                    "bigRoot":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":3,
+                    "icyRock":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":3,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":2,
+                    "fossil":1,
+                    "bigRoot":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":2,
+                    "fossil":1,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":2,
+                    "fossil":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":2,
+                    "bigRoot":1,
+                    "icyRock":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":2,
+                    "bigRoot":1,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":2,
+                    "bigRoot":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":2,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":2,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":2,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":2,
+                    "balmMushroom":2
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":3
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":2,
+                    "bigRoot":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":2,
+                    "icyRock":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":2,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":2,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":2
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "icyRock":2
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "fossil":1,
+                    "balmMushroom":2
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "bigRoot":3
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "bigRoot":2,
+                    "icyRock":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "bigRoot":2,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "bigRoot":2,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "icyRock":2
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "balmMushroom":2
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "icyRock":2,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "icyRock":2,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "icyRock":1,
+                    "balmMushroom":2
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "honey":1,
+                    "balmMushroom":2
+                },
+                {
+                    "blueBerry":1,
+                    "apricorn":1,
+                    "balmMushroom":3
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":3,
+                    "bigRoot":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":3,
+                    "icyRock":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":3,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":2,
+                    "bigRoot":1,
+                    "icyRock":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":2,
+                    "icyRock":2
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":2,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":2,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":1,
+                    "bigRoot":3
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":1,
+                    "bigRoot":2,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":1,
+                    "bigRoot":2,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":2
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "honey":2
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "balmMushroom":2
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":1,
+                    "icyRock":2,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":1,
+                    "icyRock":2,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "fossil":1,
+                    "honey":1,
+                    "balmMushroom":2
+                },
+                {
+                    "blueBerry":1,
+                    "bigRoot":3,
+                    "icyRock":1
+                },
+                {
+                    "blueBerry":1,
+                    "bigRoot":3,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "bigRoot":3,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "bigRoot":2,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "blueBerry":1,
+                    "bigRoot":2,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "bigRoot":2,
+                    "honey":2
+                },
+                {
+                    "blueBerry":1,
+                    "bigRoot":2,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "bigRoot":2,
+                    "balmMushroom":2
+                },
+                {
+                    "blueBerry":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":2
+                },
+                {
+                    "blueBerry":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "balmMushroom":2
+                },
+                {
+                    "blueBerry":1,
+                    "bigRoot":1,
+                    "honey":2,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "bigRoot":1,
+                    "honey":1,
+                    "balmMushroom":2
+                },
+                {
+                    "blueBerry":1,
+                    "bigRoot":1,
+                    "balmMushroom":3
+                },
+                {
+                    "blueBerry":1,
+                    "icyRock":1,
+                    "honey":2,
+                    "balmMushroom":1
+                },
+                {
+                    "blueBerry":1,
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":2
+                },
+                {
+                    "blueBerry":1,
+                    "icyRock":1,
+                    "balmMushroom":3
+                },
+                {
+                    "blueBerry":1,
+                    "honey":1,
+                    "balmMushroom":3
+                },
+                {
+                    "apricorn":3,
+                    "fossil":1,
+                    "bigRoot":1
+                },
+                {
+                    "apricorn":3,
+                    "fossil":1,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":3,
+                    "bigRoot":2
+                },
+                {
+                    "apricorn":3,
+                    "bigRoot":1,
+                    "icyRock":1
+                },
+                {
+                    "apricorn":3,
+                    "bigRoot":1,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":3,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":3,
+                    "balmMushroom":2
+                },
+                {
+                    "apricorn":2,
+                    "fossil":1,
+                    "bigRoot":2
+                },
+                {
+                    "apricorn":2,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "honey":1
+                },
+                {
+                    "apricorn":2,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":2,
+                    "fossil":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":2,
+                    "fossil":1,
+                    "balmMushroom":2
+                },
+                {
+                    "apricorn":2,
+                    "bigRoot":2,
+                    "icyRock":1
+                },
+                {
+                    "apricorn":2,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "apricorn":2,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":2,
+                    "bigRoot":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":2,
+                    "bigRoot":1,
+                    "balmMushroom":2
+                },
+                {
+                    "apricorn":2,
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":2,
+                    "icyRock":1,
+                    "balmMushroom":2
+                },
+                {
+                    "apricorn":2,
+                    "honey":1,
+                    "balmMushroom":2
+                },
+                {
+                    "apricorn":2,
+                    "balmMushroom":3
+                },
+                {
+                    "apricorn":1,
+                    "fossil":3,
+                    "icyRock":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":3,
+                    "honey":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":2,
+                    "bigRoot":2
+                },
+                {
+                    "apricorn":1,
+                    "fossil":2,
+                    "bigRoot":1,
+                    "honey":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":2,
+                    "bigRoot":1,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":2,
+                    "icyRock":2
+                },
+                {
+                    "apricorn":1,
+                    "fossil":2,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":2,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":2,
+                    "honey":2
+                },
+                {
+                    "apricorn":1,
+                    "fossil":2,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":2,
+                    "icyRock":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":2,
+                    "honey":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":2,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "honey":2
+                },
+                {
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":1,
+                    "bigRoot":1,
+                    "balmMushroom":2
+                },
+                {
+                    "apricorn":1,
+                    "fossil":1,
+                    "icyRock":3
+                },
+                {
+                    "apricorn":1,
+                    "fossil":1,
+                    "icyRock":2,
+                    "honey":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":1,
+                    "icyRock":2,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":1,
+                    "icyRock":1,
+                    "honey":2
+                },
+                {
+                    "apricorn":1,
+                    "fossil":1,
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":1,
+                    "icyRock":1,
+                    "balmMushroom":2
+                },
+                {
+                    "apricorn":1,
+                    "fossil":1,
+                    "honey":2,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "fossil":1,
+                    "honey":1,
+                    "balmMushroom":2
+                },
+                {
+                    "apricorn":1,
+                    "bigRoot":3,
+                    "honey":1
+                },
+                {
+                    "apricorn":1,
+                    "bigRoot":3,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "bigRoot":2,
+                    "icyRock":2
+                },
+                {
+                    "apricorn":1,
+                    "bigRoot":2,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "apricorn":1,
+                    "bigRoot":2,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "bigRoot":2,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "bigRoot":2,
+                    "balmMushroom":2
+                },
+                {
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "icyRock":2,
+                    "honey":1
+                },
+                {
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "icyRock":2,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":2
+                },
+                {
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "balmMushroom":2
+                },
+                {
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "honey":1,
+                    "balmMushroom":2
+                },
+                {
+                    "apricorn":1,
+                    "bigRoot":1,
+                    "balmMushroom":3
+                },
+                {
+                    "apricorn":1,
+                    "icyRock":3,
+                    "honey":1
+                },
+                {
+                    "apricorn":1,
+                    "icyRock":3,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "icyRock":2,
+                    "honey":2
+                },
+                {
+                    "apricorn":1,
+                    "icyRock":2,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "icyRock":2,
+                    "balmMushroom":2
+                },
+                {
+                    "apricorn":1,
+                    "icyRock":1,
+                    "honey":2,
+                    "balmMushroom":1
+                },
+                {
+                    "apricorn":1,
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":2
+                },
+                {
+                    "apricorn":1,
+                    "icyRock":1,
+                    "balmMushroom":3
+                },
+                {
+                    "apricorn":1,
+                    "honey":1,
+                    "balmMushroom":3
+                },
+                {
+                    "fossil":3,
+                    "bigRoot":1,
+                    "icyRock":1
+                },
+                {
+                    "fossil":3,
+                    "bigRoot":1,
+                    "honey":1
+                },
+                {
+                    "fossil":3,
+                    "icyRock":2
+                },
+                {
+                    "fossil":3,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "fossil":3,
+                    "honey":2
+                },
+                {
+                    "fossil":2,
+                    "bigRoot":1,
+                    "icyRock":2
+                },
+                {
+                    "fossil":2,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "fossil":2,
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "fossil":2,
+                    "icyRock":3
+                },
+                {
+                    "fossil":2,
+                    "icyRock":2,
+                    "honey":1
+                },
+                {
+                    "fossil":2,
+                    "icyRock":2,
+                    "balmMushroom":1
+                },
+                {
+                    "fossil":2,
+                    "icyRock":1,
+                    "honey":2
+                },
+                {
+                    "fossil":2,
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "fossil":1,
+                    "bigRoot":3,
+                    "honey":1
+                },
+                {
+                    "fossil":1,
+                    "bigRoot":3,
+                    "balmMushroom":1
+                },
+                {
+                    "fossil":1,
+                    "bigRoot":2,
+                    "honey":2
+                },
+                {
+                    "fossil":1,
+                    "bigRoot":2,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "fossil":1,
+                    "bigRoot":2,
+                    "balmMushroom":2
+                },
+                {
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":3
+                },
+                {
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":2,
+                    "honey":1
+                },
+                {
+                    "fossil":1,
+                    "bigRoot":1,
+                    "icyRock":2,
+                    "balmMushroom":1
+                },
+                {
+                    "fossil":1,
+                    "bigRoot":1,
+                    "honey":2,
+                    "balmMushroom":1
+                },
+                {
+                    "fossil":1,
+                    "bigRoot":1,
+                    "honey":1,
+                    "balmMushroom":2
+                },
+                {
+                    "fossil":1,
+                    "icyRock":3,
+                    "honey":1
+                },
+                {
+                    "fossil":1,
+                    "icyRock":3,
+                    "balmMushroom":1
+                },
+                {
+                    "fossil":1,
+                    "icyRock":2,
+                    "honey":2
+                },
+                {
+                    "fossil":1,
+                    "icyRock":2,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "fossil":1,
+                    "icyRock":2,
+                    "balmMushroom":2
+                },
+                {
+                    "fossil":1,
+                    "honey":2,
+                    "balmMushroom":2
+                },
+                {
+                    "bigRoot":3,
+                    "icyRock":1,
+                    "honey":1
+                },
+                {
+                    "bigRoot":3,
+                    "icyRock":1,
+                    "balmMushroom":1
+                },
+                {
+                    "bigRoot":3,
+                    "honey":2
+                },
+                {
+                    "bigRoot":3,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "bigRoot":3,
+                    "balmMushroom":2
+                },
+                {
+                    "bigRoot":2,
+                    "icyRock":1,
+                    "honey":2
+                },
+                {
+                    "bigRoot":2,
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "bigRoot":2,
+                    "icyRock":1,
+                    "balmMushroom":2
+                },
+                {
+                    "bigRoot":2,
+                    "honey":2,
+                    "balmMushroom":1
+                },
+                {
+                    "bigRoot":2,
+                    "honey":1,
+                    "balmMushroom":2
+                },
+                {
+                    "bigRoot":1,
+                    "icyRock":3,
+                    "honey":1
+                },
+                {
+                    "bigRoot":1,
+                    "icyRock":3,
+                    "balmMushroom":1
+                },
+                {
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":2,
+                    "balmMushroom":1
+                },
+                {
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":2
+                },
+                {
+                    "bigRoot":1,
+                    "icyRock":1,
+                    "balmMushroom":3
+                },
+                {
+                    "bigRoot":1,
+                    "honey":2,
+                    "balmMushroom":2
+                },
+                {
+                    "bigRoot":1,
+                    "honey":1,
+                    "balmMushroom":3
+                },
+                {
+                    "icyRock":3,
+                    "honey":2
+                },
+                {
+                    "icyRock":3,
+                    "honey":1,
+                    "balmMushroom":1
+                },
+                {
+                    "icyRock":3,
+                    "balmMushroom":2
+                },
+                {
+                    "icyRock":1,
+                    "honey":2,
+                    "balmMushroom":2
+                },
+                {
+                    "icyRock":1,
+                    "honey":1,
+                    "balmMushroom":3
+                },
+                {
+                    "honey":2,
+                    "balmMushroom":3
+                }
+            ]
+        }
+    },
+    "ingredients": {
+        "apricorn": {
+            "name": "Apricorns",
+            "id": "apricorns",
+            "image": ".jpg",
+            "value": 1
+        },
+        "balmMushroom": {
+            "name": "Balm mushrooms",
+            "id": "balm-mushrooms",
+            "image": ".jpg",
+            "value": 1
+        },
+        "bigRoot": {
+            "name": "Big roots",
+            "id": "big-roots",
+            "image": ".jpg",
+            "value": 1
+        },
+        "blukBerry": {
+            "name": "Bluk berries",
+            "id": "bluk-berries",
+            "image": ".jpg",
+            "value": 1
+        },
+        "fossil": {
+            "name": "Fossils",
+            "id": "fossils",
+            "image": ".jpg",
+            "value": 1
+        },
+        "honey": {
+            "name": "Honey",
+            "id": "honey",
+            "image": ".jpg",
+            "value": 1
+        },
+        "icyRock": {
+            "name": "Icy rocks",
+            "id": "icy-rocks",
+            "image": ".jpg",
+            "value": 1
+        },
+        "tinyMushroom": {
+            "name": "Tiny mushrooms",
+            "id": "tiny-mushrooms",
+            "image": ".jpg",
+            "value": 1
+        }
+    }
 }
