@@ -25,7 +25,6 @@ function getAvailableRecipes(targetRecipes){
 			if(availableRecipe == true){
 				required = parseInt(required)*3;
 				var available = $('input[name="'+ingredient+'"]').val();
-				//console.log(ingredient+' required: '+required+' available: '+available);
 				if(required > available){
 					availableRecipe = false;
 				}
