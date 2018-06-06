@@ -4,7 +4,28 @@ var ingredientsDB = database.ingredients;
 function buildRecipesStructure(){
 	var elements = '';
 	$.each(recipesDB, function(key, recipe){
-		elements += '<div class="recipe-name" data-recipe="' + key + '"><img src="assets/recipes-image/'+recipe.design.image+'"></div>'; 
+		var availablePkmn = '';
+		var skipComma = false;
+		$.each(recipe.pokemon, function(key, pkmn){
+			if(pkmn != "Unknown"){
+				if(key != 'total5' && skipComma == false){
+					availablePkmn += ', ';
+				}
+				availablePkmn += pkmn;
+				skipComma = false;
+			} else {
+				skipComma = true;
+			}
+		})
+		availablePkmn = availablePkmn.split(', ');
+		availablePkmn = removeDuplicates(availablePkmn);
+		availablePkmn = availablePkmn.join(', ');
+		elements += '<div class="recipe" data-recipe="' + key + '">';
+		elements += '<div class="recipe-image"><img src="assets/recipes-image/'+recipe.design.image+'"></div>'; 
+		elements += '<div class="recipe-name">'+recipe.design.name+'</div>';
+		elements += '<div class="recipe-target">'+recipe.design.description+'</div>';
+		elements += '<div class="recipe-pkmn">'+availablePkmn+'</div>';
+		elements += '</div>';
 	});
 	return elements;
 }
@@ -35,32 +56,38 @@ function getAvailableRecipes(targetRecipes, recipeId){
 			availableRecipes.push(currentRecipe);
 		}
 	}
-	$('.recipes-list').append(showCurrentRecipe(availableRecipes, recipeId));
-	setFrontPage('recipe-page');
+	var htmlRecipes = showCurrentRecipe(availableRecipes, recipeId);
+	$('.filtered-recipe-list').html(htmlRecipes);
+	setFrontPage('filtered-recipe-page');
 }
 
 function showCurrentRecipe(recipes, recipeId){
 	$.each(recipes, function(index, elements){
-		var sum = 0;
-		$.each(elements, function(recipeIngredient, quantity){
-			sum = sum + (ingredientsDB[recipeIngredient].value * quantity);
-		})
-		elements.sum = sum;
+		if (typeof elements.sum == 'undefined'){
+			var sum = 0;
+			$.each(elements, function(recipeIngredient, quantity){
+				sum = sum + (ingredientsDB[recipeIngredient].value * quantity);
+			})
+			elements.sum = sum;
+		}
 	})
 	recipes.sort(compare);
 	var output = '';
 	$.each(recipes, function(index, elements){
-		output += '<div class="recipe">';
+		output += '<div class="filtered-recipe">';
 		output += '<div class="recipe-ingredients">';
 		var i = 0;
 		var sum = elements.sum;
 		var pkmnObjHook = 'total'+sum;
 		$.each(elements, function(recipeIngredient, quantity){
-			if(i > 0){
-				output += ', ';
+			if(recipeIngredient != 'sum'){
+				if(i > 0){
+					output += ', ';
+				}
+				recipeIngredient = ingredientsDB[recipeIngredient].name;
+				output += recipeIngredient+' x'+quantity;
+				i++;
 			}
-			output += recipeIngredient+' x'+quantity;
-			i++;
 		})
 		output += '</div><div class="sum">'+elements.sum+'</div>';
 		output += '<div class="available-pkmn">'+recipesDB[recipeId].pokemon[pkmnObjHook]+'</div>';
@@ -70,11 +97,11 @@ function showCurrentRecipe(recipes, recipeId){
 }
 
 function compare(a,b) {
-  if (a.sum > b.sum)
-    return -1;
-  if (a.sum < b.sum)
-    return 1;
-  return 0;
+	if (a.sum > b.sum)
+		return -1;
+	if (a.sum < b.sum)
+		return 1;
+	return 0;
 }
 
 function setFrontPage(page){
@@ -84,16 +111,31 @@ function setFrontPage(page){
 	$('.'+page).addClass('active');
 }
 
-$(document).on('click', '.recipe-name', function(){
+function removeDuplicates(list) {
+	var result = [];
+	$.each(list, function(i, e) {
+		if ($.inArray(e, result) == -1) result.push(e);
+	});
+	return result;
+}
+
+$(document).on('click', '.recipe', function(){
 	var index = $(this).data('recipe');
-	var targetRecipes = recipesDB[index].unique;
-	getAvailableRecipes(targetRecipes, index);
+	if(index){
+		var targetRecipes = recipesDB[index].unique;
+		getAvailableRecipes(targetRecipes, index);
+	}
 })
 
 $(document).on('click', '.recipe-element', function(){
 
 })
 
+$(document).on('click', '.backToHomepage', function(){
+	setFrontPage('homepage');
+});
+
 //Build HTML layout
 $('.recipes').append(buildRecipesStructure);
 $('.ingredients').append(buildIngredientsStructure);
+

@@ -2,11 +2,12 @@ section{
 	position: absolute;
 	left: 100%;
 	right: 0;
-	bottom: 0;
 	top: 0;
-	transition: opacity 0.3s, left 0.75s;
+	transition: opacity 0.3s, left 0.45s;
 	background-color: white;
 	opacity: 0;
+	width: 0;
+	overflow-y: hidden;
 }
 
 section.homepage{
@@ -16,12 +17,15 @@ section.homepage{
 section.active{
 	left: 0;
 	opacity: 1;
+	width: 100%;
 }
+
+/* Homepage */
 
 .recipe{
 	display: grid;
-	grid-template-columns: 50% auto 45%;
-	border-bottom: 1px solid #ccc;
+    grid-template-columns: 20% 30% 30% 20%;
+    border-bottom: 1px solid #ccc;
 }
 
 .recipe:first-child{
@@ -31,3 +35,19 @@ section.active{
 .recipe > div{
 	padding: 15px;
 }
+
+/* Filtered recipe page */
+.filtered-recipe{
+	display: grid;
+	grid-template-columns: 50% 5% 45%;
+	border-bottom: 1px solid #ccc;
+}
+
+.filtered-recipe-head .filtered-recipe{
+	border-bottom: 1px solid black;
+}
+
+.filtered-recipe > div{
+	padding: 15px;
+}
+
