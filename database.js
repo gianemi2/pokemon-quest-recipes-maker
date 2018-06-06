@@ -22,18 +22,18 @@ var database = {
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":2
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "icyRock":1
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "icyRock":2
             },
             {
@@ -70,69 +70,69 @@ var database = {
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "fossil":2
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "fossil":1,
                 "icyRock":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":2,
                 "bigRoot":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":2,
                 "honey":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":2,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "bigRoot":1,
                 "icyRock":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "icyRock":1,
                 "honey":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "icyRock":1,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":1,
                 "icyRock":2
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "icyRock":2,
                 "honey":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "icyRock":2,
                 "balmMushroom":1
             },
@@ -237,108 +237,108 @@ var database = {
                 "balmMushroom":2
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "fossil":2,
                 "bigRoot":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "fossil":2,
                 "balmMushroom":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "fossil":1,
                 "bigRoot":1,
                 "icyRock":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "fossil":1,
                 "icyRock":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":2,
                 "bigRoot":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":2,
                 "bigRoot":1,
                 "honey":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":2,
                 "bigRoot":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":2,
                 "honey":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "bigRoot":2,
                 "icyRock":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "bigRoot":1,
                 "icyRock":1,
                 "honey":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "bigRoot":1,
                 "icyRock":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "icyRock":1,
                 "honey":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "icyRock":1,
                 "balmMushroom":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":2,
                 "icyRock":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":1,
                 "icyRock":2,
                 "honey":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":1,
                 "icyRock":2,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "icyRock":2,
                 "honey":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "icyRock":2,
                 "balmMushroom":2
             },
@@ -468,47 +468,47 @@ var database = {
             "shared":{
                 "Brain Food (Psychic Pokemon)":[
                 {
-                    "blueBerry":3,
+                    "bulkBerry":3,
                     "fossil":2
                 },
                 {
-                    "blueBerry":3,
+                    "bulkBerry":3,
                     "fossil":1,
                     "icyRock":1
                 },
                 {
-                    "blueBerry":3,
+                    "bulkBerry":3,
                     "icyRock":2
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "fossil":2,
                     "honey":1
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "fossil":1,
                     "icyRock":1,
                     "honey":1
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "icyRock":2,
                     "honey":1
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "fossil":2,
                     "honey":2
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "fossil":1,
                     "icyRock":1,
                     "honey":2
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "icyRock":2,
                     "honey":2
                 },
@@ -546,16 +546,16 @@ var database = {
                 ],
                 "Plain Crepe (Normal Pokemon)":[
                 {
-                    "blueBerry":3,
+                    "bulkBerry":3,
                     "fossil":2
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "fossil":2,
                     "honey":1
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "fossil":2,
                     "honey":2
                 },
@@ -567,30 +567,30 @@ var database = {
                 "Blue Soda":[
                 {
                     "tinyMushroom":1,
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "icyRock":2
                 },
                 {
-                    "blueBerry":3,
+                    "bulkBerry":3,
                     "fossil":1,
                     "icyRock":1
                 },
                 {
-                    "blueBerry":3,
+                    "bulkBerry":3,
                     "icyRock":2
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "bigRoot":1,
                     "icyRock":2
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "icyRock":2,
                     "honey":1
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "icyRock":2,
                     "balmMushroom":1
                 }
@@ -602,7 +602,7 @@ var database = {
                     "balmMushroom":2
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "fossil":2,
                     "balmMushroom":2
                 },
@@ -649,7 +649,7 @@ var database = {
                     "bigRoot":2
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "apricorn":2,
                     "bigRoot":2
                 },
@@ -698,39 +698,39 @@ var database = {
             },
             "unique":[
             {
-                "blueBerry":3,
+                "bulkBerry":3,
                 "apricorn":2
             },
             {
-                "blueBerry":3,
+                "bulkBerry":3,
                 "apricorn":1,
                 "fossil":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":2,
                 "honey":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":1,
                 "fossil":1,
                 "honey":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":1,
                 "icyRock":1,
                 "honey":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":1,
                 "honey":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "icyRock":1,
                 "honey":2
@@ -739,47 +739,47 @@ var database = {
             "shared":{
                 "Mud Pie (Ground Pokemon)":[
                     {
-                        "blueBerry":3,
+                        "bulkBerry":3,
                         "fossil":2
                     },
                     {
-                        "blueBerry":3,
+                        "bulkBerry":3,
                         "fossil":1,
                         "icyRock":1
                     },
                     {
-                        "blueBerry":3,
+                        "bulkBerry":3,
                         "icyRock":2
                     },
                     {
-                        "blueBerry":2,
+                        "bulkBerry":2,
                         "fossil":2,
                         "honey":1
                     },
                     {
-                        "blueBerry":2,
+                        "bulkBerry":2,
                         "fossil":1,
                         "icyRock":1,
                         "honey":1
                     },
                     {
-                        "blueBerry":2,
+                        "bulkBerry":2,
                         "icyRock":2,
                         "honey":1
                     },
                     {
-                        "blueBerry":1,
+                        "bulkBerry":1,
                         "fossil":2,
                         "honey":2
                     },
                     {
-                        "blueBerry":1,
+                        "bulkBerry":1,
                         "fossil":1,
                         "icyRock":1,
                         "honey":2
                     },
                     {
-                        "blueBerry":1,
+                        "bulkBerry":1,
                         "icyRock":2,
                         "honey":2
                     },
@@ -799,16 +799,16 @@ var database = {
                     ],
                     "Plain Crepe (Normal Pokemon)":[
                     {
-                        "blueBerry":3,
+                        "bulkBerry":3,
                         "fossil":2
                     },
                     {
-                        "blueBerry":2,
+                        "bulkBerry":2,
                         "fossil":2,
                         "honey":1
                     },
                     {
-                        "blueBerry":1,
+                        "bulkBerry":1,
                         "fossil":2,
                         "honey":2
                     },
@@ -819,7 +819,7 @@ var database = {
                     ],
                     "Yellow Curry":[
                     {
-                        "blueBerry":1,
+                        "bulkBerry":1,
                         "apricorn":2,
                         "honey":2
                     },
@@ -840,21 +840,21 @@ var database = {
                     ],
                     "Blue Soda":[
                     {
-                        "blueBerry":3,
+                        "bulkBerry":3,
                         "apricorn":1,
                         "icyRock":1
                     },
                     {
-                        "blueBerry":3,
+                        "bulkBerry":3,
                         "fossil":1,
                         "icyRock":1
                     },
                     {
-                        "blueBerry":3,
+                        "bulkBerry":3,
                         "icyRock":2
                     },
                     {
-                        "blueBerry":2,
+                        "bulkBerry":2,
                         "icyRock":2,
                         "honey":1
                     }
@@ -893,18 +893,18 @@ var database = {
                 "icyRock":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":2,
                 "fossil":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":2,
                 "fossil":1,
                 "icyRock":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":2,
                 "icyRock":2
             },
@@ -991,30 +991,30 @@ var database = {
             "unique":[
             {
                 "tinyMushroom":2,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "icyRock":1,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "honey":1,
                 "balmMushroom":1
             },
@@ -1060,7 +1060,7 @@ var database = {
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":1,
                 "balmMushroom":2
             },
@@ -1136,7 +1136,7 @@ var database = {
                 },
                 {
                     "tinyMushroom":1,
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "apricorn":1,
                     "honey":2
                 },
@@ -1168,13 +1168,13 @@ var database = {
                     "honey":3
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "apricorn":1,
                     "bigRoot":1,
                     "honey":2
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "apricorn":1,
                     "honey":2,
                     "balmMushroom":1
@@ -1250,35 +1250,35 @@ var database = {
                 "honey Nectar (Bug Pokemon)":[
                 {
                     "tinyMushroom":1,
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "honey":3
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "apricorn":1,
                     "honey":2
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "honey":3
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "fossil":1,
                     "honey":3
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "bigRoot":1,
                     "honey":3
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "icyRock":1,
                     "honey":3
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "honey":3,
                     "balmMushroom":1
                 }
@@ -1302,35 +1302,35 @@ var database = {
             "unique":[
             {
                 "tinyMushroom":1,
-                "blueBerry":3,
+                "bulkBerry":3,
                 "honey":1
             },
             {
-                "blueBerry":3,
+                "bulkBerry":3,
                 "apricorn":1,
                 "honey":1
             },
             {
-                "blueBerry":3,
+                "bulkBerry":3,
                 "fossil":1,
                 "honey":1
             },
             {
-                "blueBerry":3,
+                "bulkBerry":3,
                 "bigRoot":1,
                 "honey":1
             },
             {
-                "blueBerry":3,
+                "bulkBerry":3,
                 "honey":2
             },
             {
-                "blueBerry":3,
+                "bulkBerry":3,
                 "honey":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "icyRock":1,
                 "honey":2
             }
@@ -1356,7 +1356,7 @@ var database = {
             "unique":[
             {
                 "tinyMushroom":3,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "balmMushroom":1
             },
             {
@@ -1385,7 +1385,7 @@ var database = {
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "balmMushroom":2
             },
             {
@@ -1419,7 +1419,7 @@ var database = {
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "balmMushroom":3
             },
             {
@@ -1450,7 +1450,7 @@ var database = {
                 },
                 {
                     "tinyMushroom":4,
-                    "blueBerry":1
+                    "bulkBerry":1
                 },
                 {
                     "tinyMushroom":4,
@@ -1493,7 +1493,7 @@ var database = {
                     "balmMushroom":4
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "balmMushroom":4
                 },
                 {
@@ -1538,18 +1538,18 @@ var database = {
             },
             "unique":[
             {
-                "blueBerry":3,
+                "bulkBerry":3,
                 "fossil":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "fossil":1,
                 "honey":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "honey":2,
                 "balmMushroom":1
@@ -1558,16 +1558,16 @@ var database = {
             "shared":{
                 "Mud Pie (Ground Pokemon)":[
                 {
-                    "blueBerry":3,
+                    "bulkBerry":3,
                     "fossil":2
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "fossil":2,
                     "honey":1
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "fossil":2,
                     "honey":2
                 },
@@ -1578,16 +1578,16 @@ var database = {
                 ],
                 "Brain Food (Psychic Pokemon)":[
                 {
-                    "blueBerry":3,
+                    "bulkBerry":3,
                     "fossil":2
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "fossil":2,
                     "honey":1
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "fossil":2,
                     "honey":2
                 },
@@ -1609,16 +1609,16 @@ var database = {
                 ],
                 "Get Swole (Fighting Pokemon)":[
                 {
-                    "blueBerry":3,
+                    "bulkBerry":3,
                     "balmMushroom":2
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "honey":1,
                     "balmMushroom":2
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "honey":2,
                     "balmMushroom":2
                 },
@@ -1646,32 +1646,32 @@ var database = {
             "unique":[
             {
                 "tinyMushroom":2,
-                "blueBerry":3
+                "bulkBerry":3
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "honey":1
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "honey":2
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":3,
+                "bulkBerry":3,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "honey":1,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "honey":2,
                 "balmMushroom":1
             }
@@ -1694,16 +1694,16 @@ var database = {
                     ],
                     "Plain Crepe (Normal Pokemon)":[
                     {
-                        "blueBerry":3,
+                        "bulkBerry":3,
                         "balmMushroom":2
                     },
                     {
-                        "blueBerry":2,
+                        "bulkBerry":2,
                         "honey":1,
                         "balmMushroom":2
                     },
                     {
-                        "blueBerry":1,
+                        "bulkBerry":1,
                         "honey":2,
                         "balmMushroom":2
                     },
@@ -1813,35 +1813,35 @@ var database = {
                 "Watt a Risotto (Electric Pokemon)":[
                 {
                     "tinyMushroom":1,
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "honey":3
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "apricorn":1,
                     "honey":2
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "honey":3
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "fossil":1,
                     "honey":3
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "bigRoot":1,
                     "honey":3
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "icyRock":1,
                     "honey":3
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "honey":3,
                     "balmMushroom":1
                 }
@@ -1865,7 +1865,7 @@ var database = {
             "unique":[
                 {
                     "tinyMushroom":3,
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "bigRoot":1
                 },
                 {
@@ -1894,7 +1894,7 @@ var database = {
                 },
                 {
                     "tinyMushroom":2,
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "bigRoot":2
                 },
                 {
@@ -1928,7 +1928,7 @@ var database = {
                 },
                 {
                     "tinyMushroom":1,
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "bigRoot":3
                 },
                 {
@@ -1961,7 +1961,7 @@ var database = {
                     "balmMushroom":1
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "bigRoot":4
                 },
                 {
@@ -1995,7 +1995,7 @@ var database = {
                 },
                 {
                     "tinyMushroom":4,
-                    "blueBerry":1
+                    "bulkBerry":1
                 },
                 {
                     "tinyMushroom":4,
@@ -2068,21 +2068,21 @@ var database = {
                     "honey":4
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "apricorn":4
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "apricorn":3,
                     "honey":1
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "apricorn":1,
                     "honey":3
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "honey":4
                 },
                 {
@@ -2189,7 +2189,7 @@ var database = {
             "shared":{
                 "Brain Food (Psychic Pokemon)":[
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "apricorn":2,
                     "honey":2
                 },
@@ -2227,16 +2227,16 @@ var database = {
             "unique":[
                 {
                     "tinyMushroom":1,
-                    "blueBerry":4
+                    "bulkBerry":4
                 },
                 {
                     "tinyMushroom":1,
-                    "blueBerry":3,
+                    "bulkBerry":3,
                     "icyRock":1
                 },
                 {
                     "tinyMushroom":1,
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "icyRock":3
                 },
                 {
@@ -2244,87 +2244,87 @@ var database = {
                     "icyRock":4
                 },
                 {
-                    "blueBerry":5
+                    "bulkBerry":5
                 },
                 {
-                    "blueBerry":4,
+                    "bulkBerry":4,
                     "apricorn":1
                 },
                 {
-                    "blueBerry":4,
+                    "bulkBerry":4,
                     "fossil":1
                 },
                 {
-                    "blueBerry":4,
+                    "bulkBerry":4,
                     "bigRoot":1
                 },
                 {
-                    "blueBerry":4,
+                    "bulkBerry":4,
                     "icyRock":1
                 },
                 {
-                    "blueBerry":4,
+                    "bulkBerry":4,
                     "honey":1
                 },
                 {
-                    "blueBerry":4,
+                    "bulkBerry":4,
                     "balmMushroom":1
                 },
                 {
-                    "blueBerry":3,
+                    "bulkBerry":3,
                     "bigRoot":1,
                     "icyRock":1
                 },
                 {
-                    "blueBerry":3,
+                    "bulkBerry":3,
                     "icyRock":1,
                     "honey":1
                 },
                 {
-                    "blueBerry":3,
+                    "bulkBerry":3,
                     "icyRock":1,
                     "balmMushroom":1
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "apricorn":1,
                     "icyRock":2
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "fossil":1,
                     "icyRock":2
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "icyRock":3
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "apricorn":1,
                     "icyRock":3
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "fossil":1,
                     "icyRock":3
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "bigRoot":1,
                     "icyRock":3
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "icyRock":4
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "icyRock":3,
                     "honey":1
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "icyRock":3,
                     "balmMushroom":1
                 },
@@ -2356,51 +2356,51 @@ var database = {
                 "Mud Pie (Ground Pokemon)":[
                 {
                     "tinyMushroom":1,
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "icyRock":2
                 },
                 {
-                    "blueBerry":3,
+                    "bulkBerry":3,
                     "fossil":1,
                     "icyRock":1
                 },
                 {
-                    "blueBerry":3,
+                    "bulkBerry":3,
                     "icyRock":2
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "bigRoot":1,
                     "icyRock":2
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "icyRock":2,
                     "honey":1
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "icyRock":2,
                     "balmMushroom":1
                 }
                 ],
                 "Brain Food (Psychic Pokemon)":[
                 {
-                    "blueBerry":3,
+                    "bulkBerry":3,
                     "apricorn":1,
                     "icyRock":1
                 },
                 {
-                    "blueBerry":3,
+                    "bulkBerry":3,
                     "fossil":1,
                     "icyRock":1
                 },
                 {
-                    "blueBerry":3,
+                    "bulkBerry":3,
                     "icyRock":2
                 },
                 {
-                    "blueBerry":2,
+                    "bulkBerry":2,
                     "icyRock":2,
                     "honey":1
                 }
@@ -2432,16 +2432,16 @@ var database = {
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":4
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":3,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "balmMushroom":3
             },
@@ -2526,7 +2526,7 @@ var database = {
                     "balmMushroom":2
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "fossil":2,
                     "balmMushroom":2
                 },
@@ -2561,7 +2561,7 @@ var database = {
                     "balmMushroom":4
                 },
                 {
-                    "blueBerry":1,
+                    "bulkBerry":1,
                     "balmMushroom":4
                 },
                 {
@@ -2607,26 +2607,26 @@ var database = {
             "unique":[
             {
                 "tinyMushroom":3,
-                "blueBerry":2
+                "bulkBerry":2
             },
             {
                 "tinyMushroom":3,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1
             },
             {
                 "tinyMushroom":3,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1
             },
             {
                 "tinyMushroom":3,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "icyRock":1
             },
             {
                 "tinyMushroom":3,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "honey":1
             },
             {
@@ -2664,86 +2664,86 @@ var database = {
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":1
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "fossil":1
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "bigRoot":1
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "icyRock":1
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":2
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":1
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "bigRoot":1
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "icyRock":1
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "honey":1
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "bigRoot":1
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "honey":1
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":1,
                 "icyRock":1
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":1,
                 "honey":1
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":1,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":2,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "icyRock":1,
                 "honey":1
             },
@@ -2888,369 +2888,369 @@ var database = {
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":3,
+                "bulkBerry":3,
                 "apricorn":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":3,
+                "bulkBerry":3,
                 "fossil":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":3,
+                "bulkBerry":3,
                 "bigRoot":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":2
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":1,
                 "fossil":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":1,
                 "bigRoot":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":1,
                 "icyRock":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":1,
                 "honey":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":1,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "fossil":1,
                 "bigRoot":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "fossil":1,
                 "honey":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "fossil":1,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "bigRoot":2
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "bigRoot":1,
                 "icyRock":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "bigRoot":1,
                 "honey":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "bigRoot":1,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "icyRock":1,
                 "honey":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "icyRock":1,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "honey":2
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":2,
+                "bulkBerry":2,
                 "balmMushroom":2
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":3
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":2,
                 "fossil":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":2,
                 "bigRoot":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":2,
                 "icyRock":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":2,
                 "honey":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":2,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":2
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":1,
                 "bigRoot":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":1,
                 "icyRock":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":1,
                 "honey":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":1,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "bigRoot":2
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "bigRoot":1,
                 "icyRock":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "bigRoot":1,
                 "honey":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "bigRoot":1,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "icyRock":2
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "icyRock":1,
                 "honey":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "icyRock":1,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "honey":1,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "balmMushroom":2
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":3
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":2,
                 "icyRock":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "bigRoot":2
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "bigRoot":1,
                 "honey":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "bigRoot":1,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "icyRock":2
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "honey":2
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "honey":1,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "balmMushroom":2
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":2,
                 "icyRock":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":2,
                 "honey":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":2,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":1,
                 "icyRock":1,
                 "honey":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":1,
                 "icyRock":1,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":1,
                 "honey":2
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":1,
                 "honey":1,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "icyRock":1,
                 "honey":2
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "icyRock":1,
                 "honey":1,
                 "balmMushroom":1
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "icyRock":1,
                 "balmMushroom":2
             },
             {
                 "tinyMushroom":1,
-                "blueBerry":1,
+                "bulkBerry":1,
                 "honey":1,
                 "balmMushroom":2
             },
@@ -3693,675 +3693,675 @@ var database = {
                 "balmMushroom":2
             },
             {
-                "blueBerry":3,
+                "bulkBerry":3,
                 "apricorn":1,
                 "bigRoot":1
             },
             {
-                "blueBerry":3,
+                "bulkBerry":3,
                 "apricorn":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":3,
+                "bulkBerry":3,
                 "fossil":1,
                 "bigRoot":1
             },
             {
-                "blueBerry":3,
+                "bulkBerry":3,
                 "bigRoot":2
             },
             {
-                "blueBerry":3,
+                "bulkBerry":3,
                 "bigRoot":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":3
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":2,
                 "fossil":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":2,
                 "bigRoot":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":2,
                 "icyRock":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":2,
                 "balmMushroom":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":1,
                 "fossil":2
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":1,
                 "fossil":1,
                 "bigRoot":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":1,
                 "fossil":1,
                 "icyRock":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":1,
                 "fossil":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":1,
                 "bigRoot":2
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":1,
                 "bigRoot":1,
                 "icyRock":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":1,
                 "bigRoot":1,
                 "honey":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":1,
                 "bigRoot":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":1,
                 "icyRock":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":1,
                 "honey":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "apricorn":1,
                 "balmMushroom":2
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "fossil":3
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "fossil":2,
                 "icyRock":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "fossil":1,
                 "bigRoot":2
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "fossil":1,
                 "bigRoot":1,
                 "honey":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "fossil":1,
                 "bigRoot":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "fossil":1,
                 "honey":2
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "fossil":1,
                 "balmMushroom":2
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "bigRoot":3
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "bigRoot":2,
                 "icyRock":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "bigRoot":2,
                 "honey":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "bigRoot":2,
                 "balmMushroom":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "bigRoot":1,
                 "icyRock":1,
                 "honey":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "bigRoot":1,
                 "icyRock":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "bigRoot":1,
                 "honey":2
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "bigRoot":1,
                 "honey":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "bigRoot":1,
                 "balmMushroom":2
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "icyRock":1,
                 "honey":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "icyRock":1,
                 "balmMushroom":2
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "honey":2,
                 "balmMushroom":1
             },
             {
-                "blueBerry":2,
+                "bulkBerry":2,
                 "balmMushroom":3
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":3,
                 "fossil":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":3,
                 "bigRoot":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":3,
                 "icyRock":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":3,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":2,
                 "fossil":1,
                 "bigRoot":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":2,
                 "fossil":1,
                 "honey":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":2,
                 "fossil":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":2,
                 "bigRoot":1,
                 "icyRock":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":2,
                 "bigRoot":1,
                 "honey":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":2,
                 "bigRoot":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":2,
                 "icyRock":1,
                 "honey":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":2,
                 "icyRock":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":2,
                 "honey":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":2,
                 "balmMushroom":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":3
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":2,
                 "bigRoot":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":2,
                 "icyRock":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":2,
                 "honey":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":2,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":1,
                 "bigRoot":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":1,
                 "bigRoot":1,
                 "icyRock":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":1,
                 "bigRoot":1,
                 "honey":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":1,
                 "bigRoot":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":1,
                 "icyRock":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":1,
                 "icyRock":1,
                 "honey":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":1,
                 "icyRock":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":1,
                 "honey":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "fossil":1,
                 "balmMushroom":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "bigRoot":3
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "bigRoot":2,
                 "icyRock":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "bigRoot":2,
                 "honey":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "bigRoot":2,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "bigRoot":1,
                 "icyRock":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "bigRoot":1,
                 "icyRock":1,
                 "honey":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "bigRoot":1,
                 "icyRock":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "bigRoot":1,
                 "honey":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "bigRoot":1,
                 "balmMushroom":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "icyRock":2,
                 "honey":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "icyRock":2,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "icyRock":1,
                 "honey":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "icyRock":1,
                 "balmMushroom":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "honey":1,
                 "balmMushroom":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "apricorn":1,
                 "balmMushroom":3
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":3,
                 "bigRoot":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":3,
                 "icyRock":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":3,
                 "honey":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":2,
                 "bigRoot":1,
                 "icyRock":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":2,
                 "icyRock":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":2,
                 "icyRock":1,
                 "honey":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":2,
                 "icyRock":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "bigRoot":3
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "bigRoot":2,
                 "honey":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "bigRoot":2,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "bigRoot":1,
                 "icyRock":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "bigRoot":1,
                 "honey":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "bigRoot":1,
                 "honey":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "bigRoot":1,
                 "balmMushroom":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "icyRock":2,
                 "honey":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "icyRock":2,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "fossil":1,
                 "honey":1,
                 "balmMushroom":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":3,
                 "icyRock":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":3,
                 "honey":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":3,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":2,
                 "icyRock":1,
                 "honey":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":2,
                 "icyRock":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":2,
                 "honey":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":2,
                 "honey":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":2,
                 "balmMushroom":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":1,
                 "icyRock":1,
                 "honey":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":1,
                 "icyRock":1,
                 "honey":1,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":1,
                 "icyRock":1,
                 "balmMushroom":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":1,
                 "honey":2,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":1,
                 "honey":1,
                 "balmMushroom":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "bigRoot":1,
                 "balmMushroom":3
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "icyRock":1,
                 "honey":2,
                 "balmMushroom":1
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "icyRock":1,
                 "honey":1,
                 "balmMushroom":2
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "icyRock":1,
                 "balmMushroom":3
             },
             {
-                "blueBerry":1,
+                "bulkBerry":1,
                 "honey":1,
                 "balmMushroom":3
             },
@@ -5050,9 +5050,9 @@ var database = {
             "image": ".jpg",
             "value": 2
         },
-        "blukBerry": {
-            "name": "Bluk berries",
-            "id": "bluk-berries",
+        "bulkBerry": {
+            "name": "Bulk berries",
+            "id": "bulk-berries",
             "image": ".jpg",
             "value": 1
         },

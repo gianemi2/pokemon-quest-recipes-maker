@@ -2,17 +2,30 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Recipes Creator</title>
+	<link rel="stylesheet" href="style.css">
 	<script src="jquery-3.3.1.min.js"></script>
 	<script src="database.js"></script>
 </head>
 <body>
-	<h1>Recipes creator</h1>
-	<div class="ingredients" style="display: flex;">
+	<section class="homepage active">
+		<h1>Recipes creator</h1>
+		<div class="ingredients" style="display: flex;">
 		
-	</div>
-	<div class="recipes">
-		
-	</div>
+		</div>
+		<div class="recipes">
+			
+		</div>
+	</section>
+	<section class="recipe-page">
+		<h1>List of all recipes</h1>
+		<div class="recipes-list">
+			<div class="recipe">
+				<div class="recipe-ingredients"><b>Recipe's ingredients</b></div>
+				<div class="sum"><b>Difficult</b></div>
+				<div class="available-pkmn"><b>Catchable Pokemons</b></div>
+			</div>
+		</div>
+	</section>
 </body>
 <script src="main.js"></script>
 </html>
