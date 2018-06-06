@@ -17,9 +17,7 @@ If you want set how many ingredients you have in your account for filter recipes
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Marco Giannini** - *Everything (ATM)* - [marcogiannini.net](https://marcogiannini.net)
 
 ## Acknowledgments
 
