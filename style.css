@@ -20,6 +20,10 @@ section.active{
 	width: 100%;
 }
 
+.backToHomepage{
+	font-size: 24px;
+}
+
 /* Homepage */
 
 .recipe{
