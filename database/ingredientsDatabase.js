@@ -270,7 +270,7 @@ var databaseIngredients = {
                         "minerals"
                     ]
                 },
-                "m_itemPrice": 3.0,
+                "m_itemPrice": 3,
                 "m_itemType": {
                     "Array": [
                         1,
@@ -309,7 +309,7 @@ var databaseIngredients = {
                         "legendary"
                     ]
                 },
-                "m_itemPrice": 4.0,
+                "m_itemPrice": 4,
                 "m_itemType": {
                     "Array": [
                         4

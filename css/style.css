@@ -12,6 +12,50 @@
 
 body{
 	font-family: roboto;
+	margin-bottom: 76px;
+}
+
+:focus {
+    outline: none!important;
+}
+
+.collapsible{
+	box-shadow: none;
+	border: none;
+}
+
+.collapsible li{
+	box-shadow: 0 8px 17px 2px rgba(0,0,0,0.1), 0 3px 14px 2px rgba(0,0,0,0.01), 0 5px 5px -3px rgba(0,0,0,0.01);
+    margin-bottom: 30px;
+    border: 1px solid #e0e0e0;
+    border-radius: 15px;
+}
+
+.collapsible li > div{
+	border: none;
+}
+
+.collapsible li .collapsible-header{
+	background-color: transparent;
+    font-weight: 700;
+    color: rgba(0,0,0,.7);
+}
+
+.collapsible-body{
+	padding: 0;
+}
+
+.collapsible-body > div{
+	padding: 1rem;
+	border-bottom: 1px solid #e0e0e0;
+}
+
+.collapsible-body > div:nth-child(1){
+	border-top: 1px solid #bdbdbd;
+}
+
+.collapsible-body > div:nth-child(even){
+	background-color: #fafafa;
 }
 
 /*section{
@@ -44,12 +88,23 @@ h1{
     padding-bottom: 10px;
 }
 
+h6{
+    margin-top: .46rem;
+}
+
 .tabs{
 	position: fixed;
 	bottom: 0;
 	left: 0;
 	right: 0;
 	z-index: 999;
+	background-color: #f2f2f2;
+    border-top: 1px solid #c2c2c2;
+    height: 56px;
+}
+
+.tabs .tab{
+	height: 56px;
 }
 
 .tabs .tab a{
@@ -62,7 +117,7 @@ h1{
 
 .tabs .tab a i{
 	display: block;
-	margin-top: 4px;
+	margin-top: 8px;
 }
 
 .tabs .tab.disabled a, .tabs .tab.disabled a:hover{
@@ -85,6 +140,22 @@ h1{
 .collection.recipes{
 	border: none;
 	overflow: initial;
+}
+
+.collection.with-header{
+	border-top: 0;
+}
+
+.collection.with-header .collection-item{
+	padding: 5px 30px;
+}
+
+.modal.bottom-sheet{
+	max-height: 52%;
+}
+
+.collection .collection-item:nth-child(odd){
+	background-color: #fafafa;
 }
 
 .collection .collection-item.avatar{

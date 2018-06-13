@@ -57,12 +57,12 @@ var databaseRecipes = {
                 "m_pokeTypeValue": 0,
                 "m_unlock": 0,
                 "pokemon": {
-                    'total5': "Meowth(?), Nidoran Male, Oddish",
-                    'total6': "Clefairy, Ekans, Grimer, Horsea(?), Onyx(?), Ponyta",
-                    'total7': "Clefairy, Ekans, Grimer, Horsea(?), Onyx(?), Ponyta",
-                    'total8': "Porygon",
-                    'total9': "Porygon",
-                    'total10': "Bulbasaur, Eevee, Farfetch'd, Gastly, Hitmonchan, Kabuto, Lapras, Magmar, Mr. Mime, Pinsir, Snorlax, Squirtle, Venonat"
+                    '5': "Meowth(?), Nidoran Male, Oddish",
+                    '6': "Clefairy, Ekans, Grimer, Horsea(?), Onyx(?), Ponyta",
+                    '7': "Clefairy, Ekans, Grimer, Horsea(?), Onyx(?), Ponyta",
+                    '8': "Porygon",
+                    '9': "Porygon",
+                    '10': "Bulbasaur, Eevee, Farfetch'd, Gastly, Hitmonchan, Kabuto, Lapras, Magmar, Mr. Mime, Pinsir, Snorlax, Squirtle, Venonat"
                 }
             },
             {
@@ -123,12 +123,12 @@ var databaseRecipes = {
                 "m_pokeTypeValue": 1,
                 "m_unlock": 0,
                 "pokemon": {
-                    'total5': "Goldeen, Krabby, Mankey, Voltorb, Vulpix",
-                    'total6': "Doduo, Lickitung, Paras, Porygon, Slowpoke",
-                    'total7': "Doduo, Lickitung, Paras, Porygon, Slowpoke",
-                    'total8': "Doduo, Porygon(?)",
-                    'total9': "Doduo",
-                    'total10': "Charmander, Eevee, Hitmonchan, Jynx, Kabuto"
+                    '5': "Goldeen, Krabby, Mankey, Voltorb, Vulpix",
+                    '6': "Doduo, Lickitung, Paras, Porygon, Slowpoke",
+                    '7': "Doduo, Lickitung, Paras, Porygon, Slowpoke",
+                    '8': "Doduo, Porygon(?)",
+                    '9': "Doduo",
+                    '10': "Charmander, Eevee, Hitmonchan, Jynx, Kabuto"
                 }
             },
             {
@@ -189,12 +189,12 @@ var databaseRecipes = {
                 "m_pokeTypeValue": 2,
                 "m_unlock": 0,
                 "pokemon": {
-                    'total5': "Catapie, Nidoran Male, Poliwag(?), Rattata, Tentacool",
-                    'total6': "Ekans, Grimer, Horsea, Koffing(?), Machop",
-                    'total7': "Ekans, Grimer, Horsea, Koffing(?), Machop",
-                    'total8': "Magikarp, Dratini",
-                    'total9': "Magikarp, Dratini",
-                    'total10': "Ditto, Dratini, Lapras, Omanyte, Squirtle, Tangela"
+                    '5': "Catapie, Nidoran Male, Poliwag(?), Rattata, Tentacool",
+                    '6': "Ekans, Grimer, Horsea, Koffing(?), Machop",
+                    '7': "Ekans, Grimer, Horsea, Koffing(?), Machop",
+                    '8': "Magikarp, Dratini",
+                    '9': "Magikarp, Dratini",
+                    '10': "Ditto, Dratini, Lapras, Omanyte, Squirtle, Tangela"
                 }
             },
             {
@@ -255,12 +255,12 @@ var databaseRecipes = {
                 "m_pokeTypeValue": 3,
                 "m_unlock": 0,
                 "pokemon": {
-                    'total5': "Abra, Bellsprout, Meowth, Pidgey, Sandshrew, Staryu, Weedle",
-                    'total6': "Ponyta, Psyduck(?), Snorlax",
-                    'total7': "Ponyta, Psyduck(?), Snorlax",
-                    'total8': "Drowzee",
-                    'total9': "Drowzee",
-                    'total10': "Bulbasaur, Hitmonlee, Kangaskhan, Scyther"
+                    '5': "Abra, Bellsprout, Meowth, Pidgey, Sandshrew, Staryu, Weedle",
+                    '6': "Ponyta, Psyduck(?), Snorlax",
+                    '7': "Ponyta, Psyduck(?), Snorlax",
+                    '8': "Drowzee",
+                    '9': "Drowzee",
+                    '10': "Bulbasaur, Hitmonlee, Kangaskhan, Scyther"
                 }
             },
             {
@@ -321,12 +321,12 @@ var databaseRecipes = {
                 "m_pokeTypeValue": 4,
                 "m_unlock": 0,
                 "pokemon": {
-                    'total5': "Cubone, Clefairy, Geodude, Nidoran Female, Oddish, Rhyhorn",
-                    'total6': "Exeggcute(?), Onix, Zubat(?)",
-                    'total7': "Exeggcute(?), Onix, Zubat(?)",
-                    'total8': "Clefairy",
-                    'total9': "Clefairy",
-                    'total10': "Cubone, Venonat"
+                    '5': "Cubone, Clefairy, Geodude, Nidoran Female, Oddish, Rhyhorn",
+                    '6': "Exeggcute(?), Onix, Zubat(?)",
+                    '7': "Exeggcute(?), Onix, Zubat(?)",
+                    '8': "Clefairy",
+                    '9': "Clefairy",
+                    '10': "Cubone, Venonat"
                 }
             },
             {
@@ -387,12 +387,12 @@ var databaseRecipes = {
                 "m_pokeTypeValue": 10,
                 "m_unlock": 0,
                 "pokemon": {
-                    'total5': "Goldeen, Krabby, Magikarp(?), Poliwag, Psyduck, Tentacool",
-                    'total6': "Seel(?), Shellder, Staryu(?)",
-                    'total7': "Seel(?), Shellder, Staryu(?)",
-                    'total8': "Unknown",
-                    'total9': "Kabuto, Lapras, Omanyte",
-                    'total10': "Squirtle"
+                    '5': "Goldeen, Krabby, Magikarp(?), Poliwag, Psyduck, Tentacool",
+                    '6': "Seel(?), Shellder, Staryu(?)",
+                    '7': "Seel(?), Shellder, Staryu(?)",
+                    '8': "Unknown",
+                    '9': "Kabuto, Lapras, Omanyte",
+                    '10': "Squirtle"
                 }
             },
             {
@@ -453,12 +453,12 @@ var databaseRecipes = {
                 "m_pokeTypeValue": 0,
                 "m_unlock": 0,
                 "pokemon": {
-                    'total5': "Meowth(?), Pidgey, Rattata(?), Spearow",
-                    'total6': "Doduo",
-                    'total7': "Doduo",
-                    'total8': "Clefairy(?), Jigglypuff, Lickitung(?), Snorlax(?), Tauros(?)",
-                    'total9': "Clefairy(?), Jigglypuff, Lickitung(?), Snorlax(?), Tauros(?)",
-                    'total10': "Chansey, Ditto(?), Eevee, Farfetch'd(?), Kangaskhan(?)"
+                    '5': "Meowth(?), Pidgey, Rattata(?), Spearow",
+                    '6': "Doduo",
+                    '7': "Doduo",
+                    '8': "Clefairy(?), Jigglypuff, Lickitung(?), Snorlax(?), Tauros(?)",
+                    '9': "Clefairy(?), Jigglypuff, Lickitung(?), Snorlax(?), Tauros(?)",
+                    '10': "Chansey, Ditto(?), Eevee, Farfetch'd(?), Kangaskhan(?)"
                 }
             },
             {
@@ -519,12 +519,12 @@ var databaseRecipes = {
                 "m_pokeTypeValue": 3,
                 "m_unlock": 0,
                 "pokemon": {
-                    'total5': "Goldeen, Krabby, Mankey, Voltorb, Vulpix",
-                    'total6': "Doduo, Lickitung, Paras, Porygon, Slowpoke",
-                    'total7': "Doduo, Lickitung, Paras, Porygon, Slowpoke",
-                    'total8': "Doduo, Porygon(?)",
-                    'total9': "Doduo",
-                    'total10': "Charmander, Eevee, Hitmonchan, Jynx, Kabuto"
+                    '5': "Goldeen, Krabby, Mankey, Voltorb, Vulpix",
+                    '6': "Doduo, Lickitung, Paras, Porygon, Slowpoke",
+                    '7': "Doduo, Lickitung, Paras, Porygon, Slowpoke",
+                    '8': "Doduo, Porygon(?)",
+                    '9': "Doduo",
+                    '10': "Charmander, Eevee, Hitmonchan, Jynx, Kabuto"
                 }
             },
             {
@@ -585,12 +585,12 @@ var databaseRecipes = {
                 "m_pokeTypeValue": 4,
                 "m_unlock": 0,
                 "pokemon": {
-                    'total5': "Geodude(?), Rhyhorn(?), Sandshrew(?)",
-                    'total6': "Onix",
-                    'total7': "Onix",
-                    'total8': "Diglett, Onix",
-                    'total9': "Diglett, Onix",
-                    'total10': "Cubone"
+                    '5': "Geodude(?), Rhyhorn(?), Sandshrew(?)",
+                    '6': "Onix",
+                    '7': "Onix",
+                    '8': "Diglett, Onix",
+                    '9': "Diglett, Onix",
+                    '10': "Cubone"
                 }
             },
             {
@@ -651,12 +651,12 @@ var databaseRecipes = {
                 "m_pokeTypeValue": 11,
                 "m_unlock": 0,
                 "pokemon": {
-                    'total5': "Unknown",
-                    'total6': "Bellsprout(?), Exeggcute, Oddish(?), Paras",
-                    'total7': "Bellsprout(?), Exeggcute, Oddish(?), Paras",
-                    'total8': "Bulbasaur, Tangela",
-                    'total9': "Tangela",
-                    'total10': "Bulbasaur"
+                    '5': "Unknown",
+                    '6': "Bellsprout(?), Exeggcute, Oddish(?), Paras",
+                    '7': "Bellsprout(?), Exeggcute, Oddish(?), Paras",
+                    '8': "Bulbasaur, Tangela",
+                    '9': "Tangela",
+                    '10': "Bulbasaur"
                 }
             },
             {
@@ -717,12 +717,12 @@ var databaseRecipes = {
                 "m_pokeTypeValue": 6,
                 "m_unlock": 0,
                 "pokemon": {
-                    'total5': "Unknown",
-                    'total6': "Unknown",
-                    'total7': "Caterpie(?), Paras, Weedle(?)",
-                    'total8': "Pinsir(?), Scyther(?), Venonat",
-                    'total9': "Venonat",
-                    'total10': "Pinsir(?), Scyther(?)"
+                    '5': "Unknown",
+                    '6': "Unknown",
+                    '7': "Caterpie(?), Paras, Weedle(?)",
+                    '8': "Pinsir(?), Scyther(?), Venonat",
+                    '9': "Venonat",
+                    '10': "Pinsir(?), Scyther(?)"
                 }
             },
             {
@@ -783,12 +783,12 @@ var databaseRecipes = {
                 "m_pokeTypeValue": 13,
                 "m_unlock": 0,
                 "pokemon": {
-                    'total5': "Abra",
-                    'total6': "Slowpoke, Exeggcute",
-                    'total7': "Exeggcute, Slowpoke",
-                    'total8': "Drowzee, Exeggcute, Slowpoke",
-                    'total9': "Unknown",
-                    'total10': "Mr. Mime(?), Jynx(?)"
+                    '5': "Abra",
+                    '6': "Slowpoke, Exeggcute",
+                    '7': "Exeggcute, Slowpoke",
+                    '8': "Drowzee, Exeggcute, Slowpoke",
+                    '9': "Unknown",
+                    '10': "Mr. Mime(?), Jynx(?)"
                 }
             },
             {
@@ -849,12 +849,12 @@ var databaseRecipes = {
                 "m_pokeTypeValue": 5,
                 "m_unlock": 0,
                 "pokemon": {
-                    'total5': "Rhyhorn, Geodude",
-                    'total6': "Onyx",
-                    'total7': "Onyx",
-                    'total8': "Omanyte",
-                    'total9': "Omanyte",
-                    'total10': "Omanyte"
+                    '5': "Rhyhorn, Geodude",
+                    '6': "Onyx",
+                    '7': "Onyx",
+                    '8': "Omanyte",
+                    '9': "Omanyte",
+                    '10': "Omanyte"
                 }
             },
             {
@@ -913,12 +913,12 @@ var databaseRecipes = {
                 "m_pokeTypeValue": 2,
                 "m_unlock": 0,
                 "pokemon": {
-                    'total5': "Unknown",
-                    'total6': "Unknown",
-                    'total7': "Pidgey(?), Spearow(?), Zubat",
-                    'total8': "Doduo(?), Zubat",
-                    'total9': "Doduo(?), Zubat",
-                    'total10': "Farfetch'd, Scyther"
+                    '5': "Unknown",
+                    '6': "Unknown",
+                    '7': "Pidgey(?), Spearow(?), Zubat",
+                    '8': "Doduo(?), Zubat",
+                    '9': "Doduo(?), Zubat",
+                    '10': "Farfetch'd, Scyther"
                 }
             },
             {
@@ -979,12 +979,12 @@ var databaseRecipes = {
                 "m_pokeTypeValue": 9,
                 "m_unlock": 0,
                 "pokemon": {
-                    'total5': "Growlithe, Vulpix",
-                    'total6': "Ponyta",
-                    'total7': "Ponyta",
-                    'total8': "Charmander",
-                    'total9': "Charmander",
-                    'total10': "Magmar"
+                    '5': "Growlithe, Vulpix",
+                    '6': "Ponyta",
+                    '7': "Ponyta",
+                    '8': "Charmander",
+                    '9': "Charmander",
+                    '10': "Magmar"
                 }
             },
             {
@@ -1045,12 +1045,12 @@ var databaseRecipes = {
                 "m_pokeTypeValue": 12,
                 "m_unlock": 0,
                 "pokemon": {
-                    'total5': "Unknown",
-                    'total6': "Unknown",
-                    'total7': "Magnemite, Voltorb(?)",
-                    'total8': "Electrabuzz",
-                    'total9': "Electrabuzz",
-                    'total10': "Pikachu"
+                    '5': "Unknown",
+                    '6': "Unknown",
+                    '7': "Magnemite, Voltorb(?)",
+                    '8': "Electrabuzz",
+                    '9': "Electrabuzz",
+                    '10': "Pikachu"
                 }
             },
             {
@@ -1109,12 +1109,12 @@ var databaseRecipes = {
                 "m_pokeTypeValue": 1,
                 "m_unlock": 0,
                 "pokemon": {
-                    'total5': "Unknown",
-                    'total6': "Machop, Mankey(?)",
-                    'total7': "Machop, Mankey(?)",
-                    'total8': "Machop",
-                    'total9': "Hitmonchan(?), Hitmonlee(?)",
-                    'total10': "Unknown"
+                    '5': "Unknown",
+                    '6': "Machop, Mankey(?)",
+                    '7': "Machop, Mankey(?)",
+                    '8': "Machop",
+                    '9': "Hitmonchan(?), Hitmonlee(?)",
+                    '10': "Unknown"
                 }
             },
             {
@@ -1175,12 +1175,12 @@ var databaseRecipes = {
                 "m_pokeTypeValue": 5,
                 "m_unlock": 0,
                 "pokemon": {
-                    'total5': "Unknown",
-                    'total6': "Unknown",
-                    'total7': "Unknown",
-                    'total8': "Unknown",
-                    'total9': "Articuno, Zapdos, Moltres",
-                    'total10': "Mewtwo, Mew"
+                    '5': "Unknown",
+                    '6': "Unknown",
+                    '7': "Unknown",
+                    '8': "Unknown",
+                    '9': "Articuno, Zapdos, Moltres",
+                    '10': "Mewtwo, Mew"
                 }
             }
         ]

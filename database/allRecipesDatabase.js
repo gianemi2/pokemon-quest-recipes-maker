@@ -160,7 +160,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -282,7 +282,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -620,7 +620,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -724,7 +724,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -954,7 +954,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -1172,7 +1172,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -1316,7 +1316,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -1422,7 +1422,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -1626,7 +1626,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -1822,7 +1822,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -1882,7 +1882,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -2088,7 +2088,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -2184,7 +2184,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -2354,7 +2354,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -2432,7 +2432,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -2564,7 +2564,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -2676,7 +2676,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -3062,7 +3062,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -3218,7 +3218,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -3294,7 +3294,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -3594,7 +3594,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -3648,7 +3648,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -3726,7 +3726,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -3852,7 +3852,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -4006,7 +4006,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -4078,7 +4078,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -4278,7 +4278,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -4356,7 +4356,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -4468,7 +4468,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -4580,7 +4580,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -4878,7 +4878,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -4930,7 +4930,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -5026,7 +5026,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -5158,7 +5158,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -5194,7 +5194,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -5282,7 +5282,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -5404,7 +5404,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -5544,7 +5544,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -5578,7 +5578,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -5788,7 +5788,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -5804,7 +5804,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -5834,7 +5834,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -5866,7 +5866,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -5928,7 +5928,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -6038,7 +6038,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -6182,7 +6182,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -6252,7 +6252,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -6306,7 +6306,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -6340,7 +6340,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -6512,7 +6512,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -6530,7 +6530,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -6582,7 +6582,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -6722,7 +6722,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -6804,7 +6804,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -6872,7 +6872,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -6958,7 +6958,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -7124,7 +7124,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -7282,7 +7282,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -7352,7 +7352,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -7520,7 +7520,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -7616,7 +7616,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -7804,7 +7804,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -7920,7 +7920,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -8052,7 +8052,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -8200,7 +8200,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -8340,7 +8340,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -8356,7 +8356,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -8602,7 +8602,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -8720,7 +8720,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -8814,7 +8814,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -8888,7 +8888,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -8962,7 +8962,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -9016,7 +9016,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -9172,7 +9172,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -9242,7 +9242,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -9352,7 +9352,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -9502,7 +9502,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -9698,7 +9698,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -9766,7 +9766,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -9838,7 +9838,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -9962,7 +9962,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -10264,7 +10264,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -10316,7 +10316,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -10580,7 +10580,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -10616,7 +10616,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -10742,7 +10742,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -10842,7 +10842,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -10914,7 +10914,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -11078,7 +11078,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -11156,7 +11156,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -11268,7 +11268,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -11380,7 +11380,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -11712,7 +11712,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -11746,7 +11746,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -11842,7 +11842,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -11954,7 +11954,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -12024,7 +12024,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -12114,7 +12114,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -12220,7 +12220,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -12376,7 +12376,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -12410,7 +12410,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -12576,7 +12576,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -12592,7 +12592,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -12622,7 +12622,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -13072,7 +13072,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -13106,7 +13106,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -13216,7 +13216,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -13330,7 +13330,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -13520,7 +13520,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -13590,7 +13590,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -13664,7 +13664,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -13752,7 +13752,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -14086,7 +14086,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -14198,7 +14198,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -14314,7 +14314,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -14422,7 +14422,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -14618,7 +14618,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -14866,7 +14866,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -14930,7 +14930,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -15026,7 +15026,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           0
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -15841,7 +15841,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           1
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -15983,7 +15983,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           1
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -16107,7 +16107,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           1
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -16157,7 +16157,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           1
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -16189,7 +16189,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           1
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -16221,7 +16221,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           1
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -16377,7 +16377,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           1
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -16429,7 +16429,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           1
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -16465,7 +16465,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           1
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -16501,7 +16501,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           1
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -16553,7 +16553,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           1
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -16589,7 +16589,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           1
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -16625,7 +16625,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           1
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -16815,7 +16815,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           1
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -16843,7 +16843,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           1
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -16871,7 +16871,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           1
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -16899,7 +16899,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           1
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -16943,7 +16943,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           1
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -16975,7 +16975,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           1
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -17007,7 +17007,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           1
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -17568,7 +17568,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           2
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -17614,7 +17614,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           2
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -17756,7 +17756,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           2
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -17790,7 +17790,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           2
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -17838,7 +17838,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           2
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -18214,7 +18214,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           2
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -18324,7 +18324,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           2
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -18412,7 +18412,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           2
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -18462,7 +18462,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           2
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -18494,7 +18494,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           2
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -18618,7 +18618,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           2
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -18670,7 +18670,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           2
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -18706,7 +18706,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           2
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -18758,7 +18758,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           2
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -18794,7 +18794,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           2
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -18952,7 +18952,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           2
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -18980,7 +18980,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           2
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -19008,7 +19008,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           2
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -19052,7 +19052,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           2
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -19084,7 +19084,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           2
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -19553,7 +19553,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           3
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -19599,7 +19599,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           3
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -19741,7 +19741,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           3
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -19775,7 +19775,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           3
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -19823,7 +19823,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           3
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -20033,7 +20033,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           3
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -20079,7 +20079,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           3
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -20221,7 +20221,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           3
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -20255,7 +20255,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           3
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -20303,7 +20303,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           3
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -20587,7 +20587,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           3
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -20665,7 +20665,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           3
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -20717,7 +20717,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           3
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -20767,7 +20767,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           3
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -20859,7 +20859,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           3
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -20911,7 +20911,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           3
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -20963,7 +20963,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           3
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -21089,7 +21089,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           3
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -21117,7 +21117,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           3
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -21161,7 +21161,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           3
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -21538,7 +21538,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           4
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -21584,7 +21584,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           4
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -21726,7 +21726,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           4
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -21760,7 +21760,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           4
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -21808,7 +21808,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           4
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -22018,7 +22018,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           4
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -22064,7 +22064,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           4
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -22206,7 +22206,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           4
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -22240,7 +22240,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           4
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -22288,7 +22288,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           4
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -22498,7 +22498,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           4
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -22544,7 +22544,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           4
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -22686,7 +22686,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           4
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -22720,7 +22720,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           4
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -22768,7 +22768,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           4
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -22960,7 +22960,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           4
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -23006,7 +23006,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           4
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -23022,7 +23022,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           4
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -23100,7 +23100,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           4
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -23226,7 +23226,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           4
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -23717,7 +23717,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           5
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -23793,7 +23793,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           5
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -23829,7 +23829,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           5
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -23947,7 +23947,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           5
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -24173,7 +24173,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           5
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -24193,7 +24193,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           5
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -24211,7 +24211,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           5
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -24247,7 +24247,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           5
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -24685,7 +24685,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           5
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -24705,7 +24705,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           5
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -24723,7 +24723,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           5
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -24741,7 +24741,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           5
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -24759,7 +24759,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           5
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -24948,7 +24948,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           6
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -24984,7 +24984,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           6
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -25056,7 +25056,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           6
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -25074,7 +25074,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           6
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -25164,7 +25164,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           6
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -25204,7 +25204,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           6
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -25240,7 +25240,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           6
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -25312,7 +25312,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           6
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -25602,7 +25602,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           6
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -25676,7 +25676,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           6
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -25752,7 +25752,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           6
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -25856,7 +25856,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           6
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -25912,7 +25912,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           6
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -25950,7 +25950,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           6
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -26076,7 +26076,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           6
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -26192,7 +26192,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           6
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -26226,7 +26226,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           6
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -26691,7 +26691,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           7
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -26743,7 +26743,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           7
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -26795,7 +26795,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           7
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -26829,7 +26829,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           7
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -26899,7 +26899,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           7
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -26933,7 +26933,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           7
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -27482,7 +27482,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -27682,7 +27682,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -27742,7 +27742,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -27802,7 +27802,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -28278,7 +28278,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -28372,7 +28372,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -28390,7 +28390,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -28460,7 +28460,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -28494,7 +28494,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -28552,7 +28552,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -28588,7 +28588,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -28648,7 +28648,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -28742,7 +28742,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -28760,7 +28760,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -28892,7 +28892,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -29018,7 +29018,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -29160,7 +29160,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -29242,7 +29242,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -29292,7 +29292,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -29308,7 +29308,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -29342,7 +29342,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -29414,7 +29414,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -29502,7 +29502,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -29552,7 +29552,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -29718,7 +29718,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -29778,7 +29778,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -29836,7 +29836,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -29966,7 +29966,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -30038,7 +30038,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -30056,7 +30056,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -30090,7 +30090,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -30128,7 +30128,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -30148,7 +30148,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -30242,7 +30242,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -30338,7 +30338,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -30488,7 +30488,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -30558,7 +30558,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -30614,7 +30614,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -30930,7 +30930,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -31056,7 +31056,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -31116,7 +31116,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -31192,7 +31192,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -31288,7 +31288,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -31414,7 +31414,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -31556,7 +31556,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -31572,7 +31572,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -31604,7 +31604,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -31636,7 +31636,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -31672,7 +31672,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -31690,7 +31690,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -31760,7 +31760,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -31834,7 +31834,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -32064,7 +32064,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           8
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -32417,7 +32417,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           9
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -32511,7 +32511,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           9
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -32529,7 +32529,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           9
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -32565,7 +32565,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           9
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -32635,7 +32635,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           9
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -32759,7 +32759,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           9
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -32852,7 +32852,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           10
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -32886,7 +32886,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           10
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -33002,7 +33002,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           10
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -33086,7 +33086,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           10
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -33122,7 +33122,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           10
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -33295,7 +33295,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           11
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -33331,7 +33331,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           11
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -33367,7 +33367,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           11
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -33421,7 +33421,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           11
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -33513,7 +33513,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           11
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -33551,7 +33551,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           11
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -33607,7 +33607,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           11
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -33697,7 +33697,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           11
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -33953,7 +33953,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           11
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -34039,7 +34039,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           11
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -34129,7 +34129,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           11
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -34169,7 +34169,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           11
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -34303,7 +34303,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           11
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -34411,7 +34411,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           11
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -34533,7 +34533,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           11
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -34583,7 +34583,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           11
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -34721,7 +34721,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           11
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -35020,7 +35020,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           12
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -35072,7 +35072,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           12
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -35242,7 +35242,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           12
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -35276,7 +35276,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           12
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -35506,7 +35506,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           12
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -35984,7 +35984,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           12
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -36020,7 +36020,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           12
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -36090,7 +36090,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           12
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -36108,7 +36108,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           12
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -36160,7 +36160,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           12
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -36222,7 +36222,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           12
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -36240,7 +36240,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           12
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -36544,7 +36544,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           12
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -36832,7 +36832,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           12
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -36900,7 +36900,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           12
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -36941,7 +36941,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           13
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -37053,7 +37053,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           13
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -37089,7 +37089,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           13
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -37179,7 +37179,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           13
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -37211,7 +37211,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           13
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -37277,7 +37277,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           13
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -37363,7 +37363,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           13
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -37415,7 +37415,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           13
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -37451,7 +37451,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           13
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -37563,7 +37563,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           13
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -37619,7 +37619,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           13
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -37745,7 +37745,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           13
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -37891,7 +37891,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           13
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -37973,7 +37973,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           13
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -38009,7 +38009,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           13
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -38137,7 +38137,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           13
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -38365,7 +38365,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           13
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -38994,7 +38994,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -39240,7 +39240,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -39432,324 +39432,12 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
           1,
           4,
-          9,
-          10
-        ],
-        "m_itemNoCount": [
-          2,
-          1,
-          1,
-          1
-        ],
-        "m_cookRecipe": [
-          14
-        ],
-        "m_itemPriceAverage": 2.2
-      },
-      {
-        "m_itemNo": [
-          1,
-          5,
-          8
-        ],
-        "m_itemNoCount": [
-          2,
-          2,
-          1
-        ],
-        "m_cookRecipe": [
-          14
-        ],
-        "m_itemPriceAverage": 1.2
-      },
-      {
-        "m_itemNo": [
-          1,
-          5,
-          9
-        ],
-        "m_itemNoCount": [
-          2,
-          2,
-          1
-        ],
-        "m_cookRecipe": [
-          14
-        ],
-        "m_itemPriceAverage": 1.4
-      },
-      {
-        "m_itemNo": [
-          1,
-          5,
-          6,
-          8
-        ],
-        "m_itemNoCount": [
-          2,
-          1,
-          1,
-          1
-        ],
-        "m_cookRecipe": [
-          14
-        ],
-        "m_itemPriceAverage": 1.4
-      },
-      {
-        "m_itemNo": [
-          1,
-          5,
-          6,
-          9
-        ],
-        "m_itemNoCount": [
-          2,
-          1,
-          1,
-          1
-        ],
-        "m_cookRecipe": [
-          14
-        ],
-        "m_itemPriceAverage": 1.6
-      },
-      {
-        "m_itemNo": [
-          1,
-          5,
-          7,
-          8
-        ],
-        "m_itemNoCount": [
-          2,
-          1,
-          1,
-          1
-        ],
-        "m_cookRecipe": [
-          14
-        ],
-        "m_itemPriceAverage": 1.2
-      },
-      {
-        "m_itemNo": [
-          1,
-          5,
-          7,
-          9
-        ],
-        "m_itemNoCount": [
-          2,
-          1,
-          1,
-          1
-        ],
-        "m_cookRecipe": [
-          14
-        ],
-        "m_itemPriceAverage": 1.4
-      },
-      {
-        "m_itemNo": [
-          1,
-          5,
-          8
-        ],
-        "m_itemNoCount": [
-          2,
-          1,
-          2
-        ],
-        "m_cookRecipe": [
-          14
-        ],
-        "m_itemPriceAverage": 1.4
-      },
-      {
-        "m_itemNo": [
-          1,
-          5,
-          8,
-          9
-        ],
-        "m_itemNoCount": [
-          2,
-          1,
-          1,
-          1
-        ],
-        "m_cookRecipe": [
-          14
-        ],
-        "m_itemPriceAverage": 1.6
-      },
-      {
-        "m_itemNo": [
-          1,
-          5,
-          8,
-          10
-        ],
-        "m_itemNoCount": [
-          2,
-          1,
-          1,
-          1
-        ],
-        "m_cookRecipe": [
-          14
-        ],
-        "m_itemPriceAverage": 1.8
-      },
-      {
-        "m_itemNo": [
-          1,
-          5,
-          9,
-          10
-        ],
-        "m_itemNoCount": [
-          2,
-          1,
-          1,
-          1
-        ],
-        "m_cookRecipe": [
-          14
-        ],
-        "m_itemPriceAverage": 2
-      },
-      {
-        "m_itemNo": [
-          1,
-          6,
-          8
-        ],
-        "m_itemNoCount": [
-          2,
-          2,
-          1
-        ],
-        "m_cookRecipe": [
-          14
-        ],
-        "m_itemPriceAverage": 1.6
-      },
-      {
-        "m_itemNo": [
-          1,
-          6,
-          9
-        ],
-        "m_itemNoCount": [
-          2,
-          2,
-          1
-        ],
-        "m_cookRecipe": [
-          14
-        ],
-        "m_itemPriceAverage": 1.8
-      },
-      {
-        "m_itemNo": [
-          1,
-          6,
-          7,
-          8
-        ],
-        "m_itemNoCount": [
-          2,
-          1,
-          1,
-          1
-        ],
-        "m_cookRecipe": [
-          14
-        ],
-        "m_itemPriceAverage": 1.4
-      },
-      {
-        "m_itemNo": [
-          1,
-          6,
-          7,
-          9
-        ],
-        "m_itemNoCount": [
-          2,
-          1,
-          1,
-          1
-        ],
-        "m_cookRecipe": [
-          14
-        ],
-        "m_itemPriceAverage": 1.6
-      },
-      {
-        "m_itemNo": [
-          1,
-          6,
-          8
-        ],
-        "m_itemNoCount": [
-          2,
-          1,
-          2
-        ],
-        "m_cookRecipe": [
-          14
-        ],
-        "m_itemPriceAverage": 1.6
-      },
-      {
-        "m_itemNo": [
-          1,
-          6,
-          8,
-          9
-        ],
-        "m_itemNoCount": [
-          2,
-          1,
-          1,
-          1
-        ],
-        "m_cookRecipe": [
-          14
-        ],
-        "m_itemPriceAverage": 1.8
-      },
-      {
-        "m_itemNo": [
-          1,
-          6,
-          8,
-          10
-        ],
-        "m_itemNoCount": [
-          2,
-          1,
-          1,
-          1
-        ],
-        "m_cookRecipe": [
-          14
-        ],
-        "m_itemPriceAverage": 2
-      },
-      {
-        "m_itemNo": [
-          1,
-          6,
           9,
           10
         ],
@@ -39767,6 +39455,318 @@ var databaseAllRecipes = {
       {
         "m_itemNo": [
           1,
+          5,
+          8
+        ],
+        "m_itemNoCount": [
+          2,
+          2,
+          1
+        ],
+        "m_cookRecipe": [
+          14
+        ],
+        "m_itemPriceAverage": 1.2
+      },
+      {
+        "m_itemNo": [
+          1,
+          5,
+          9
+        ],
+        "m_itemNoCount": [
+          2,
+          2,
+          1
+        ],
+        "m_cookRecipe": [
+          14
+        ],
+        "m_itemPriceAverage": 1.4
+      },
+      {
+        "m_itemNo": [
+          1,
+          5,
+          6,
+          8
+        ],
+        "m_itemNoCount": [
+          2,
+          1,
+          1,
+          1
+        ],
+        "m_cookRecipe": [
+          14
+        ],
+        "m_itemPriceAverage": 1.4
+      },
+      {
+        "m_itemNo": [
+          1,
+          5,
+          6,
+          9
+        ],
+        "m_itemNoCount": [
+          2,
+          1,
+          1,
+          1
+        ],
+        "m_cookRecipe": [
+          14
+        ],
+        "m_itemPriceAverage": 1.6
+      },
+      {
+        "m_itemNo": [
+          1,
+          5,
+          7,
+          8
+        ],
+        "m_itemNoCount": [
+          2,
+          1,
+          1,
+          1
+        ],
+        "m_cookRecipe": [
+          14
+        ],
+        "m_itemPriceAverage": 1.2
+      },
+      {
+        "m_itemNo": [
+          1,
+          5,
+          7,
+          9
+        ],
+        "m_itemNoCount": [
+          2,
+          1,
+          1,
+          1
+        ],
+        "m_cookRecipe": [
+          14
+        ],
+        "m_itemPriceAverage": 1.4
+      },
+      {
+        "m_itemNo": [
+          1,
+          5,
+          8
+        ],
+        "m_itemNoCount": [
+          2,
+          1,
+          2
+        ],
+        "m_cookRecipe": [
+          14
+        ],
+        "m_itemPriceAverage": 1.4
+      },
+      {
+        "m_itemNo": [
+          1,
+          5,
+          8,
+          9
+        ],
+        "m_itemNoCount": [
+          2,
+          1,
+          1,
+          1
+        ],
+        "m_cookRecipe": [
+          14
+        ],
+        "m_itemPriceAverage": 1.6
+      },
+      {
+        "m_itemNo": [
+          1,
+          5,
+          8,
+          10
+        ],
+        "m_itemNoCount": [
+          2,
+          1,
+          1,
+          1
+        ],
+        "m_cookRecipe": [
+          14
+        ],
+        "m_itemPriceAverage": 1.8
+      },
+      {
+        "m_itemNo": [
+          1,
+          5,
+          9,
+          10
+        ],
+        "m_itemNoCount": [
+          2,
+          1,
+          1,
+          1
+        ],
+        "m_cookRecipe": [
+          14
+        ],
+        "m_itemPriceAverage": 2.01
+      },
+      {
+        "m_itemNo": [
+          1,
+          6,
+          8
+        ],
+        "m_itemNoCount": [
+          2,
+          2,
+          1
+        ],
+        "m_cookRecipe": [
+          14
+        ],
+        "m_itemPriceAverage": 1.6
+      },
+      {
+        "m_itemNo": [
+          1,
+          6,
+          9
+        ],
+        "m_itemNoCount": [
+          2,
+          2,
+          1
+        ],
+        "m_cookRecipe": [
+          14
+        ],
+        "m_itemPriceAverage": 1.8
+      },
+      {
+        "m_itemNo": [
+          1,
+          6,
+          7,
+          8
+        ],
+        "m_itemNoCount": [
+          2,
+          1,
+          1,
+          1
+        ],
+        "m_cookRecipe": [
+          14
+        ],
+        "m_itemPriceAverage": 1.4
+      },
+      {
+        "m_itemNo": [
+          1,
+          6,
+          7,
+          9
+        ],
+        "m_itemNoCount": [
+          2,
+          1,
+          1,
+          1
+        ],
+        "m_cookRecipe": [
+          14
+        ],
+        "m_itemPriceAverage": 1.6
+      },
+      {
+        "m_itemNo": [
+          1,
+          6,
+          8
+        ],
+        "m_itemNoCount": [
+          2,
+          1,
+          2
+        ],
+        "m_cookRecipe": [
+          14
+        ],
+        "m_itemPriceAverage": 1.6
+      },
+      {
+        "m_itemNo": [
+          1,
+          6,
+          8,
+          9
+        ],
+        "m_itemNoCount": [
+          2,
+          1,
+          1,
+          1
+        ],
+        "m_cookRecipe": [
+          14
+        ],
+        "m_itemPriceAverage": 1.8
+      },
+      {
+        "m_itemNo": [
+          1,
+          6,
+          8,
+          10
+        ],
+        "m_itemNoCount": [
+          2,
+          1,
+          1,
+          1
+        ],
+        "m_cookRecipe": [
+          14
+        ],
+        "m_itemPriceAverage": 2.01
+      },
+      {
+        "m_itemNo": [
+          1,
+          6,
+          9,
+          10
+        ],
+        "m_itemNoCount": [
+          2,
+          1,
+          1,
+          1
+        ],
+        "m_cookRecipe": [
+          14
+        ],
+        "m_itemPriceAverage": 2.2
+      },
+      {
+        "m_itemNo": [
+          1,
           7,
           8
         ],
@@ -39864,7 +39864,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -39910,7 +39910,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -40052,7 +40052,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -40128,7 +40128,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -40200,7 +40200,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -40352,7 +40352,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -40426,7 +40426,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -40482,7 +40482,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -40520,7 +40520,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -40540,7 +40540,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -40596,7 +40596,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -40614,7 +40614,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -40782,7 +40782,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -40838,7 +40838,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -40876,7 +40876,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -40894,7 +40894,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -41072,7 +41072,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -41106,7 +41106,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -41178,7 +41178,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -41286,7 +41286,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           14
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -41583,7 +41583,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -41691,7 +41691,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -41725,7 +41725,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -41799,7 +41799,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -41883,7 +41883,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -41919,7 +41919,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -41989,7 +41989,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -42003,7 +42003,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -42075,7 +42075,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -42109,7 +42109,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -42143,7 +42143,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -42217,7 +42217,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -42267,7 +42267,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -42301,7 +42301,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -42489,7 +42489,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -42545,7 +42545,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -42629,7 +42629,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -42665,7 +42665,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -42717,7 +42717,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -42787,7 +42787,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -42817,7 +42817,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -42851,7 +42851,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           15
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -43074,7 +43074,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           16
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -43198,7 +43198,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           16
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -43350,7 +43350,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           16
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -43406,7 +43406,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           16
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -43442,7 +43442,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           16
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -43512,7 +43512,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           16
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -43548,7 +43548,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           16
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -43620,7 +43620,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           16
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -43640,7 +43640,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           16
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -43676,7 +43676,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           16
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -43940,7 +43940,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           16
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -43996,7 +43996,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           16
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -44048,7 +44048,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           16
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -44086,7 +44086,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           16
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -44104,7 +44104,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           16
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -44298,7 +44298,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           16
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
@@ -44316,7 +44316,7 @@ var databaseAllRecipes = {
         "m_cookRecipe": [
           16
         ],
-        "m_itemPriceAverage": 2
+        "m_itemPriceAverage": 2.01
       },
       {
         "m_itemNo": [
