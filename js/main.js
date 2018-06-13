@@ -57,11 +57,15 @@ function buildRecipesStructure(){
 		availablePkmn = availablePkmn.split(', ');
 		availablePkmn = removeDuplicates(availablePkmn);
 		availablePkmn = availablePkmn.join(', ');
-		elements += '<div class="recipe" data-recipe="' + recipe.m_no + '">';
-		elements += '<div class="recipe-image"><img src="assets/recipes-image/'+recipe.m_iconPath+'.jpg"></div>'; 
-		elements += '<div class="recipe-name">'+recipe.__name+'</div>';
-		elements += '<div class="recipe-target">'+recipe._poke+'</div>';
-		elements += '<div class="recipe-pkmn">'+availablePkmn+'</div>';
+		elements += '<div class="collection-item avatar recipe">';
+		elements += '<img src="assets/recipes-image/'+recipe.m_iconPath+'.jpg" class="circle">'; 
+		elements += '<span class="title">'+recipe.__name+'</span>';
+		elements += '<p class="recipe-target">'+recipe._poke+'</p>';
+		//elements += '<p class="recipe-pkmn">'+availablePkmn+'</p>';
+		elements += '<a data-recipe="' + recipe.m_no + '" class="waves-effect waves-light btn-small get-recipes-btn">Get recipes</a><a href="#modal'+recipe.m_no+'" class="waves-effect waves-light btn-small get-pkmn-btn modal-trigger">Get Pokémon</a>';
+		elements += '</div>';
+		elements += '<div id="modal'+recipe.m_no+'" class="modal bottom-sheet">';
+		elements += '<b>Available Pokémon in '+recipe.__name+'</b><p>'+availablePkmn+'</p>';
 		elements += '</div>';
 	});
 	return elements;
@@ -100,7 +104,7 @@ function getAvailableRecipes(recipeId){
 	})
 	var htmlRecipes = showCurrentRecipe(availableRecipes, recipeId);
 	$('.filtered-recipe-list').html(htmlRecipes);
-	setFrontPage('filtered-recipe-page');
+	setFrontPage('recipes');
 }
 
 function showCurrentRecipe(recipes, recipeId){
@@ -148,10 +152,7 @@ function compare(a,b) {
 }
 
 function setFrontPage(page){
-	$('body section').removeClass('old-page');
-	$('body section.active').addClass('old-page');
-	$('body section').removeClass('active');
-	$('.'+page).addClass('active');
+	$('.tabs').tabs('select', page);
 }
 
 function removeDuplicates(list) {
@@ -162,7 +163,7 @@ function removeDuplicates(list) {
 	return result;
 }
 
-$(document).on('click', '.recipe', function(){
+$(document).on('click', '.recipe .get-recipes-btn', function(){
 	var index = $(this).data('recipe');
 	if(index !== undefined){
 		getAvailableRecipes(index);
@@ -179,4 +180,4 @@ $(document).on('click', '.backToHomepage', function(){
 
 //Build HTML layout
 $('.recipes').append(buildRecipesStructure);
-$('.ingredients').append(buildIngredientsStructure);
+//$('.ingredients').append(buildIngredientsStructure);

@@ -1,4 +1,20 @@
-section{
+@font-face {
+    font-family: roboto;
+    font-weight: 300;
+    src: url(../fonts/Roboto-Light.ttf);
+}
+
+@font-face {
+    font-family: roboto;
+    font-weight: 700;
+    src: url(../fonts/Roboto-Bold.ttf);
+}
+
+body{
+	font-family: roboto;
+}
+
+/*section{
 	position: absolute;
 	left: 100%;
 	right: 0;
@@ -18,13 +34,38 @@ section.active{
 	left: 0;
 	opacity: 1;
 	width: 100%;
+}*/
+
+.tabs{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: 999;
 }
 
-.backToHomepage{
+.collection .collection-item.avatar p.recipe-target{
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+.get-recipes-btn{
+	margin-right: 15px;
+}
+
+.collection .collection-item.avatar .title{
+	font-size: 18px;
+}
+
+.modal.bottom-sheet{
+	outline: 0!important;
+}
+
+/* .backToHomepage{
 	font-size: 24px;
 }
 
-/* Homepage */
+Homepage
 
 .recipe{
 	display: grid;
@@ -40,7 +81,7 @@ section.active{
 	padding: 15px;
 }
 
-/* Filtered recipe page */
+Filtered recipe page
 .filtered-recipe{
 	display: grid;
 	grid-template-columns: 50% 5% 45%;
@@ -53,5 +94,5 @@ section.active{
 
 .filtered-recipe > div{
 	padding: 15px;
-}
+} */
 

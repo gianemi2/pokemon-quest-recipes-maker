@@ -2,43 +2,52 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Recipes Creator</title>
-	<link rel="stylesheet" href="style.css">
-	<script src="jquery-3.3.1.min.js"></script>
+	<link rel="stylesheet" href="css/materialize.min.css">
+	<link rel="stylesheet" href="css/style.css">
+	<script src="js/jquery-3.3.1.min.js"></script>
+	<script src="js/materialize.min.js"></script>
 	<script src="database/allRecipesDatabase.js"></script>
 	<script src="database/ingredientsDatabase.js"></script>
 	<script src="database/recipeDatabase.js"></script>
+	<script src="js/initialize.js"></script>
 </head>
 <body>
-	<section class="homepage active">
-		<h1>Recipes creator</h1>
-		<div class="ingredients" style="display: flex;">
-		
-		</div>
-		<div class="recipes">
-			<div class="recipe">
-				<div class="recipe-image"><b>Recipe's image</b></div>
-				<div class="recipe-name"><b>Recipe's name</b></div>
-				<div class="recipe-target"><b>Attracted PKMN type</b></div>
-				<div class="recipe-pkmn"><b>Available PKMN</b></div>
+	<div class="row">
+		<ul class="tabs">
+			<li class="tab col s3"><a class="active" href="#homepage">Homepage</a></li>
+			<li class="tab col s3"><a href="#recipes">Test 2</a></li>
+			<li class="tab col s3"><a href="#test4">Test 4</a></li>
+		</ul>
+		<div id="homepage" class="col s12">
+			<h1>Recipes creator</h1>
+			<div class="ingredients" style="display: flex;">
+
 			</div>
-		</div>
-	</section>
-	<section class="filtered-recipe-page">
-		<button class="backToHomepage">Back to homepage</button>
-		<h1>List of all recipes</h1>
-		<div class="filtered-recipes-table">
-			<div class="filtered-recipe-head">
-				<div class="filtered-recipe">
-					<div class="recipe-ingredients"><b>Recipe's ingredients</b></div>
-					<div class="sum"><b>Difficult</b></div>
-					<div class="available-pkmn"><b>Catchable Pokemons</b></div>
-				</div>
-			</div>
-			<div class="filtered-recipe-list">
+			<ul class="collection recipes">
 				
-			</div>
+			</ul>
 		</div>
-	</section>
+		<div id="recipes" class="col s12">
+			<section class="filtered-recipe-page">
+				<button class="backToHomepage">Back to homepage</button>
+				<h1>List of all recipes</h1>
+				<div class="filtered-recipes-table">
+					<div class="filtered-recipe-head">
+						<div class="filtered-recipe">
+							<div class="recipe-ingredients"><b>Recipe's ingredients</b></div>
+							<div class="sum"><b>Difficult</b></div>
+							<div class="available-pkmn"><b>Catchable Pokemons</b></div>
+						</div>
+					</div>
+					<div class="filtered-recipe-list">
+
+					</div>
+				</div>
+			</section>
+		</div>
+		<div id="test3" class="col s12">Test 3</div>
+		<div id="test4" class="col s12">Test 4</div>
+	</div>
 </body>
-<script src="main.js"></script>
+<script src="js/main.js"></script>
 </html>
