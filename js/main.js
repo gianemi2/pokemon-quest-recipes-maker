@@ -152,6 +152,9 @@ function compare(a,b) {
 }
 
 function setFrontPage(page){
+	if($('a[href="#'+page+'"]').parent().hasClass('disabled')){
+		$('a[href="#'+page+'"]').parent().removeClass('disabled');
+	}
 	$('.tabs').tabs('select', page);
 }
 

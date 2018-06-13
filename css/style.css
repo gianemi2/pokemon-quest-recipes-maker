@@ -36,12 +36,37 @@ section.active{
 	width: 100%;
 }*/
 
+h1{
+    margin: 30px 0 10px 0;
+    font-size: 2.5rem;
+    font-weight: 700;
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 10px;
+}
+
 .tabs{
 	position: fixed;
 	bottom: 0;
 	left: 0;
 	right: 0;
 	z-index: 999;
+}
+
+.tabs .tab a{
+    line-height: 21px;
+    font-size: 12px;
+    text-transform: initial;
+    letter-spacing: 0.7px;
+    color: rgba(128, 128, 128, 0.8);
+}
+
+.tabs .tab a i{
+	display: block;
+	margin-top: 4px;
+}
+
+.tabs .tab.disabled a, .tabs .tab.disabled a:hover{
+	color: rgba(128, 128, 128, 0.4);
 }
 
 .collection .collection-item.avatar p.recipe-target{
@@ -57,8 +82,24 @@ section.active{
 	font-size: 18px;
 }
 
+.collection.recipes{
+	border: none;
+	overflow: initial;
+}
+
+.collection .collection-item.avatar{
+    box-shadow: 0 8px 17px 2px rgba(0,0,0,0.1), 0 3px 14px 2px rgba(0,0,0,0.01), 0 5px 5px -3px rgba(0,0,0,0.01);
+    margin-bottom: 30px;
+    border: 1px solid #e0e0e0;
+    border-radius: 15px;
+}
+
 .modal.bottom-sheet{
 	outline: 0!important;
+}
+
+.btn-small{
+	padding: 0 10px;
 }
 
 /* .backToHomepage{
