@@ -7,6 +7,7 @@
 	<link rel="stylesheet" href="css/style.css">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	<script src="js/jquery-3.3.1.min.js"></script>
+	<script src="cordova.js"></script>
 	<script src="js/materialize.min.js"></script>
 	<script src="database/allRecipesDatabase.js"></script>
 	<script src="database/ingredientsDatabase.js"></script>
@@ -14,46 +15,57 @@
 	<script src="js/initialize.js"></script>
 </head>
 <body>
-	<div class="row">
-		<ul class="tabs">
-			<li class="tab col s3"><a class="active" href="#homepage"><i class="material-icons">home</i>Homepage</a></li>
-			<li class="tab col s3 disabled"><a href="#recipes"><i class="material-icons">restaurant</i>Recipes</a></li>
-			<!--<li class="tab col s3"><a href="#credits"><i class="material-icons">local_play</i>Credits</a></li>-->
-		</ul>
-		<div id="homepage" class="col s12">
-			<h1>Recipes creator</h1>
+	<script type="text/javascript" src="js/admob_simple.js"></script>
+	<nav id="navigation">
+		<h1>Recipes creator</h1>
+	</nav>
+	<ul id="slide-out" class="sidenav">
+		<li><a class="subheader">Recipes</a></li>
+		<li>
+			<a class="waves-effect sidenav-close" href="#homepage"><i class="material-icons">restaurant</i>Recipes list</a>
+		</li>
+		<li>
+			<a class="waves-effect sidenav-close" href="#pokemon-search"><i class="material-icons">search</i>Search by Pokemon</a>
+		</li>
+		<li><a class="subheader">Other</a></li>
+		<li>
+			<a class="waves-effect sidenav-close"><i class="material-icons">attach_money</i>Remove Ads</a>
+		</li>
+		<li>
+			<a class="waves-effect sidenav-close" href="#credits"><i class="material-icons">code</i>Credits</a>
+		</li>
+	</ul>
+	<div id="app-body">
+		<div id="homepage" data-title="Recipes creator" class="active-section">
 			<div class="ingredients" style="display: flex;">
-
+				
 			</div>
 			<ul class="collection recipes">
 				
 			</ul>
 		</div>
-		<div id="recipes" class="col s12">
+		<div id="recipes" data-title="" class="sub-page">
 			<section class="filtered-recipe-page">
-				<h1></h1>
 				<div class="filtered-recipes-table">
 					<div class="filtered-recipe-list">
 						<ul class="collapsible">
-							<li>
-								<div class="collapsible-header">First</div>
-								<div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
-							</li>
-							<li>
-								<div class="collapsible-header">Second</div>
-								<div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
-							</li>
-							<li>
-								<div class="collapsible-header">Third</div>
-								<div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
-							</li>
 						</ul>
 					</div>
 				</div>
 			</section>
 		</div>
-		<!--<div id="credits" class="col s12">Test 4</div>-->
+		<div id="pokemon-search" data-title="Search by Pokemon">
+			<div class="input-field col s12">
+				<i class="material-icons prefix">search</i>
+				<input type="text" id="autocomplete-input" class="pkmn-autocomplete">
+				<label for="autocomplete-input">Search by Pokemon name</label>
+				<a id="startPkmnSearch" class="waves-effect waves-light btn">Search</a>
+			</div>
+			<div class="collection-container"></div>
+		</div>
 	</div>
+	<!--<div id="credits" class="col s12">Test 4</div>-->
 </body>
+<script src="js/pagination.js"></script>
 <script src="js/main.js"></script>
 </html>
