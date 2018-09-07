@@ -1,42 +1,48 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, viewport-fit=cover">
 	<title>Recipes Creator</title>
 	<link rel="stylesheet" href="css/materialize.min.css">
 	<link rel="stylesheet" href="css/style.css">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-	<script src="js/jquery-3.3.1.min.js"></script>
+	<script src="js/includes/jquery-3.3.1.min.js"></script>
 	<script src="cordova.js"></script>
-	<script src="js/materialize.min.js"></script>
+	<script src="js/includes/materialize.min.js"></script>
 	<script src="database/allRecipesDatabase.js"></script>
 	<script src="database/ingredientsDatabase.js"></script>
 	<script src="database/recipeDatabase.js"></script>
+	<script src="database/pokemonDatabase.js"></script>
+	<script src="database/stringsDatabase.js"></script>
+	<script src="js/includes/list.min.js"></script>
 	<script src="js/initialize.js"></script>
 </head>
 <body>
-	<script type="text/javascript" src="js/admob_simple.js"></script>
+	<script src="js/includes/admob_simple.js"></script>
+	<script src="js/includes/initialize_store.js"></script>
 	<nav id="navigation">
-		<h1>Recipes creator</h1>
+		<h1>All recipes</h1>
+		<span style="width: 64px;"></span>
 	</nav>
 	<ul id="slide-out" class="sidenav">
-		<li><a class="subheader">Recipes</a></li>
+		<li><a class="subheader">Guides</a></li>
 		<li>
-			<a class="waves-effect sidenav-close" href="#homepage"><i class="material-icons">restaurant</i>Recipes list</a>
+			<a class="waves-effect sidenav-close navigation-link" href="#homepage"><i class="material-icons">restaurant</i>Recipes list</a>
 		</li>
 		<li>
-			<a class="waves-effect sidenav-close" href="#pokemon-search"><i class="material-icons">search</i>Search by Pokemon</a>
+			<a class="waves-effect sidenav-close navigation-link" href="#pokedex"><i class="material-icons">search</i>Pokédex</a>
 		</li>
 		<li><a class="subheader">Other</a></li>
-		<li>
-			<a class="waves-effect sidenav-close"><i class="material-icons">attach_money</i>Remove Ads</a>
+		<li id="removeAdsLink">
+			<a class="waves-effect sidenav-close is-free navigation-link" href="#remove-ads"><i class="material-icons attach_money"></i>Remove Ads</a>
+			<a class="waves-effect is-premium disabled"><i style="color: red;" class="material-icons favorite">favorite</i>You're a supporter</a>
 		</li>
 		<li>
-			<a class="waves-effect sidenav-close" href="#credits"><i class="material-icons">code</i>Credits</a>
+			<a class="waves-effect sidenav-close navigation-link" href="#credits"><i class="material-icons">code</i>Credits</a>
 		</li>
 	</ul>
 	<div id="app-body">
-		<div id="homepage" data-title="Recipes creator" class="active-section">
+		<div id="homepage" data-title="All recipes" class="active-section">
 			<div class="ingredients" style="display: flex;">
 				
 			</div>
@@ -54,16 +60,48 @@
 				</div>
 			</section>
 		</div>
-		<div id="pokemon-search" data-title="Search by Pokemon">
+		<div id="pokedex" data-title="Pokedex">
 			<div class="input-field col s12">
 				<i class="material-icons prefix">search</i>
 				<input type="text" id="autocomplete-input" class="pkmn-autocomplete">
 				<label for="autocomplete-input">Search by Pokemon name</label>
-				<a id="startPkmnSearch" class="waves-effect waves-light btn">Search</a>
+				<i class="material-icons close hidden" id="flushDex">close</i>
 			</div>
-			<div class="collection-container"></div>
+			<div class="collection-container">
+				
+			</div>
+		</div>
+		<div id="remove-ads" data-title="Remove Ads">
+		</div>
+		<div id="credits" data-title="Special thanks to" data-ads="false">
+			<h4><i class="material-icons">code</i> Development</h4>
+			<ul>
+				<li>
+					<a href="http://philrousse.ca/" target="_blank">Philippe Allard-Rousse</a>
+					<div>Python made JSON with every available recipe combination.</div>
+				</li>
+				<li>
+					<a href="https://marcogiannini.net" target="_blank">Me</a>
+					<div>UI / UX / DEV</div>
+				</li>
+			</ul>
+			<h4><i class="material-icons">restaurant</i> Recipes</h4>
+			<ul>
+				<li>
+					<a href="http://www.ign.com/wikis/pokemon-quest/" target="_blank">IGN</a>
+					<div>Every recipe in the game and every pokemon findable inside it.</div>
+				</li>
+			</ul>
+			<h4><i class="material-icons">image</i> Assets</h4>
+			<ul>
+				<li>
+					<a href="https://www.serebii.net/index2.shtml" target="_blank">Serebii</a>
+					<div>Every Pokémon image (Quest style)</div>
+				</li>
+			</ul>
 		</div>
 	</div>
+	<div class="modals"></div>
 	<!--<div id="credits" class="col s12">Test 4</div>-->
 </body>
 <script src="js/pagination.js"></script>
